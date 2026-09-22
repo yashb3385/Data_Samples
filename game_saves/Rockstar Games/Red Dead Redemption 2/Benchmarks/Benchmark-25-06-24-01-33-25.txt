@@ -1,0 +1,40 @@
+Frames Per Second (Higher is better) Min, Max, Avg
+Pass 0, 36.643059, 116.013313, 66.394699
+
+Time in milliseconds(ms). (Lower is better). Min, Max, Avg
+Test 0, 8.619700, 27.290300, 15.061443
+
+Frames under 16ms (for 60fps): 
+Test 0: 119/121 frames (98.35%)
+
+Frames under 33ms (for 30fps): 
+Test 0: 121/121 frames (100.00%)
+
+Percentiles in ms for pass 0
+50%,	15.00
+75%,	15.00
+80%,	15.00
+85%,	15.00
+90%,	15.00
+91%,	15.00
+92%,	15.00
+93%,	15.00
+94%,	15.00
+95%,	15.00
+96%,	15.00
+97%,	15.00
+98%,	15.00
+99%,	15.00
+
+=== SYSTEM ===
+CPU: 12th Gen Intel(R) Core(TM) i5-12450H
+	Physical Cores: 8
+	Logical Cores: 12
+
+GPU: NVIDIA NVIDIA GeForce RTX 2050	API: VULKAN	VRAM: 4095 MB
+
+System RAM: 16087 MB
+
+
+=== SETTINGS ===
+

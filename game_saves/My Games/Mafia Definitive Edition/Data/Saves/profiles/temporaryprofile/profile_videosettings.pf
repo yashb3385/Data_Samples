@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<C_SaveDataUnwrapped>
+	<m_Blocks>
+		<S_VideoSettingsSaveBlock>
+			<m_GameplayFOVMultiplier>1.23076928e+00</m_GameplayFOVMultiplier>
+			<m_GameplayDepthOfFieldEnabled>true</m_GameplayDepthOfFieldEnabled>
+			<m_GlobalSettings>4</m_GlobalSettings>
+			<m_GamaCorrection>1.70000005e+00</m_GamaCorrection>
+			<m_SSAO>2</m_SSAO>
+			<m_ShadowQuality>1</m_ShadowQuality>
+			<m_GeometryDetail>1</m_GeometryDetail>
+			<m_VegetationQuality>1</m_VegetationQuality>
+			<m_DecalsQuality>1</m_DecalsQuality>
+			<m_DirectLightingQuality>1</m_DirectLightingQuality>
+			<m_IndirectLightingQuality>1</m_IndirectLightingQuality>
+			<m_AntiAliasing>1</m_AntiAliasing>
+			<m_ReflectionQuality>1</m_ReflectionQuality>
+			<m_VolumetricEffects>0</m_VolumetricEffects>
+			<m_VSync>true</m_VSync>
+			<m_MotionBlur>true</m_MotionBlur>
+			<m_FPS>2</m_FPS>
+			<m_IsFullscreen>true</m_IsFullscreen>
+			<m_ResolutionWidth>1600</m_ResolutionWidth>
+			<m_ResolutionHeight>900</m_ResolutionHeight>
+			<m_WindowBorder>true</m_WindowBorder>
+			<m_BlackAndWhite>false</m_BlackAndWhite>
+			<m_Id>VideoSettings</m_Id>
+			<m_Layer>0</m_Layer>
+		</S_VideoSettingsSaveBlock>
+	</m_Blocks>
+</C_SaveDataUnwrapped>1Ka

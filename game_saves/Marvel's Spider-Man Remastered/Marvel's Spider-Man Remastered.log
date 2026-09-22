@@ -1,0 +1,365 @@
+20:32:41:743 (00005196) > [Startup] Marvel's Spider-Man Remastered
+20:32:41:743 (00005196) > [Startup] ==============
+20:32:41:743 (00005196) > [Startup] 
+20:32:41:743 (00005196) > [Startup] Build: v1.812.1.0
+20:32:41:743 (00005196) > [Startup] Windows 11.0 (build 26200)
+20:32:41:743 (00005196) > [Startup] Game directory: C:\Users\<username>\OneDrive\Documents\Marvel's Spider-Man Remastered\
+20:32:41:743 (00005196) > [Startup] 
+20:32:41:743 (00005196) > [Startup] Memory statistics:
+20:32:41:743 (00005196) > [Startup]   Total RAM = 15.7 GB (16087 MB)
+20:32:41:743 (00005196) > [Startup]   Avail RAM = 8.6 GB (8839 MB)
+20:32:41:743 (00005196) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+20:32:41:743 (00005196) > [Startup]   Avail virtual memory = 131062.7 GB (134208162 MB)
+20:32:41:743 (00005196) > [Startup]   Total page file = 26.7 GB (27351 MB)
+20:32:41:743 (00005196) > [Startup]   Avail page file = 11.7 GB (11976 MB)
+20:32:41:743 (00005196) > [Startup] 
+20:32:41:743 (00005196) > [NxApp] PreInit
+20:32:41:743 (00005196) > [SwapChain] Initializing...
+20:32:41:743 (00005196) > [DXGI] Initializing...
+20:32:41:772 (00005196) > [DXGI] Successfully initialized.
+20:32:41:772 (00005196) > [Render] Enumerating adapters:
+20:32:41:772 (00005196) > [Render] 	Adapter 0:
+20:32:41:772 (00005196) > [Monitor] 		Description             : NVIDIA GeForce RTX 2050
+20:32:41:772 (00005196) > [Monitor] 		Vendor                  : nVidia (10de)
+20:32:41:772 (00005196) > [Monitor] 		Device                  : 25ad
+20:32:41:772 (00005196) > [Monitor] 		Sub system              : 13b61462
+20:32:41:772 (00005196) > [Monitor] 		Revision                : 161
+20:32:41:772 (00005196) > [Monitor] 		Dedicated Video Memory  : 3962 MB
+20:32:41:772 (00005196) > [Monitor] 		Dedicated System Memory : 0000 MB
+20:32:41:772 (00005196) > [Monitor] 		Shared System Memory    : 8043 MB
+20:32:41:772 (00005196) > [Monitor] 
+20:32:41:772 (00005196) > [Render] Loading NVAPI...
+20:32:41:779 (00005196) > [Render] Done loading NVAPI
+20:32:41:779 (00005196) > [Render] 	Adapter 1:
+20:32:41:779 (00005196) > [Monitor] 		Description             : Intel(R) UHD Graphics
+20:32:41:779 (00005196) > [Monitor] 		Vendor                  : Intel (8086)
+20:32:41:779 (00005196) > [Monitor] 		Device                  : 46a3
+20:32:41:779 (00005196) > [Monitor] 		Sub system              : 13b61462
+20:32:41:779 (00005196) > [Monitor] 		Revision                : 12
+20:32:41:779 (00005196) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+20:32:41:779 (00005196) > [Monitor] 		Dedicated System Memory : 0000 MB
+20:32:41:779 (00005196) > [Monitor] 		Shared System Memory    : 8043 MB
+20:32:41:779 (00005196) > [Monitor] 
+20:32:41:779 (00005196) > [Render] 	Adapter 2:
+20:32:41:779 (00005196) > [Monitor] 		Description             : Microsoft Basic Render Driver
+20:32:41:779 (00005196) > [Monitor] 		Vendor                  : Unknown (1414)
+20:32:41:779 (00005196) > [Monitor] 		Device                  : 8c
+20:32:41:779 (00005196) > [Monitor] 		Sub system              : 0
+20:32:41:779 (00005196) > [Monitor] 		Revision                : 0
+20:32:41:779 (00005196) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+20:32:41:779 (00005196) > [Monitor] 		Dedicated System Memory : 0000 MB
+20:32:41:779 (00005196) > [Monitor] 		Shared System Memory    : 8043 MB
+20:32:41:779 (00005196) > [Monitor] 
+20:32:41:779 (00005196) > [Render] Enumerating monitors:
+20:32:41:779 (00005196) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+20:32:41:779 (00005196) > [Render] 
+20:32:41:779 (00005196) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+20:32:41:779 (00005196) > [SwapChain] Successfully initialized.
+20:32:41:779 (00005196) > [Render] Enumerating Display Modes:
+20:32:41:780 (00005196) > [Render] Querying NVAPI for Surround modes
+20:32:41:780 (00005196) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+20:32:41:780 (00005196) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 2050(1))' (0000000000010001):
+20:32:41:780 (00005196) > [Render] 		- Mode  0 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode  2 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode  4 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode  5 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode  6 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode  7 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode  8 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode  9 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 10 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 11 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 12 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 13 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 14 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 15 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 16 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 17 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 18 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 19 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 20 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 21 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 22 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 23 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 24 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 25 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 26 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 27 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 28 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 29 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 30 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] 		- Mode 31 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+20:32:41:780 (00005196) > [Render] ***** Additional Monitor Output Info *****
+20:32:41:780 (00005196) > [Render] 		BitsPerColor: 8
+20:32:41:780 (00005196) > [Render] 		Primaries: R=0.5898;0.3496  G=0.3301;0.5547  B=0.1533;0.1191  White-Point=0.3135;0.3291
+20:32:41:780 (00005196) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+20:32:41:780 (00005196) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+20:32:41:780 (00005196) > [Render] ******************************************
+20:32:41:780 (00005196) > [Render] 
+20:32:42:832 (00005196) > [D3D] Max supported feature level: 11.0
+20:32:42:832 (00005196) > [Render] Disabled D3D12 experimentals
+20:32:43:253 (00005196) > [Render] VMEM Budget: 3367 MB
+20:32:43:253 (00005196) > [Render] VMEM Avaialbe: 3343 MB
+20:32:43:253 (00005196) > [Render] GPU node count: 1
+20:32:43:274 (00005196) > [NxApp] PreInit successful.
+20:32:44:369 (00005196) > [NxUpscaler] DLSS init, code = 0x00000001, info: NVSDK_NGX_Result_Success
+20:32:44:369 (00005196) > [NxUpscaler] DLSS allocate params, code = 0x00000001, info: NVSDK_NGX_Result_Success
+20:32:44:374 (00005196) > [NxApp] Querying GPU Driver Info...
+20:32:44:375 (00005196) > [NxApp] Enumerating available display adapters:
+20:32:44:392 (00005196) > [NxApp] 		Intel(R) UHD Graphics
+20:32:44:392 (00005196) > [NxApp] 		NVIDIA GeForce RTX 2050 (active)
+20:32:44:392 (00005196) > [NxApp] Successfully found GPU Driver Info
+20:32:47:039 (00005196) > [NxApp] Querying GPU Driver Info...
+20:32:47:039 (00005196) > [NxApp] Enumerating available display adapters:
+20:32:47:045 (00005196) > [NxApp] 		Intel(R) UHD Graphics
+20:32:47:045 (00005196) > [NxApp] 		NVIDIA GeForce RTX 2050 (active)
+20:32:47:045 (00005196) > [NxApp] Successfully found GPU Driver Info
+20:32:47:045 (00005196) > [NxApp] Driver Desc: NVIDIA GeForce RTX 2050
+20:32:47:045 (00005196) > [NxApp] Driver Version: 616.56
+20:32:47:045 (00005196) > [**************************************************Display + Graphics Settings**************************************************] 
+20:32:47:045 (00005196) > [Settings] DirectX Version: 12
+20:32:47:045 (00005196) > [Settings] Window mode: Exclusive fullscreen
+20:32:47:045 (00005196) > [Settings] Fullscreen display mode:
+20:32:47:045 (00005196) > [Settings] 	Displaying on monitor: 0
+20:32:47:045 (00005196) > [Settings] 	Resolution: 1600x900
+20:32:47:045 (00005196) > [Settings] Settings Refresh rate: 60
+20:32:47:045 (00005196) > [Settings] 	OS reported Refresh rate: 144
+20:32:47:045 (00005196) > [Settings] 	VSync: On
+20:32:47:045 (00005196) > [Settings] 	HDR: Off
+20:32:47:045 (00005196) > [Settings] 	Resolution modifier 1.000000
+20:32:47:045 (00005196) > [Settings] 	Dynamic resolution FPS target: 0
+20:32:47:045 (00005196) > [Settings] Anti aliasing: TAA
+
+20:32:47:045 (00005196) > [Settings] Upscale method: DLSS
+
+20:32:47:045 (00005196) > [Settings] Upscale quality: Quality
+
+20:32:47:045 (00005196) > [Settings] Graphics Options:
+20:32:47:045 (00005196) > [Settings] 	RT Reflections: Off
+20:32:47:045 (00005196) > [Settings] 	Texture Quality: Medium
+20:32:47:045 (00005196) > [Settings] 	Texture Filtering: Anisotropic16x
+20:32:47:045 (00005196) > [Settings] 	Shadow Quality: Medium
+20:32:47:045 (00005196) > [Settings] 	Depth of Field: Medium
+20:32:47:045 (00005196) > [Settings] 	Level of Detail: High
+20:32:47:045 (00005196) > [Settings] 	Vehicle Detail: Medium
+20:32:47:045 (00005196) > [Settings] 	Crowd Detail: Low
+20:32:47:045 (00005196) > [Settings] 	Hair Quality: Low
+20:32:47:045 (00005196) > [Settings] 	Ambient Occlusion: SSAO
+20:32:47:045 (00005196) > [Settings] 	Screen Space Reflections: Normal
+20:32:47:045 (00005196) > [Settings] 	Particle Lighting: Low
+
+20:32:47:045 (00005196) > [Settings] 	Bloom: On
+20:32:47:045 (00005196) > [Settings] 	Vignette: On
+20:32:47:045 (00005196) > [Settings] 	Chromatic Aberration: On
+20:32:47:045 (00005196) > [Settings] 	Motion Blur: 1.000000
+20:32:47:045 (00005196) > [Settings] 	FOV Correction: 1.050000
+20:32:47:045 (00005196) > [Settings] 	Film Grain Strength: 1.000000
+20:32:47:045 (00005196) > [Settings] 	Lens Flares: On
+20:32:47:045 (00005196) > [Settings] 	Screen Effects: On
+20:32:47:045 (00005196) > [**************************************************Display + Graphics Settings**************************************************] 
+20:32:47:045 (00005196) > [NxApp] Creating window...
+20:32:47:050 (00007612) > [GameWindow] UpdateState bVisible true
+20:32:47:061 (00007612) > [Input] Keyboard language: "English (United States)" (id: 1033)
+20:32:47:061 (00007612) > [Input] Keyboard physical layout: "India" (id: 00004009)
+20:32:47:062 (00007612) > [Input] Joystick            "Controller (Cosmic Byte Ares Wired Controller)"   product 654 vendor 1118 version 0 usage 5 usagePage 1 xinput yes
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant consumer control device"   product 2590 vendor 32903 version 512 usage 1 usagePage 12
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant consumer control device"   product 2590 vendor 32903 version 512 usage 1 usagePage 12
+20:32:47:062 (00007612) > [Input] Joystick            ""   product 35111 vendor 10874 version 1 usage 1 usagePage 65280 xinput no
+20:32:47:062 (00007612) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant touch pad"   product 12458 vendor 1267 version 1 usage 5 usagePage 13
+20:32:47:062 (00007612) > [Input] Joystick            ""   product 35111 vendor 10874 version 1 usage 1 usagePage 12 xinput no
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant consumer control device"   product 2590 vendor 32903 version 512 usage 1 usagePage 12
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 12458 vendor 1267 version 1 usage 1 usagePage 65280
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 2590 vendor 32903 version 512 usage 16 usagePage 65459
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant consumer control device"   product 2590 vendor 32903 version 512 usage 1 usagePage 12
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant consumer control device"   product 0 vendor 1118 version 0 usage 1 usagePage 12
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant consumer control device"   product 2590 vendor 32903 version 512 usage 1 usagePage 12
+20:32:47:062 (00007612) > [Input] Human Input Device  "Portable Device Control device"   product 2590 vendor 32903 version 512 usage 13 usagePage 1
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant consumer control device"   product 2590 vendor 32903 version 512 usage 1 usagePage 12
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 2590 vendor 32903 version 512 usage 16 usagePage 65459
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 0 vendor 0 version 0 usage 12 usagePage 1
+20:32:47:062 (00007612) > [Input] Human Input Device  "HID-compliant consumer control device"   product 2590 vendor 32903 version 512 usage 1 usagePage 12
+20:32:47:062 (00007612) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 8
+20:32:47:062 (00007612) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 154
+20:32:47:062 (00007612) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+20:32:47:062 (00007612) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+20:32:47:062 (00007612) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+20:32:47:062 (00007612) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+20:32:47:062 (00007612) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+20:32:47:062 (00007612) > [Input] Mouse               "HID-compliant mouse"   id 128 buttons 2 sampleRate 0 horizontalWheel no
+20:32:47:062 (00007612) > [Input] Mouse               "PS/2 Compatible Mouse"   id 2 buttons 3 sampleRate 100 horizontalWheel no
+20:32:47:071 (00007612) > [Input] Using LibScePad
+20:32:47:076 (00007612) > [Input] Gamepads connected: 0 -> 1
+20:32:47:076 (00007612) > [Input] Gamepad for main player: 8
+20:32:47:077 (00007612) > [XInput] Enumerating available xusb hid devices:
+
+20:32:47:080 (00007612) > [Xinput] Found device: {D61CA365-5AF4-4486-998B-9DB4734C6CA3}(USB\VID_045E&PID_028E&REV_0036),Xbox 360 Controller for Windows 
+	USB\VID_045E&PID_028E\00006F64096B22E0
+
+20:32:47:081 (00007612) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_028E&IG_01),USB Input Device 
+	USB\VID_045E&PID_028E&IG_01\6&25D75759&1&01
+
+20:32:47:084 (00005196) > [NxApp] Window created.
+20:32:47:084 (00005196) > [NxApp] Initializing swapchain...
+20:32:47:084 (00026820) > [SwapChain] Creating...
+20:32:47:084 (00026820) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1600x900
+20:32:47:091 (00007612) > [Input] new Windows.Gaming.Input raw-controller found 45e 28e
+
+20:32:47:130 (00026820) > [DXGI] Created swapchain.
+20:32:48:568 (00026820) > [DXGI] Set-up exclusive fullscreen 
+20:32:48:568 (00026820) > [NxDXGI] Creating exclusive fullscreen swapchain with refresh rate 60
+20:32:50:126 (00026820) > [SwapChain] Successfully created.
+20:32:50:126 (00026820) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1600x900
+20:32:50:126 (00005196) > [NxApp] Swapchain initialized
+20:32:50:126 (00005196) > [NxApp] Initializing renderer...
+20:32:50:128 (00005196) > [NxApp] Renderer initialized
+20:32:50:176 (00005196) > [Render] File cache.pso contains 8933 pipelines and 0 duplicates
+20:32:50:177 (00005196) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man Remastered\\cache.pso contains 17 pipelines and 0 duplicates
+20:32:50:177 (00005196) > [Render] Support for Shader Model 6.6: Yes
+20:32:50:177 (00005196) > [Render] Is UMA: No Is Cache Coherent: No
+20:32:50:177 (00005196) > [Render] Using Cpu Buffer Optimize: No
+20:32:52:081 (00005196) > [Input] Windows.Gaming.Input controller connected. index: 0
+20:32:52:081 (00005196) > [Input] Gamepads connected: 1 -> 2
+20:32:52:081 (00005196) > [Input] Gamepad for main player: 0
+20:32:52:168 (00005196) > [Input] XInput disabled, disconnecting controller. index: 0
+20:32:52:168 (00005196) > [Input] Gamepads connected: 2 -> 1
+20:32:52:168 (00005196) > [Input] Gamepad for main player: 0
+20:32:53:126 (00011280) > [Audio] Device (re)initialized 0x0 'Speakers (2- Realtek(R) Audio)'
+20:32:53:183 (00022568) > [Save] Request type 3 failed with code 0x00000002
+20:32:53:206 (00022568) > [Save] Request type 3 failed with code 0x00000002
+20:32:55:478 (00005196) > [Save] Request load save type -1, control 128, target -1
+20:32:55:479 (00022568) > [Save] Request type 3 failed with code 0x00000002
+20:32:55:518 (00022568) > [Save] Request type 3 failed with code 0x00000002
+20:32:55:559 (00005196) > [Save] Request load save type 0, control 128, target -1
+20:32:55:592 (00005196) > [Save] Request load save type 0, control 128, target -1
+20:32:55:626 (00005196) > [Save] Request load save type 0, control 128, target -1
+20:32:55:643 (00022568) > [Save] Request type 3 failed with code 0x00000002
+20:32:55:660 (00005196) > [Save] Request load save type 0, control 128, target -1
+20:32:55:677 (00022568) > [Save] Request type 3 failed with code 0x00000002
+20:32:55:692 (00005196) > [Save] Request load save type 0, control 128, target -1
+20:32:55:709 (00022568) > [Save] Request type 3 failed with code 0x00000002
+20:33:33:616 (00005196) > [Save] Request load save type 0, control 128, target -1
+20:33:35:050 (00005196) > [Save] Request save type 2, control 0
+20:33:58:681 (00005196) > [Save] Request save type 0, control 0
+20:35:48:459 (00026820) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1600x900
+20:35:48:459 (00013820) > [Settings] New display settings are:
+20:35:48:459 (00013820) > [**************************************************Display + Graphics Settings**************************************************] 
+20:35:48:459 (00013820) > [Settings] DirectX Version: 12
+20:35:48:459 (00013820) > [Settings] Window mode: Exclusive fullscreen
+20:35:48:459 (00013820) > [Settings] Fullscreen display mode:
+20:35:48:459 (00013820) > [Settings] 	Displaying on monitor: 0
+20:35:48:459 (00013820) > [Settings] 	Resolution: 1600x900
+20:35:48:459 (00013820) > [Settings] Settings Refresh rate: 60
+20:35:48:460 (00013820) > [Settings] 	OS reported Refresh rate: 60
+20:35:48:460 (00013820) > [Settings] 	VSync: On
+20:35:48:460 (00013820) > [Settings] 	HDR: Off
+20:35:48:460 (00013820) > [Settings] 	Resolution modifier 1.000000
+20:35:48:460 (00013820) > [Settings] 	Dynamic resolution FPS target: 0
+20:35:48:460 (00013820) > [Settings] Anti aliasing: TAA
+
+20:35:48:460 (00013820) > [Settings] Upscale method: DLSS
+
+20:35:48:460 (00013820) > [Settings] Upscale quality: Balanced
+
+20:35:48:460 (00013820) > [Settings] Graphics Options:
+20:35:48:460 (00013820) > [Settings] 	RT Reflections: Off
+20:35:48:460 (00013820) > [Settings] 	Texture Quality: Medium
+20:35:48:460 (00013820) > [Settings] 	Texture Filtering: Anisotropic16x
+20:35:48:460 (00013820) > [Settings] 	Shadow Quality: Medium
+20:35:48:460 (00013820) > [Settings] 	Depth of Field: Medium
+20:35:48:460 (00013820) > [Settings] 	Level of Detail: High
+20:35:48:460 (00013820) > [Settings] 	Vehicle Detail: Medium
+20:35:48:460 (00013820) > [Settings] 	Crowd Detail: Low
+20:35:48:460 (00013820) > [Settings] 	Hair Quality: Low
+20:35:48:460 (00013820) > [Settings] 	Ambient Occlusion: SSAO
+20:35:48:460 (00013820) > [Settings] 	Screen Space Reflections: Normal
+20:35:48:460 (00013820) > [Settings] 	Particle Lighting: Low
+
+20:35:48:460 (00013820) > [Settings] 	Bloom: On
+20:35:48:460 (00013820) > [Settings] 	Vignette: On
+20:35:48:460 (00013820) > [Settings] 	Chromatic Aberration: On
+20:35:48:460 (00013820) > [Settings] 	Motion Blur: 1.000000
+20:35:48:460 (00013820) > [Settings] 	FOV Correction: 1.050000
+20:35:48:460 (00013820) > [Settings] 	Film Grain Strength: 1.000000
+20:35:48:460 (00013820) > [Settings] 	Lens Flares: On
+20:35:48:460 (00013820) > [Settings] 	Screen Effects: On
+20:35:48:460 (00013820) > [**************************************************Display + Graphics Settings**************************************************] 
+20:35:48:460 (00013820) > [Settings] End of settings.
+20:35:48:460 (00013820) > [NxApp (Render Thread)] Finished enforcing display settings
+20:35:48:461 (00005196) > [NxApp] Finished enforcing display settings
+20:35:52:703 (00005196) > [Save] Request save type 0, control 0
+20:36:53:564 (00005196) > [Save] Request save type 0, control 0
+20:38:55:822 (00005196) > [Save] Request save type 0, control 0
+20:39:32:072 (00005196) > [Save] Request save type 0, control 0
+20:39:32:562 (00005196) > [Save] Request save type 0, control 0
+20:39:32:566 (00005196) > [Save] Request save type 0, control 0
+20:40:40:625 (00005196) > [Save] Request save type 0, control 0
+20:41:58:120 (00005196) > [Save] Request save type 0, control 0
+20:43:16:701 (00005196) > [Save] Request save type 0, control 0
+20:43:29:065 (00005196) > [Save] Request save type 0, control 0
+20:46:03:165 (00005196) > [Save] Request save type 0, control 0
+20:46:10:180 (00005196) > [Save] Request save type 0, control 0
+20:49:00:097 (00005196) > [Save] Request save type 0, control 0
+20:49:07:111 (00005196) > [Save] Request save type 0, control 0
+20:49:07:144 (00005196) > [Save] Request save type 0, control 0
+20:49:07:161 (00005196) > [Save] Request save type 0, control 0
+20:51:59:340 (00005196) > [Save] Request save type 0, control 0
+20:51:59:340 (00005196) > [Save] Request save type 0, control 0
+20:51:59:340 (00005196) > [Save] Request save type 0, control 0
+20:51:59:340 (00005196) > [Save] Request save type 0, control 0
+20:51:59:340 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:51:59:341 (00005196) > [Save] Request save type 0, control 0
+20:52:14:568 (00005196) > [Save] Request save type 0, control 0
+20:52:14:568 (00005196) > [Save] Request save type 0, control 0
+20:52:14:568 (00005196) > [Save] Request save type 0, control 0
+20:52:27:775 (00005196) > [Save] Request save type 0, control 0
+20:52:27:795 (00005196) > [Save] Request save type 0, control 0
+20:53:01:550 (00005196) > [Save] Request load save type 0, control 64, target -1
+20:53:03:850 (00005196) > [Save] Request save type 0, control 68
+20:53:04:616 (00005196) > [Save] Request load save type 0, control 64, target -1
+20:53:05:882 (00005196) > [Save] Request save type 0, control 68
+20:53:06:415 (00005196) > [Save] Request load save type 0, control 64, target -1
+20:53:13:420 (00005196) > [Save] Request save type 0, control 36
+20:53:13:746 (00005196) > [Save] Request load save type -1, control 128, target -1
+20:53:13:753 (00022568) > [Save] Request type 3 failed with code 0x00000002
+20:53:13:762 (00022568) > [Save] Request type 3 failed with code 0x00000002
+20:53:21:862 (00005196) > [Save] Request save type 2, control 0
+20:53:21:915 (00011280) > [Audio] Device removed 0x0
+20:53:21:986 (00005196) > [NxApp] Destroying
+20:53:23:575 (00005196) > [DXGI] Destroyed swapchain.
+20:53:23:575 (00005196) > [SwapChain] Destroyed.
+20:53:23:575 (00005196) > [SwapChain] Released.
+20:53:23:575 (00005196) > [Render] Unloading NVAPI
+20:53:23:575 (00005196) > [Render] Done unloading NVAPI
+20:53:23:575 (00005196) > [DXGI] Destroyed swapchain.
+20:53:23:575 (00005196) > [DXGI] Released.
+--- NIXXES log closed ---
