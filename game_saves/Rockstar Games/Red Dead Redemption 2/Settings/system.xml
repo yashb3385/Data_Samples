@@ -82,13 +82,13 @@
   <video>
     <adapterIndex value="0" />
     <outputIndex value="0" />
-    <resolutionIndex value="13" />
-    <screenWidth value="1920" />
-    <screenHeight value="1080" />
+    <resolutionIndex value="11" />
+    <screenWidth value="1600" />
+    <screenHeight value="900" />
     <refreshRateIndex value="1" />
     <refreshRateNumerator value="144" />
     <refreshRateDenominator value="1" />
-    <windowed value="0" />
+    <windowed value="2" />
     <vSync value="0" />
     <tripleBuffered value="false" />
     <pauseOnFocusLoss value="false" />

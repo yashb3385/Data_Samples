@@ -31,7 +31,7 @@
 					</C_HashName>
 					<Second>
 						<S_VariableNumber>
-							<m_Value>8.00000000e+00</m_Value>
+							<m_Value>2.00000000e+01</m_Value>
 							<m_Type>2</m_Type>
 						</S_VariableNumber>
 					</Second>
@@ -49,6 +49,17 @@
 							</C_Vector>
 							<m_Type>4</m_Type>
 						</S_VariableVector>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>17824507942328200364</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
 					</Second>
 				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
@@ -112,7 +123,40 @@
 				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 					<C_HashName>
+						<m_Hash>6861555410377567235</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>11307666522000519363</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
 						<m_Hash>15563068684937567235</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>251511728667218869</m_Hash>
 					</C_HashName>
 					<Second>
 						<S_VariableBool>
@@ -156,7 +200,29 @@
 				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 					<C_HashName>
+						<m_Hash>15589460375944471577</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
 						<m_Hash>15457621940719197081</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>11880840121467096543</m_Hash>
 					</C_HashName>
 					<Second>
 						<S_VariableBool>
@@ -178,6 +244,17 @@
 				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 					<C_HashName>
+						<m_Hash>12679280812311491305</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
 						<m_Hash>15564843708575755049</m_Hash>
 					</C_HashName>
 					<Second>
@@ -185,6 +262,28 @@
 							<m_Value>true</m_Value>
 							<m_Type>1</m_Type>
 						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>7033120360722511593</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>11630333215193572993</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableString>
+							<m_Value>mm_080_brothel_cp_010_cs_start</m_Value>
+							<m_Type>3</m_Type>
+						</S_VariableString>
 					</Second>
 				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
@@ -200,7 +299,51 @@
 				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 					<C_HashName>
+						<m_Hash>12668108713789960484</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>1555924803917051108</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>7296878731996157988</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
 						<m_Hash>5351813822335923044</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>16630771703209934767</m_Hash>
 					</C_HashName>
 					<Second>
 						<S_VariableBool>
@@ -255,7 +398,29 @@
 				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 					<C_HashName>
+						<m_Hash>14783384812362960674</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
 						<m_Hash>955773277206545762</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>1903540811257886115</m_Hash>
 					</C_HashName>
 					<Second>
 						<S_VariableBool>
@@ -275,9 +440,251 @@
 						</S_VariableBool>
 					</Second>
 				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>16649941904174032923</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>14358689363650736796</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>16528711168185432092</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>6166870269281900427</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>11931742163338659902</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>8376489489747032621</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>15522478479934590214</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>15461290367574784966</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>17692500284469285510</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>11984621585553721966</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>2149189223333250125</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>2400287088041106832</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>10957361922002359484</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>1433850134811611976</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>16645803604218981199</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>17492490433398386383</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>6804070555763202406</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>9054370767488406010</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>1528026067619089681</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>5906075444206503606</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>15559145419040516051</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>1382134710572429196</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableNumber>
+							<m_Value>1.50000000e+01</m_Value>
+							<m_Type>2</m_Type>
+						</S_VariableNumber>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 			</m_DataGroupNew>
 			<m_Id>PersistentDataStorage</m_Id>
 			<m_Layer>0</m_Layer>
 		</C_SaveBlockScriptDataStorage>
 	</m_Blocks>
-</C_SaveDataUnwrapped>iNVû
+</C_SaveDataUnwrapped>7-ö½

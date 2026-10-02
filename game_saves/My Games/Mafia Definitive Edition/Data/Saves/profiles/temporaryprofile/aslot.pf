@@ -9,9 +9,140 @@
 					</C_HashName>
 					<Second>
 						<S_VariableString>
-							<m_Value>mm_100_farm</m_Value>
+							<m_Value>mm_210_gallery</m_Value>
 							<m_Type>3</m_Type>
 						</S_VariableString>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>9913134417327442919</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableVector>
+							<C_Vector>
+								<x>-9.43398865e+02</x>
+								<y>-2.32789246e+02</y>
+								<z>2.76205659e+00</z>
+							</C_Vector>
+							<m_Type>4</m_Type>
+						</S_VariableVector>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>1928222500357021087</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableVector>
+							<C_Vector>
+								<x>3.42019320e-01</x>
+								<y>9.39693511e-01</y>
+								<z>0.00000000e+00</z>
+							</C_Vector>
+							<m_Type>4</m_Type>
+						</S_VariableVector>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>9263277025124051287</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableTable>
+							<m_Variables>
+								<std::pair__20____26__lt__3b____20__C_String__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+									<First>1.000000</First>
+									<Second>
+										<S_VariableString>
+											<m_Value>exp_grenade</m_Value>
+											<m_Type>3</m_Type>
+										</S_VariableString>
+									</Second>
+								</std::pair__20____26__lt__3b____20__C_String__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+								<std::pair__20____26__lt__3b____20__C_String__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+									<First>2.000000</First>
+									<Second>
+										<S_VariableString>
+											<m_Value>exp_molotov</m_Value>
+											<m_Type>3</m_Type>
+										</S_VariableString>
+									</Second>
+								</std::pair__20____26__lt__3b____20__C_String__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+							</m_Variables>
+							<m_Type>7</m_Type>
+						</S_VariableTable>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>9932246128445221952</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableVector>
+							<C_Vector>
+								<x>4.24964964e-01</x>
+								<y>9.05209720e-01</y>
+								<z>0.00000000e+00</z>
+							</C_Vector>
+							<m_Type>4</m_Type>
+						</S_VariableVector>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>1916675429239819988</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableVector>
+							<C_Vector>
+								<x>-9.44349976e+02</x>
+								<y>-2.23383499e+02</y>
+								<z>3.06547070e+00</z>
+							</C_Vector>
+							<m_Type>4</m_Type>
+						</S_VariableVector>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>10853666788009293418</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableTable>
+							<m_Variables>
+								<std::pair__20____26__lt__3b____20__C_String__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+									<First>1.000000</First>
+									<Second>
+										<S_VariableNumber>
+											<m_Value>0.00000000e+00</m_Value>
+											<m_Type>2</m_Type>
+										</S_VariableNumber>
+									</Second>
+								</std::pair__20____26__lt__3b____20__C_String__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+								<std::pair__20____26__lt__3b____20__C_String__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+									<First>2.000000</First>
+									<Second>
+										<S_VariableNumber>
+											<m_Value>0.00000000e+00</m_Value>
+											<m_Type>2</m_Type>
+										</S_VariableNumber>
+									</Second>
+								</std::pair__20____26__lt__3b____20__C_String__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+							</m_Variables>
+							<m_Type>7</m_Type>
+						</S_VariableTable>
+					</Second>
+				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+				<std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
+					<C_HashName>
+						<m_Hash>11933741711862610754</m_Hash>
+					</C_HashName>
+					<Second>
+						<S_VariableBool>
+							<m_Value>true</m_Value>
+							<m_Type>1</m_Type>
+						</S_VariableBool>
 					</Second>
 				</std::pair__20____26__lt__3b____20__C_HashName__20____2c____20__S_Variable__20____2a____20____20____26__gt__3b__>
 			</m_DataGroupNew>
@@ -20,12 +151,12 @@
 		</C_SaveBlockScriptDataStorage>
 		<C_GameSettingsSlotSaveBlock>
 			<S_GameSettingsSlot>
-				<m_Difficulty>4</m_Difficulty>
-				<m_AimingAssistanceLevel>0</m_AimingAssistanceLevel>
-				<m_PoliceLvl>1</m_PoliceLvl>
-				<m_ArcadeDriving>false</m_ArcadeDriving>
+				<m_Difficulty>2</m_Difficulty>
+				<m_AimingAssistanceLevel>2</m_AimingAssistanceLevel>
+				<m_PoliceLvl>0</m_PoliceLvl>
+				<m_ArcadeDriving>true</m_ArcadeDriving>
 				<m_ManualShifting>false</m_ManualShifting>
-				<m_FlankingIndicators>false</m_FlankingIndicators>
+				<m_FlankingIndicators>true</m_FlankingIndicators>
 				<m_UseLethalTakedowns>true</m_UseLethalTakedowns>
 				<m_PlayerCanSkipRides>false</m_PlayerCanSkipRides>
 			</S_GameSettingsSlot>
@@ -42,4 +173,4 @@
 			<m_Layer>0</m_Layer>
 		</C_My2KSaveBlock>
 	</m_Blocks>
-</C_SaveDataUnwrapped>µ6
+</C_SaveDataUnwrapped>YÞø1
