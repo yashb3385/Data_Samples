@@ -17,7 +17,7 @@
     <lightingQuality>kSettingLevel_Medium</lightingQuality>
     <ambientLightingQuality>kSettingLevel_Ultra</ambientLightingQuality>
     <anisotropicFiltering value="4" />
-    <taa>kSettingLevel_Medium</taa>
+    <taa>kSettingLevel_High</taa>
     <fxaaEnabled value="false" />
     <msaa value="0" />
     <graphicsQualityPreset value="0.500000" />
@@ -68,13 +68,13 @@
     <snowGlints value="true" />
     <POMQuality>kSettingLevel_Medium</POMQuality>
     <probeRelightEveryFrame value="false" />
-    <scalingMode>kSettingScale_Mode2o3</scalingMode>
+    <scalingMode>kSettingScale_Mode7o8</scalingMode>
     <reflectionMSAA value="0" />
     <lodScale value="0.900000" />
     <grassLod value="1.500000" />
     <pedLodBias value="0.000000" />
     <vehicleLodBias value="0.000000" />
-    <sharpenIntensity value="1.000000" />
+    <sharpenIntensity value="4.000000" />
     <treeQuality>kSettingLevel_High</treeQuality>
     <deepsurfaceQuality>kSettingLevel_High</deepsurfaceQuality>
     <treeTessellationEnabled value="false" />
@@ -88,8 +88,8 @@
     <refreshRateIndex value="1" />
     <refreshRateNumerator value="144" />
     <refreshRateDenominator value="1" />
-    <windowed value="0" />
-    <vSync value="0" />
+    <windowed value="2" />
+    <vSync value="1" />
     <tripleBuffered value="false" />
     <pauseOnFocusLoss value="false" />
     <constrainMousePointer value="false" />
