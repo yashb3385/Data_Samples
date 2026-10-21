@@ -15,17 +15,23 @@
     <waterQuality>kSettingLevel_Custom</waterQuality>
     <volumetricsQuality>kSettingLevel_Custom</volumetricsQuality>
     <lightingQuality>kSettingLevel_Medium</lightingQuality>
-    <ambientLightingQuality>kSettingLevel_Ultra</ambientLightingQuality>
+    <ambientLightingQuality>kSettingLevel_High</ambientLightingQuality>
     <anisotropicFiltering value="4" />
+    <dlssIndex value="3" />
+    <dlssQuality value="1" />
+    <dlssSharpen value="1.000000" />
+    <fsr2Index value="0" />
+    <fsr2Sharpen value="0.350000" />
     <taa>kSettingLevel_High</taa>
     <fxaaEnabled value="false" />
     <msaa value="0" />
     <graphicsQualityPreset value="0.500000" />
     <hdr value="true" />
+    <hdr10PlusGaming value="false" />
     <hdrIntensity value="100" />
     <hdrPeakBrightness value="1000" />
     <hdrFilmicMode value="true" />
-    <gamma value="15" />
+    <gamma value="30" />
     <hdrSettingsMigrated value="true" />
   </graphics>
   <advancedGraphics>
@@ -68,7 +74,7 @@
     <snowGlints value="true" />
     <POMQuality>kSettingLevel_Medium</POMQuality>
     <probeRelightEveryFrame value="false" />
-    <scalingMode>kSettingScale_Mode7o8</scalingMode>
+    <scalingMode>kSettingScale_Mode1o1</scalingMode>
     <reflectionMSAA value="0" />
     <lodScale value="0.900000" />
     <grassLod value="1.500000" />
@@ -85,12 +91,16 @@
     <resolutionIndex value="13" />
     <screenWidth value="1920" />
     <screenHeight value="1080" />
+    <resolutionIndexWindowed value="13" />
+    <screenWidthWindowed value="1920" />
+    <screenHeightWindowed value="1080" />
     <refreshRateIndex value="1" />
     <refreshRateNumerator value="144" />
     <refreshRateDenominator value="1" />
-    <windowed value="2" />
+    <windowed value="0" />
     <vSync value="1" />
     <tripleBuffered value="false" />
+    <ReflexSettings>kSettingReflex_Off</ReflexSettings>
     <pauseOnFocusLoss value="false" />
     <constrainMousePointer value="false" />
   </video>
