@@ -1,0 +1,1257 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": 396246,
+    "name": "Fabulously Optimized",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 459857,
+          "name": "FerriteCore (Fabric)",
+          "favorite": false,
+          "version": {
+            "id": 7806040,
+            "updateDate": 1774377109000,
+            "metadata": {
+              "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+              "size": 72677,
+              "path": "mods/ferritecore-9.0.0-fabric.jar",
+              "url": "/mods/459857/7806040/ferritecore-9.0.0-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 634062,
+          "name": "No Chat Reports",
+          "favorite": false,
+          "version": {
+            "id": 7825701,
+            "updateDate": 1774658203000,
+            "metadata": {
+              "sha1": "50ad29d6146667c732f7764a715cebf70e3cecdd",
+              "size": 242500,
+              "path": "mods/NoChatReports-FABRIC-26.1-v2.19.0.jar",
+              "url": "/mods/634062/7825701/NoChatReports-FABRIC-26.1-v2.19.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 527334,
+          "name": "Language Reload",
+          "favorite": false,
+          "version": {
+            "id": 9053203,
+            "updateDate": 1791073817000,
+            "metadata": {
+              "sha1": "72ab4262d080f844351fd495ed1246b0973dffb1",
+              "size": 78883,
+              "path": "mods/language-reload-1.7.8%2B26.1.2.jar",
+              "url": "/mods/527334/9053203/language-reload-1.7.8%252B26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 393442,
+          "name": "LambDynamicLights",
+          "favorite": false,
+          "version": {
+            "id": 8780257,
+            "updateDate": 1788204817000,
+            "metadata": {
+              "sha1": "9892be2fa480937da749501b14b4fffccebb7ad0",
+              "size": 1340177,
+              "path": "mods/lambdynamiclights-4.11.2%2B26.1.2.jar",
+              "url": "/mods/393442/8780257/lambdynamiclights-4.11.2%252B26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 475358,
+          "name": "Better Mount HUD",
+          "favorite": false,
+          "version": {
+            "id": 7801481,
+            "updateDate": 1774298437000,
+            "metadata": {
+              "sha1": "42dc998a06994c86d58ed18bfb44ef58764f1b32",
+              "size": 20720,
+              "path": "mods/bettermounthud-1.3.0.jar",
+              "url": "/mods/475358/7801481/bettermounthud-1.3.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 667299,
+          "name": "YetAnotherConfigLib",
+          "favorite": false,
+          "version": {
+            "id": 8935500,
+            "updateDate": 1789945899000,
+            "metadata": {
+              "sha1": "ccb1503a786d833901ace18322b7b6c89d24c7cb",
+              "size": 1124837,
+              "path": "mods/yet_another_config_lib_v3-3.9.7%2B26.1-fabric.jar",
+              "url": "/mods/667299/8935500/yet_another_config_lib_v3-3.9.7%252B26.1-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 404870,
+          "name": "Fabrishot",
+          "favorite": false,
+          "version": {
+            "id": 7965832,
+            "updateDate": 1776848717000,
+            "metadata": {
+              "sha1": "cabc7f77ce10fd58cf33cbfd04eeda3ef33167c8",
+              "size": 51128,
+              "path": "mods/fabrishot-1.17.0.jar",
+              "url": "/mods/404870/7965832/fabrishot-1.17.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 958094,
+          "name": "Polytone",
+          "favorite": false,
+          "version": {
+            "id": 9074284,
+            "updateDate": 1791241677000,
+            "metadata": {
+              "sha1": "f28a28642bde17d4b4ee85f38c1827a6ec78efc0",
+              "size": 1662355,
+              "path": "mods/polytone-26.1.2-6.7.5-fabric.jar",
+              "url": "/mods/958094/9074284/polytone-26.1.2-6.7.5-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1434533,
+          "name": "Better Block Entities",
+          "favorite": false,
+          "version": {
+            "id": 8414569,
+            "updateDate": 1783800436000,
+            "metadata": {
+              "sha1": "977c65282a7264e80ac05c7df4ddd0df9ea67021",
+              "size": 248443,
+              "path": "mods/bbe-fabric-1.3.6%2Bmc26.1.2.jar",
+              "url": "/mods/1434533/8414569/bbe-fabric-1.3.6%252Bmc26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 308769,
+          "name": "Fabric Language Kotlin",
+          "favorite": false,
+          "version": {
+            "id": 9106173,
+            "updateDate": 1791533832000,
+            "metadata": {
+              "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
+              "size": 8142878,
+              "path": "mods/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+              "url": "/mods/308769/9106173/fabric-language-kotlin-1.14.2%252Bkotlin.2.4.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 844662,
+          "name": "[EMF] Entity Model Features [Fabric & Forge]",
+          "favorite": false,
+          "version": {
+            "id": 9064960,
+            "updateDate": 1791161476000,
+            "metadata": {
+              "sha1": "6f047e2bfc88c519c6ee4b5c80bbeda194bde9a5",
+              "size": 664452,
+              "path": "mods/entity_model_features-3.3.11-26.1-fabric.jar",
+              "url": "/mods/844662/9064960/entity_model_features-3.3.11-26.1-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 568563,
+          "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+          "favorite": false,
+          "version": {
+            "id": 9055238,
+            "updateDate": 1791096265000,
+            "metadata": {
+              "sha1": "cb4fc33cb7201703f493dc57e5860801c4e64568",
+              "size": 799898,
+              "path": "mods/entity_texture_features-7.2.5-26.1-fabric.jar",
+              "url": "/mods/568563/9055238/entity_texture_features-7.2.5-26.1-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 574741,
+          "name": "Zoomify",
+          "favorite": false,
+          "version": {
+            "id": 9098298,
+            "updateDate": 1791464367000,
+            "metadata": {
+              "sha1": "0ecd28563313f1dcf1028be423b9fac9c3472cc4",
+              "size": 578943,
+              "path": "mods/zoomify-2.17.0%2Bmc26.1.2-universal.jar",
+              "url": "/mods/574741/9098298/zoomify-2.17.0%252Bmc26.1.2-universal.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 531351,
+          "name": "Continuity",
+          "favorite": false,
+          "version": {
+            "id": 7901855,
+            "updateDate": 1775773842000,
+            "metadata": {
+              "sha1": "be4bf927bbb84f0f57783aea8c6624890680b4d2",
+              "size": 1040001,
+              "path": "mods/continuity-3.0.1-beta.2%2B26.1.jar",
+              "url": "/mods/531351/7901855/continuity-3.0.1-beta.2%252B26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 596224,
+          "name": "Debugify",
+          "favorite": false,
+          "version": {
+            "id": 8999715,
+            "updateDate": 1790600514000,
+            "metadata": {
+              "sha1": "ff796bbd70e0538debe80a2e013487b7fefbbf43",
+              "size": 367957,
+              "path": "mods/debugify-26.1.2.3.jar",
+              "url": "/mods/596224/8999715/debugify-26.1.2.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 708967,
+          "name": "FastQuit",
+          "favorite": false,
+          "version": {
+            "id": 8136275,
+            "updateDate": 1779603032000,
+            "metadata": {
+              "sha1": "51efa22cfe15e4068167cc96da430496afa3ab7e",
+              "size": 61514,
+              "path": "mods/fastquit-3.1.4%2Bmc26.1.x.jar",
+              "url": "/mods/708967/8136275/fastquit-3.1.4%252Bmc26.1.x.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1285307,
+          "name": "Ixeris",
+          "favorite": false,
+          "version": {
+            "id": 8939546,
+            "updateDate": 1789995811000,
+            "metadata": {
+              "sha1": "3b02ce13c07843c2616ebd2ad20b8df4619ed418",
+              "size": 761923,
+              "path": "mods/Ixeris-4.6.8%2B26.1.2-fabric.jar",
+              "url": "/mods/1285307/8939546/Ixeris-4.6.8%252B26.1.2-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 447673,
+          "name": "Sodium Extra",
+          "favorite": false,
+          "version": {
+            "id": 8892331,
+            "updateDate": 1789525223000,
+            "metadata": {
+              "sha1": "3648f23310dfd511f094bde6c75d94f29893d07e",
+              "size": 479510,
+              "path": "mods/sodium-extra-fabric-0.9.4%2Bmc26.1.2.jar",
+              "url": "/mods/447673/8892331/sodium-extra-fabric-0.9.4%252Bmc26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 619986,
+          "name": "OptiGUI",
+          "favorite": false,
+          "version": {
+            "id": 7857131,
+            "updateDate": 1775062681000,
+            "metadata": {
+              "sha1": "e1f7a1897762baec94f580d9a558127da485f5fd",
+              "size": 608369,
+              "path": "mods/optigui-2.3.0-beta.10%2B26.1.jar",
+              "url": "/mods/619986/7857131/optigui-2.3.0-beta.10%252B26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 556408,
+          "name": "Sodium Shadowy Path Blocks (SSPB)",
+          "favorite": false,
+          "version": {
+            "id": 7854083,
+            "updateDate": 1775009674000,
+            "metadata": {
+              "sha1": "1399156a64c7bfbc38fa21af935495cfb74923c3",
+              "size": 67690,
+              "path": "mods/sodium-shadowy-path-blocks-fabric-7.0.0.jar",
+              "url": "/mods/556408/7854083/sodium-shadowy-path-blocks-fabric-7.0.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 835847,
+          "name": "Controlify (Controller support)",
+          "favorite": false,
+          "version": {
+            "id": 8958798,
+            "updateDate": 1790197027000,
+            "metadata": {
+              "sha1": "6340df666b938e627d1827e24718de1f9b2ea9ae",
+              "size": 6411839,
+              "path": "mods/controlify-3.5.3%2Bmc26.1-universal.jar",
+              "url": "/mods/835847/8958798/controlify-3.5.3%252Bmc26.1-universal.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 618770,
+          "name": "Paginated Advancements & Custom Frames",
+          "favorite": false,
+          "version": {
+            "id": 7949382,
+            "updateDate": 1776592601000,
+            "metadata": {
+              "sha1": "fbbeba9df9e63351086b95f316156be96b5aa0dc",
+              "size": 82811,
+              "path": "mods/paginatedadvancements-2.8.0%2B26.1.jar",
+              "url": "/mods/618770/7949382/paginatedadvancements-2.8.0%252B26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 563977,
+          "name": "Puzzle",
+          "favorite": false,
+          "version": {
+            "id": 7813097,
+            "updateDate": 1774467417000,
+            "metadata": {
+              "sha1": "60e6fc32700655e1657f4ff460e8bf4e76777c37",
+              "size": 96531,
+              "path": "mods/puzzle-fabric-2.3.1+26.1.jar",
+              "url": "/mods/563977/7813097/puzzle-fabric-2.3.1+26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 547434,
+          "name": "Forge Config API Port",
+          "favorite": false,
+          "version": {
+            "id": 8218664,
+            "updateDate": 1780954776000,
+            "metadata": {
+              "sha1": "82e4deaa210b75d3b51a268769ad24cc85796235",
+              "size": 609711,
+              "path": "mods/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
+              "url": "/mods/547434/8218664/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 975120,
+          "name": "Cubes Without Borders",
+          "favorite": false,
+          "version": {
+            "id": 8288549,
+            "updateDate": 1781982319000,
+            "metadata": {
+              "sha1": "7bd02b375c6ffdfdcdad053113706b95ebd289f3",
+              "size": 91237,
+              "path": "mods/cwb-4.1.0%2B26.1.jar",
+              "url": "/mods/975120/8288549/cwb-4.1.0%252B26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 455508,
+          "name": "Iris Shaders",
+          "favorite": false,
+          "version": {
+            "id": 8868955,
+            "updateDate": 1789257855000,
+            "metadata": {
+              "sha1": "6a345caf8850e38dccd076f984cf02d6ec39ed83",
+              "size": 2792203,
+              "path": "mods/iris-fabric-1.11.4%2Bmc26.1.2.jar",
+              "url": "/mods/455508/8868955/iris-fabric-1.11.4%252Bmc26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 686911,
+          "name": "ImmediatelyFast",
+          "favorite": false,
+          "version": {
+            "id": 8348738,
+            "updateDate": 1782856946000,
+            "metadata": {
+              "sha1": "0bc5865bcb7f2f09d85559a58fccddcfd335f44d",
+              "size": 310057,
+              "path": "mods/ImmediatelyFast-Fabric-1.15.3%2B26.1.jar",
+              "url": "/mods/686911/8348738/ImmediatelyFast-Fabric-1.15.3%252B26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1026394,
+          "name": "BetterGrassify",
+          "favorite": false,
+          "version": {
+            "id": 8262604,
+            "updateDate": 1781657041000,
+            "metadata": {
+              "sha1": "3af6d70b580fcd734eb62cfd4b3bccbd6432dae8",
+              "size": 88810,
+              "path": "mods/BetterGrassify-1.8.7+fabric.26.1.2.jar",
+              "url": "/mods/1026394/8262604/BetterGrassify-1.8.7+fabric.26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1512894,
+          "name": "Animatica Refabricated",
+          "favorite": false,
+          "version": {
+            "id": 8369539,
+            "updateDate": 1783176059000,
+            "metadata": {
+              "sha1": "b6dc4ca4ab7b22a1d4c67ac1771dea55a45895a4",
+              "size": 117116,
+              "path": "mods/animatica-0.6.3%2B26.1.jar",
+              "url": "/mods/1512894/8369539/animatica-0.6.3%252B26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 448233,
+          "name": "Entity Culling FabricForge",
+          "favorite": false,
+          "version": {
+            "id": 9100311,
+            "updateDate": 1791478334000,
+            "metadata": {
+              "sha1": "31cb6f12d73c4b2613fbe61cb3d4483a8c1c786d",
+              "size": 1506721,
+              "path": "mods/entityculling-fabric-1.11.3-mc26.1.jar",
+              "url": "/mods/448233/9100311/entityculling-fabric-1.11.3-mc26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1340480,
+          "name": "Config Manager",
+          "favorite": false,
+          "version": {
+            "id": 8260926,
+            "updateDate": 1781640865000,
+            "metadata": {
+              "sha1": "ce2d31f3cb6815fe83c742326430af8dd9f6a479",
+              "size": 88871,
+              "path": "mods/ConfigManager-fabric-26.1_26.2-1.1.3.jar",
+              "url": "/mods/1340480/8260926/ConfigManager-fabric-26.1_26.2-1.1.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1520456,
+          "name": "MixinTrace Reborn",
+          "favorite": false,
+          "version": {
+            "id": 7959398,
+            "updateDate": 1776748691000,
+            "metadata": {
+              "sha1": "3b270bf23ffec81086c23a78dd473608640b0a96",
+              "size": 7167,
+              "path": "mods/mixintrace-1.0-26.1-universal.jar",
+              "url": "/mods/1520456/7959398/mixintrace-1.0-26.1-universal.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 308702,
+          "name": "Mod Menu",
+          "favorite": false,
+          "version": {
+            "id": 8966566,
+            "updateDate": 1790277748000,
+            "metadata": {
+              "sha1": "8fa5f0c6e844f44bfd836197b680ee6ea0006bcd",
+              "size": 859999,
+              "path": "mods/modmenu-18.0.2.jar",
+              "url": "/mods/308702/8966566/modmenu-18.0.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 360438,
+          "name": "Lithium (FabricNeoForge)",
+          "favorite": false,
+          "version": {
+            "id": 8533267,
+            "updateDate": 1785327131000,
+            "metadata": {
+              "sha1": "7959f418969ee8bfe50c0f21f352ed08b382f133",
+              "size": 912821,
+              "path": "mods/lithium-fabric-0.24.7%2Bmc26.1.2.jar",
+              "url": "/mods/360438/8533267/lithium-fabric-0.24.7%252Bmc26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1367508,
+          "name": "ModernFix-mVUS",
+          "favorite": false,
+          "version": {
+            "id": 8362826,
+            "updateDate": 1783073288000,
+            "metadata": {
+              "sha1": "9f68fd82da95582bd27fb97b90015ce268296132",
+              "size": 717189,
+              "path": "mods/modernfix-5.27.19-build.1-26.1.jar",
+              "url": "/mods/1367508/8362826/modernfix-5.27.19-build.1-26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 335493,
+          "name": "Dynamic FPS",
+          "favorite": false,
+          "version": {
+            "id": 8159041,
+            "updateDate": 1779965013000,
+            "metadata": {
+              "sha1": "2ed66a7f5cf81c8f4b17a551a1f7371ef99a45f7",
+              "size": 187418,
+              "path": "mods/dynamic-fps-3.11.7%2Bminecraft-26.1.0-fabric.jar",
+              "url": "/mods/335493/8159041/dynamic-fps-3.11.7%252Bminecraft-26.1.0-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 630104,
+          "name": "MoreCulling",
+          "favorite": false,
+          "version": {
+            "id": 8563681,
+            "updateDate": 1785696972000,
+            "metadata": {
+              "sha1": "1155f693ca85a925f790cabac2ef9b1f5984283d",
+              "size": 360749,
+              "path": "mods/moreculling-fabric-26.1.2-1.7.3.jar",
+              "url": "/mods/630104/8563681/moreculling-fabric-26.1.2-1.7.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 306612,
+          "name": "Fabric API",
+          "favorite": false,
+          "version": {
+            "id": 8831744,
+            "updateDate": 1788802988000,
+            "metadata": {
+              "sha1": "16c30dfcceaed1ac3b6ac84cbd348a906dc5093e",
+              "size": 2521340,
+              "path": "mods/fabric-api-0.155.3%2B26.1.2.jar",
+              "url": "/mods/306612/8831744/fabric-api-0.155.3%252B26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 518319,
+          "name": "More Chat History",
+          "favorite": false,
+          "version": {
+            "id": 7807306,
+            "updateDate": 1774386933000,
+            "metadata": {
+              "sha1": "6ce97845f93090dd7556b6e64bb7d63e126b83b4",
+              "size": 3773,
+              "path": "mods/morechathistory-2.0.0.jar",
+              "url": "/mods/518319/7807306/morechathistory-2.0.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1154099,
+          "name": "Crash Assistant",
+          "favorite": false,
+          "version": {
+            "id": 8636695,
+            "updateDate": 1786582830000,
+            "metadata": {
+              "sha1": "6b120e383cd890a9f115a1aaea771475dec8957d",
+              "size": 3464567,
+              "path": "mods/CrashAssistant-fabric-26.1-1.11.12.jar",
+              "url": "/mods/1154099/8636695/CrashAssistant-fabric-26.1-1.11.12.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1301799,
+          "name": "Skyboxify",
+          "favorite": false,
+          "version": {
+            "id": 8908343,
+            "updateDate": 1789695449000,
+            "metadata": {
+              "sha1": "7c9ea753f2c9991e7675f4f86f2d6ea5866399c7",
+              "size": 306365,
+              "path": "mods/skyboxify-3.4%2B26.1.2-fabric.jar",
+              "url": "/mods/1301799/8908343/skyboxify-3.4%252B26.1.2-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 833233,
+          "name": "Remove Reloading Screen",
+          "favorite": false,
+          "version": {
+            "id": 8271651,
+            "updateDate": 1781774032000,
+            "metadata": {
+              "sha1": "585a22c7adc137dd1c5891c6bcb04641b73edf06",
+              "size": 119453,
+              "path": "mods/rrls-5.2.6+mc.26.1.jar",
+              "url": "/mods/833233/8271651/rrls-5.2.6+mc.26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 849519,
+          "name": "e4mc",
+          "favorite": false,
+          "version": {
+            "id": 9030239,
+            "updateDate": 1790880731000,
+            "metadata": {
+              "sha1": "78a4feb50b8cb67a80ca172a56e85c9cd79d9fbb",
+              "size": 663905,
+              "path": "mods/e4mc-fabric-6.2.3-modern.jar",
+              "url": "/mods/849519/9030239/e4mc-fabric-6.2.3-modern.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 348521,
+          "name": "Cloth Config API (FabricForgeNeoForge)",
+          "favorite": false,
+          "version": {
+            "id": 7817582,
+            "updateDate": 1774541071000,
+            "metadata": {
+              "sha1": "832f9047bc4af13587709c74f7c37e1c8579d1eb",
+              "size": 1135373,
+              "path": "mods/cloth-config-26.1.154.jar",
+              "url": "/mods/348521/7817582/cloth-config-26.1.154.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 394468,
+          "name": "Sodium",
+          "favorite": false,
+          "version": {
+            "id": 8859589,
+            "updateDate": 1789150712000,
+            "metadata": {
+              "sha1": "d107b02081262e243e80559192a2de86007155d6",
+              "size": 1940135,
+              "path": "mods/sodium-fabric-0.9.2%2Bmc26.1.2.jar",
+              "url": "/mods/394468/8859589/sodium-fabric-0.9.2%252Bmc26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 511319,
+          "name": "Reese's Sodium Options",
+          "favorite": false,
+          "version": {
+            "id": 8891868,
+            "updateDate": 1789519951000,
+            "metadata": {
+              "sha1": "46a6a58b548b84a33255bcd196320ecbd4d3d2cf",
+              "size": 257500,
+              "path": "mods/reeses-sodium-options-fabric-2.2.4%2Bmc26.1.2.jar",
+              "url": "/mods/511319/8891868/reeses-sodium-options-fabric-2.2.4%252Bmc26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1291862,
+          "name": "Cape Provider",
+          "favorite": false,
+          "version": {
+            "id": 8252879,
+            "updateDate": 1781533853000,
+            "metadata": {
+              "sha1": "f835be6cdcdbc578c449b99c7f3018ca274f2d28",
+              "size": 203242,
+              "path": "mods/cape-provider-5.4.3.jar",
+              "url": "/mods/1291862/8252879/cape-provider-5.4.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 618812,
+          "name": "Main Menu Credits",
+          "favorite": false,
+          "version": {
+            "id": 7813727,
+            "updateDate": 1774476660000,
+            "metadata": {
+              "sha1": "e4b0c3671d0f634ae5aac194253348dcebc3d6fc",
+              "size": 15758,
+              "path": "mods/isxander-main-menu-credits-1.3.0.jar",
+              "url": "/mods/618812/7813727/isxander-main-menu-credits-1.3.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        }
+      ],
+      "resourcePacks": [
+        {
+          "stateGameElement": "active",
+          "id": 867964,
+          "name": "Translations for Sodium",
+          "favorite": false,
+          "version": {
+            "id": 9115204,
+            "updateDate": 1791609576000,
+            "metadata": {
+              "sha1": "69b96329af15606808000c8a89ae73d3b7cf1d22",
+              "size": 286553,
+              "path": "resourcepacks/SodiumTranslations.zip",
+              "url": "/resourcepacks/867964/9115204/SodiumTranslations.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 855981,
+          "name": "Chat Reporting Helper",
+          "favorite": false,
+          "version": {
+            "id": 8988967,
+            "updateDate": 1790503375000,
+            "metadata": {
+              "sha1": "30ab2212134e2b8a343c13095a4a7d07a7975ab4",
+              "size": 73049,
+              "path": "resourcepacks/Chat%20Reporting%20Helper.zip",
+              "url": "/resourcepacks/855981/8988967/Chat%2520Reporting%2520Helper.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        }
+      ],
+      "maps": [],
+      "shaderpacks": [],
+      "additionalFile": {
+        "sha1": "e622bde9b995d789a07ba9ababd6a7be4a02242d",
+        "size": 158540,
+        "path": "Fabulously.Optimized-13.6.0.zip",
+        "url": "/modpacks/396246/9127669/Fabulously.Optimized-13.6.0.zip"
+      },
+      "forgeVersionDTO": {
+        "id": 105455,
+        "name": "0.19.5"
+      },
+      "gameVersionDTO": {
+        "id": 69,
+        "name": "26.1.2"
+      },
+      "minecraftVersionName": {
+        "id": 105455,
+        "name": "0.19.5"
+      },
+      "id": 9127669,
+      "name": "Fabulously.Optimized-13.6.0",
+      "available": false,
+      "remove": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 2,
+          "name": "fabric"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "notExists": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "26.1.2",
+  "skinVersion": false
+}

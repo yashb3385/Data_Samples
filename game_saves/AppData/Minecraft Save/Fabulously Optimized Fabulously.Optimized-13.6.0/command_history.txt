@@ -1,0 +1,34 @@
+/time set day
+/time set night
+/time set midnight
+/time set day
+/time set midnight
+/time set day
+/weather clear
+/time set day
+/time set midnight
+/give
+/give @a oak_fence
+/time set midnight
+/give @a bone_meal 15
+/time set midnight
+/time set day
+/time set night
+/time set day
+/time set midnight
+/time set night
+/time set day
+/give @a elytra
+/give @a horse_spawn_egg
+/give @a saddle
+/give @a enderman_spawn_egg 2
+/kill
+/give @a enderman_spawn_egg 2
+/give @a enderman_spawn_egg 4
+/give @a ender_eye
+/kill
+/give @a shulker_shell
+/time set day
+/time set night
+/time set day
+/give @a bee_spawn_egg 3

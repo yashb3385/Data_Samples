@@ -1,0 +1,14 @@
+{
+  "mode": "TAA",
+  "qualityPreset": "MEDIUM",
+  "preferredBackend": "AUTO",
+  "sharpenStrength": 0.41426054,
+  "msaaSampleLevel": "X4",
+  "ssaaScaleLevel": "X125",
+  "nisUpscaleQualityPreset": "BALANCED",
+  "internalResolutionScale": 1.0,
+  "keepHudAtNativeResolution": true,
+  "debugViewsEnabled": false,
+  "recordMetrics": false,
+  "allowExperimentalVulkan": false
+}

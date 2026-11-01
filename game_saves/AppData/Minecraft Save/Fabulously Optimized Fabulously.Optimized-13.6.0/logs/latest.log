@@ -1,0 +1,84 @@
+[00:00:39] [Server thread/INFO]: Saving and pausing game...
+[00:00:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:00:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:00:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:01:01] [Server thread/INFO]: Saving and pausing game...
+[00:01:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:01:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:01:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:01:34] [Server thread/INFO]: Saving and pausing game...
+[00:01:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:01:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:01:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:01:35] [Render thread/INFO]: Client on ClientOnly mode disconnecting.
+[00:01:35] [Netty Local IO #1/INFO]: Disconnected from server, resetting proxy config values
+[00:01:35] [Netty Local IO #2/INFO]: Player [GenTech] disconnected.
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
+[00:01:35] [Server thread/INFO]: GenTech lost connection: Disconnected
+[00:01:35] [Server thread/INFO]: GenTech left the game
+[00:01:35] [level shutdown/INFO]: Closing world gen queue
+[00:01:35] [level shutdown/INFO]: Closing WorldGenerationQueue...
+[00:01:35] [level shutdown/INFO]: Shutting down world generator thread pool...
+[00:01:35] [level shutdown/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
+[00:01:35] [level shutdown/INFO]: Finished closing WorldGenerationQueue
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[00:01:35] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[00:01:35] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[00:01:35] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
+[00:01:35] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[00:01:35] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[00:01:35] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[00:01:35] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[00:01:35] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:01:35] [Server thread/INFO]: Stopping server
+[00:01:35] [Server thread/INFO]: Saving players
+[00:01:35] [Server thread/INFO]: Saving worlds
+[00:01:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:01:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:01:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:01:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:01:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:01:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:01:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:35] [Server thread/WARN]: [FastQuit] "Mist Village" was not registered in currently saving worlds!
+[00:01:36] [Render thread/INFO]: Closing all [3] databases...
+[00:01:37] [Render thread/INFO]: Seed Renderer closed its checkpoint connection to Distant Horizons' database
+[00:01:37] [Render thread/INFO]: Seed Renderer released 3 world generator binding(s) as the world closed
+[00:01:37] [Render thread/INFO]: Finalizing world map session...
+[00:01:37] [Thread-9/INFO]: World map force-cleaned!
+[00:01:37] [Render thread/INFO]: World map session finalized.
+[00:01:37] [Render thread/INFO]: [FastQuit] Disconnected "Mist Village" from the client.
+[00:01:37] [Render thread/INFO]: Stopping worker threads
+[00:01:37] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[00:01:37] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[00:01:37] [IO-Worker-275/ERROR]: Couldn't connect to realms
+com.mojang.realmsclient.exception.RealmsServiceException: Realms service error (500) with message 'Could not connect to Realms: pc.realms.minecraft.net'
+	at knot//com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:539)
+	at knot//com.mojang.realmsclient.client.RealmsClient.clientCompatible(RealmsClient.java:307)
+	at knot//com.mojang.realmsclient.RealmsAvailability.lambda$check$0(RealmsAvailability.java:48)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[00:01:39] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[00:01:39] [Render thread/INFO]: Stopping!
+[00:01:39] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[00:01:39] [Render thread/INFO]: [FastQuit] Exiting FastQuit.
+[00:01:39] [Render thread/INFO]: [FastQuit] Waiting for "Mist Village" to finish saving...
+[00:01:40] [Ixeris Event Polling Thread/INFO]: Exiting event polling thread.
