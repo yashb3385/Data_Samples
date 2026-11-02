@@ -32,3 +32,18 @@
 /time set night
 /time set day
 /give @a bee_spawn_egg 3
+/give @a iron_hoe
+/data get entity <target> Inventorya
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest]
+/data merge entity @e[type=minecraft:villager, limit=1, sort=nearest] {Inventory:[{Slot:0b,id:"minecraft:wheat_seeds",Count:64b},{Slot:1b,id:"minecraft:wheat_seeds",Count:64b}]}
+/data merge entity @e[type=minecraft:villager, limit=1, sort=nearest] {Inventory:[{Slot:2b,id:"minecraft:wheat_seeds",Count:64b},{Slot:3b,id:"minecraft:wheat_seeds",Count:64b}]}
+/data merge entity @e[type=minecraft:villager, limit=1, sort=nearest] {Inventory:[{Slot:4b,id:"minecraft:wheat_seeds",Count:64b},{Slot:5b,id:"minecraft:wheat_seeds",Count:64b}]}
+/data merge entity @e[type=minecraft:villager, limit=1, sort=nearest] {Inventory:[{Slot:6b,id:"minecraft:wheat_seeds",Count:64b},{Slot:7b,id:"minecraft:wheat_seeds",Count:64b}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] {Inventory:[]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest]
+/data merge entity @e[type=minecraft:villager, limit=1, sort=nearest] {Inventory:[{Slot:6b,id:"minecraft:wheat_seeds",Count:64b},{Slot:7b,id:"minecraft:wheat_seeds",Count:64b}]}
+/data merge entity @e[type=minecraft:villager, limit=1, sort=nearest] {Inventory:[{Slot:4b,id:"minecraft:wheat_seeds",Count:64b},{Slot:5b,id:"minecraft:wheat_seeds",Count:64b}]}
+/data merge entity @e[type=minecraft:villager, limit=1, sort=nearest] {Inventory:[{Slot:2b,id:"minecraft:wheat_seeds",Count:64b},{Slot:3b,id:"minecraft:wheat_seeds",Count:64b}]}
+/data merge entity @e[type=minecraft:villager, limit=1, sort=nearest] {Inventory:[{Slot:0b,id:"minecraft:wheat_seeds",Count:64b},{Slot:1b,id:"minecraft:wheat_seeds",Count:64b}]}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest]
+/time set day
