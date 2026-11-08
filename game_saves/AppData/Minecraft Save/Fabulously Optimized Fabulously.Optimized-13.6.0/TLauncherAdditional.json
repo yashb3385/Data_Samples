@@ -1161,6 +1161,774 @@
           "parser": false,
           "notExists": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144176831700,
+          "name": "AmbientSounds_FABRIC_v6.3.6_mc26.1.2",
+          "favorite": false,
+          "version": {
+            "id": -1429144258385700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "1d7fa7520c758bfa19145db4e6f264a946d1aaf2",
+              "size": 84827805,
+              "path": "mods/AmbientSounds_FABRIC_v6.3.6_mc26.1.2.jar",
+              "url": "mods/AmbientSounds_FABRIC_v6.3.6_mc26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144258417900,
+          "name": "anti-enderman-grief-1.0.0.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144258978200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "4563cbdd30d96ff7bfbb813dd68da75f45eb527b",
+              "size": 13536,
+              "path": "mods/anti-enderman-grief-1.0.0.1.jar",
+              "url": "mods/anti-enderman-grief-1.0.0.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144259001200,
+          "name": "BetterF3-18.0.0-Fabric-26.1.2",
+          "favorite": false,
+          "version": {
+            "id": -1429144260650900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "1bd299854ffef967a8640d6524abbfe9fb0a8161",
+              "size": 717053,
+              "path": "mods/BetterF3-18.0.0-Fabric-26.1.2.jar",
+              "url": "mods/BetterF3-18.0.0-Fabric-26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144260670100,
+          "name": "BridgingMod-2.6.6+26.1.fabric-release",
+          "favorite": false,
+          "version": {
+            "id": -1429144266649000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "18333a0abaff3ef193a9300688c9816116b1188c",
+              "size": 5923636,
+              "path": "mods/BridgingMod-2.6.6+26.1.fabric-release.jar",
+              "url": "mods/BridgingMod-2.6.6+26.1.fabric-release.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144266668000,
+          "name": "cicada-lib-0.15.3+26.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144267691900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "1a6b35f8df2cfb469afc0829c604864b63fd2070",
+              "size": 360541,
+              "path": "mods/cicada-lib-0.15.3+26.1.jar",
+              "url": "mods/cicada-lib-0.15.3+26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144267705800,
+          "name": "Cinematic Interaction-Fabric-26.1.2-0.18.30",
+          "favorite": false,
+          "version": {
+            "id": -1429144270189600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "21cfd409f31f8943f45d66a4803dcc4081530b56",
+              "size": 1323699,
+              "path": "mods/Cinematic Interaction-Fabric-26.1.2-0.18.30.jar",
+              "url": "mods/Cinematic Interaction-Fabric-26.1.2-0.18.30.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144270210400,
+          "name": "coolrain-1.4.0-26.1.2",
+          "favorite": false,
+          "version": {
+            "id": -1429144275650100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "d605ab9d41df8251fd8c734883c0a677dab03083",
+              "size": 4142092,
+              "path": "mods/coolrain-1.4.0-26.1.2.jar",
+              "url": "mods/coolrain-1.4.0-26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144275666900,
+          "name": "CreativeCore_FABRIC_v2.14.16_mc26.1.2",
+          "favorite": false,
+          "version": {
+            "id": -1429144278338100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6857841185600b9e224e6b6351622ae322cd929f",
+              "size": 1415484,
+              "path": "mods/CreativeCore_FABRIC_v2.14.16_mc26.1.2.jar",
+              "url": "mods/CreativeCore_FABRIC_v2.14.16_mc26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144278355900,
+          "name": "Distant Horizons SeedGen 0.9.1 for 26.1.2 Fabric",
+          "favorite": false,
+          "version": {
+            "id": -1429144280964600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c24350b3c6c496435c8220958f60b73900e08685",
+              "size": 1357808,
+              "path": "mods/Distant Horizons SeedGen 0.9.1 for 26.1.2 Fabric.jar",
+              "url": "mods/Distant Horizons SeedGen 0.9.1 for 26.1.2 Fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144280978400,
+          "name": "DistantHorizons-3.3.3-26.1.2-fabric-neoforge",
+          "favorite": false,
+          "version": {
+            "id": -1429144309726900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c37821c81a07cb5852511341a9f6d4357bb85493",
+              "size": 28281131,
+              "path": "mods/DistantHorizons-3.3.3-26.1.2-fabric-neoforge.jar",
+              "url": "mods/DistantHorizons-3.3.3-26.1.2-fabric-neoforge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144309761600,
+          "name": "do_a_barrel_roll-fabric-3.8.4+26.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144311407800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "0d0a2a97fb8bdd82a388fb967fff9a3069c7b00b",
+              "size": 470415,
+              "path": "mods/do_a_barrel_roll-fabric-3.8.4+26.1.jar",
+              "url": "mods/do_a_barrel_roll-fabric-3.8.4+26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144311439400,
+          "name": "durabilitytooltip-1.2.0a-fabric-mc26.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144312051500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "05e84e69c524827fe194bb8a0ee335cd2b2a4630",
+              "size": 21025,
+              "path": "mods/durabilitytooltip-1.2.0a-fabric-mc26.1.jar",
+              "url": "mods/durabilitytooltip-1.2.0a-fabric-mc26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144312081900,
+          "name": "elytratrails-1.5.1-26.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144313291800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5ae5dee8e0f7200dfe761ed0d469c291eb6b20a7",
+              "size": 324805,
+              "path": "mods/elytratrails-1.5.1-26.1.jar",
+              "url": "mods/elytratrails-1.5.1-26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144313314300,
+          "name": "FallingTree-26.1.2-25",
+          "favorite": false,
+          "version": {
+            "id": -1429144314476600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "d16ce52495ec2aec54f4f2472e5a657a416af422",
+              "size": 493215,
+              "path": "mods/FallingTree-26.1.2-25.jar",
+              "url": "mods/FallingTree-26.1.2-25.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144314492700,
+          "name": "freecam-fabric-1.5.1+mc26.1.2",
+          "favorite": false,
+          "version": {
+            "id": -1429144320069000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "8106da2743fb74f8c20bf42503ed93e76637d9b9",
+              "size": 2003349,
+              "path": "mods/freecam-fabric-1.5.1+mc26.1.2.jar",
+              "url": "mods/freecam-fabric-1.5.1+mc26.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144320107500,
+          "name": "fwa+26.1.2-1.3.2",
+          "favorite": false,
+          "version": {
+            "id": -1429144321421400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e143558a9dcf66d09db54191c716b149c6426454",
+              "size": 219494,
+              "path": "mods/fwa+26.1.2-1.3.2.jar",
+              "url": "mods/fwa+26.1.2-1.3.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144321464300,
+          "name": "horseman-fabric-26.1.1-1.7.4",
+          "favorite": false,
+          "version": {
+            "id": -1429144322863800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "fe75a0a79c16989e36f9d0dbc45bbb69b53476e8",
+              "size": 278776,
+              "path": "mods/horseman-fabric-26.1.1-1.7.4.jar",
+              "url": "mods/horseman-fabric-26.1.1-1.7.4.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144322899100,
+          "name": "Iceberg-26.1.2-fabric-1.4.1.2",
+          "favorite": false,
+          "version": {
+            "id": -1429144324145600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "128592f4a1464fcecba4f434e8f8fa7685048a7a",
+              "size": 374234,
+              "path": "mods/Iceberg-26.1.2-fabric-1.4.1.2.jar",
+              "url": "mods/Iceberg-26.1.2-fabric-1.4.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144324178600,
+          "name": "ItemBorders-26.1.2-fabric-1.3.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144324832300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e120ddca6595c6c7bf0fe9b63aefee1f6ae3cbdf",
+              "size": 23011,
+              "path": "mods/ItemBorders-26.1.2-fabric-1.3.1.jar",
+              "url": "mods/ItemBorders-26.1.2-fabric-1.3.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144324853600,
+          "name": "jamlib-fabric-2.3.1+26.1.x",
+          "favorite": false,
+          "version": {
+            "id": -1429144325752200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "90292be3a4267eb5642195a6d8e445888fbf81cc",
+              "size": 264921,
+              "path": "mods/jamlib-fabric-2.3.1+26.1.x.jar",
+              "url": "mods/jamlib-fabric-2.3.1+26.1.x.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144325781800,
+          "name": "MouseTweaks-fabric-mc26.1-2.31",
+          "favorite": false,
+          "version": {
+            "id": -1429144326647600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "d81b34b76b8885f637e1a253810a78bee772a346",
+              "size": 75833,
+              "path": "mods/MouseTweaks-fabric-mc26.1-2.31.jar",
+              "url": "mods/MouseTweaks-fabric-mc26.1-2.31.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144326663300,
+          "name": "mru-1.0.43+26.1.2-fabric",
+          "favorite": false,
+          "version": {
+            "id": -1429144327446200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "769ae6c8b31a4561c96c0f8ff495981f7a413f75",
+              "size": 159015,
+              "path": "mods/mru-1.0.43+26.1.2-fabric.jar",
+              "url": "mods/mru-1.0.43+26.1.2-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144327463700,
+          "name": "pickupanimations-fabric-1.0",
+          "favorite": false,
+          "version": {
+            "id": -1429144328042200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "dd3beb4459b64112322f0c9302f8fd5c70b94e4c",
+              "size": 27269,
+              "path": "mods/pickupanimations-fabric-1.0.jar",
+              "url": "mods/pickupanimations-fabric-1.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144328057700,
+          "name": "PresenceFootsteps-1.13.3+26.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144334239600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b94f0d83a9440b99b8b9939da3cf030cfffdf331",
+              "size": 5748152,
+              "path": "mods/PresenceFootsteps-1.13.3+26.1.jar",
+              "url": "mods/PresenceFootsteps-1.13.3+26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144334258100,
+          "name": "Prism-26.1.2-fabric-1.1.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144334923100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6d088eb3d9687841a71e87f99aff0b57ddfe045e",
+              "size": 60428,
+              "path": "mods/Prism-26.1.2-fabric-1.1.1.jar",
+              "url": "mods/Prism-26.1.2-fabric-1.1.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144334948200,
+          "name": "rightclickharvest-fabric-4.6.2+26.1.x",
+          "favorite": false,
+          "version": {
+            "id": -1429144335946700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5e4f249021f53f48a0ff94f85607514d769eb9ca",
+              "size": 280004,
+              "path": "mods/rightclickharvest-fabric-4.6.2+26.1.x.jar",
+              "url": "mods/rightclickharvest-fabric-4.6.2+26.1.x.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144335969300,
+          "name": "smoothscroll-2.8.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144336693800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "701f5266ea7abae965edcdd6c5220262017c8ade",
+              "size": 95283,
+              "path": "mods/smoothscroll-2.8.1.jar",
+              "url": "mods/smoothscroll-2.8.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144336715000,
+          "name": "sounds-2.6.0+26.1.2-fabric",
+          "favorite": false,
+          "version": {
+            "id": -1429144346798300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "0630290d14bd3c0b83878f1932075713ad8fa99f",
+              "size": 8144560,
+              "path": "mods/sounds-2.6.0+26.1.2-fabric.jar",
+              "url": "mods/sounds-2.6.0+26.1.2-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144346819600,
+          "name": "spatial-gui-1.9.1+26.1.2-fabric",
+          "favorite": false,
+          "version": {
+            "id": -1429144347820400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "fd89f5a9581deef4d749b2d4871716e10b9ee00d",
+              "size": 317829,
+              "path": "mods/spatial-gui-1.9.1+26.1.2-fabric.jar",
+              "url": "mods/spatial-gui-1.9.1+26.1.2-fabric.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144347837800,
+          "name": "supermartijn642configlib-1.1.8a-fabric-mc26.1",
+          "favorite": false,
+          "version": {
+            "id": -1429144348605200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "79206d42b963f0a6cfa4323bf99083588303fcb1",
+              "size": 206153,
+              "path": "mods/supermartijn642configlib-1.1.8a-fabric-mc26.1.jar",
+              "url": "mods/supermartijn642configlib-1.1.8a-fabric-mc26.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144348654600,
+          "name": "vanilla-refresh-1.4.31",
+          "favorite": false,
+          "version": {
+            "id": -1429144350854200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "862db085776676facbb16019fb8f451d26535625",
+              "size": 1162752,
+              "path": "mods/vanilla-refresh-1.4.31.jar",
+              "url": "mods/vanilla-refresh-1.4.31.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1429144350889800,
+          "name": "xaeroworldmap-fabric-26.1.2-1.47.2",
+          "favorite": false,
+          "version": {
+            "id": -1429144353083900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "876d5554fa6771211a4809a972b62fd13d698672",
+              "size": 1478852,
+              "path": "mods/xaeroworldmap-fabric-26.1.2-1.47.2.jar",
+              "url": "mods/xaeroworldmap-fabric-26.1.2-1.47.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [
@@ -1211,10 +1979,806 @@
           "parser": false,
           "notExists": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996724775600,
+          "name": "animated-items 1.21.x-26.3 - v1.6.3",
+          "favorite": false,
+          "version": {
+            "id": -1428996734339800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e1932eda40baedcab207975679ac161bd0168b9d",
+              "size": 1783851,
+              "path": "resourcepacks/animated-items 1.21.x-26.3 - v1.6.3.zip",
+              "url": "resourcepacks/animated-items 1.21.x-26.3 - v1.6.3.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996734382400,
+          "name": "Bare Bones 1.21.11",
+          "favorite": false,
+          "version": {
+            "id": -1428996744754300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "2023465d2bac693b009c65c4e2566c2d58e2c2c6",
+              "size": 5488875,
+              "path": "resourcepacks/Bare Bones 1.21.11.zip",
+              "url": "resourcepacks/Bare Bones 1.21.11.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996744779000,
+          "name": "Bare Bones 3D Doors",
+          "favorite": false,
+          "version": {
+            "id": -1428996747510800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c3ac5a16464c7ddfe68837f48979460ac50ee4fd",
+              "size": 697113,
+              "path": "resourcepacks/Bare Bones 3D Doors.zip",
+              "url": "resourcepacks/Bare Bones 3D Doors.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996747538000,
+          "name": "Bare Bones Connected Glass 1.21.11",
+          "favorite": false,
+          "version": {
+            "id": -1428996749137600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ab8fe49e8ac0d3e27f7358710327151132750e47",
+              "size": 365292,
+              "path": "resourcepacks/Bare Bones Connected Glass 1.21.11.zip",
+              "url": "resourcepacks/Bare Bones Connected Glass 1.21.11.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996749183800,
+          "name": "Bare Bones PBR",
+          "favorite": false,
+          "version": {
+            "id": -1428996756620500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b472560b1093651aa6207a536819b3ab73fe0b3f",
+              "size": 5272305,
+              "path": "resourcepacks/Bare Bones PBR.zip",
+              "url": "resourcepacks/Bare Bones PBR.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996756651300,
+          "name": "Better Lanterns v1.3.2 - 26.1",
+          "favorite": false,
+          "version": {
+            "id": -1428996757438200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5632f9322216ef691d64d54a9f319b0187a53a6e",
+              "size": 72588,
+              "path": "resourcepacks/Better Lanterns v1.3.2 - 26.1.zip",
+              "url": "resourcepacks/Better Lanterns v1.3.2 - 26.1.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996757457500,
+          "name": "crops-3d(2)",
+          "favorite": false,
+          "version": {
+            "id": -1428996758965900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "233e886a3aed43cb48d01f87b8d68f43eb66b970",
+              "size": 483678,
+              "path": "resourcepacks/crops-3d(2).zip",
+              "url": "resourcepacks/crops-3d(2).zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996758987000,
+          "name": "enchant-icons-26.1-26.1.2-v1.3",
+          "favorite": false,
+          "version": {
+            "id": -1428996759889500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "37dae04c392ab6be81e66ebc4087021128d273e9",
+              "size": 182067,
+              "path": "resourcepacks/enchant-icons-26.1-26.1.2-v1.3.zip",
+              "url": "resourcepacks/enchant-icons-26.1-26.1.2-v1.3.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996759938200,
+          "name": "Enchantment Glows v1.12.1",
+          "favorite": false,
+          "version": {
+            "id": -1428996763278200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "d9251675c9c84f144579ca6076b2ec373124d90a",
+              "size": 2126138,
+              "path": "resourcepacks/Enchantment Glows v1.12.1.zip",
+              "url": "resourcepacks/Enchantment Glows v1.12.1.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996763335500,
+          "name": "FA+All_Extensions-v1.9.2",
+          "favorite": false,
+          "version": {
+            "id": -1428996765077400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ddbd552ffad16b8b1c0980d7d33071c98e88cae5",
+              "size": 378414,
+              "path": "resourcepacks/FA+All_Extensions-v1.9.2.zip",
+              "url": "resourcepacks/FA+All_Extensions-v1.9.2.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996765100200,
+          "name": "FreshAnimations_v1.11.1_26.1+",
+          "favorite": false,
+          "version": {
+            "id": -1428996767328000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ae9175983c5109162c86daae1acff34ccf623faf",
+              "size": 776684,
+              "path": "resourcepacks/FreshAnimations_v1.11.1_26.1+.zip",
+              "url": "resourcepacks/FreshAnimations_v1.11.1_26.1+.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996767374900,
+          "name": "Mod Menu Helper",
+          "favorite": false,
+          "version": {
+            "id": -1428996768386500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "3db6abd75c317f195750f0eaa7114144f6a3a058",
+              "size": 89857,
+              "path": "resourcepacks/Mod Menu Helper.zip",
+              "url": "resourcepacks/Mod Menu Helper.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996768408000,
+          "name": "Optimized Bushy Leaves",
+          "favorite": false,
+          "version": {
+            "id": -1428996769995700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5595b4f3d1b4376f9fcd2530305dc772adc5fc81",
+              "size": 469169,
+              "path": "resourcepacks/Optimized Bushy Leaves.zip",
+              "url": "resourcepacks/Optimized Bushy Leaves.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996770016000,
+          "name": "Os' Colorful Grasses (Mix)",
+          "favorite": false,
+          "version": {
+            "id": -1428996771130500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "97979906a9ff90f4939e00fc26f219ec125a4c63",
+              "size": 338633,
+              "path": "resourcepacks/Os' Colorful Grasses (Mix).zip",
+              "url": "resourcepacks/Os' Colorful Grasses (Mix).zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996771150600,
+          "name": "RAYs_3D_Rails_v3.6",
+          "favorite": false,
+          "version": {
+            "id": -1428996781091900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "648bcc967799bb3cefb1d276558f0c8630f46b95",
+              "size": 6228510,
+              "path": "resourcepacks/RAYs_3D_Rails_v3.6.zip",
+              "url": "resourcepacks/RAYs_3D_Rails_v3.6.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996781123200,
+          "name": "Re-covered",
+          "favorite": false,
+          "version": {
+            "id": -1428996782046200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "59571d3e7f626fe7ef00b39bfa32400fdff4d7e3",
+              "size": 175321,
+              "path": "resourcepacks/Re-covered.zip",
+              "url": "resourcepacks/Re-covered.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996782080900,
+          "name": "Recolourful Containers 3.1.4 (1.19.4+)",
+          "favorite": false,
+          "version": {
+            "id": -1428996790091800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "802ca58c93fedc5ecbf83ba93df2dc50b6e79c41",
+              "size": 2011177,
+              "path": "resourcepacks/Recolourful Containers 3.1.4 (1.19.4+).zip",
+              "url": "resourcepacks/Recolourful Containers 3.1.4 (1.19.4+).zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996790124900,
+          "name": "Theone's Eating Animation Pack v1.0",
+          "favorite": false,
+          "version": {
+            "id": -1428996790993300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "dcfee884979fa4b9a7d539dd594d38a76a4657c1",
+              "size": 133949,
+              "path": "resourcepacks/Theone's Eating Animation Pack v1.0.zip",
+              "url": "resourcepacks/Theone's Eating Animation Pack v1.0.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996791016000,
+          "name": "White Block Selection Outline",
+          "favorite": false,
+          "version": {
+            "id": -1428996792043500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "a7e9bdd940be4bbcfc1e1c1c53326b351426e621",
+              "size": 187318,
+              "path": "resourcepacks/White Block Selection Outline.zip",
+              "url": "resourcepacks/White Block Selection Outline.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996792178900,
+          "name": "White Outline 1.21.11",
+          "favorite": false,
+          "version": {
+            "id": -1428996792853500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "1a34998e99057bfe08e852273e69a699f8a1457a",
+              "size": 4791,
+              "path": "resourcepacks/White Outline 1.21.11.zip",
+              "url": "resourcepacks/White Outline 1.21.11.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428996792890100,
+          "name": "§l3D§f Ladders v1.2.1 - 26.1",
+          "favorite": false,
+          "version": {
+            "id": -1428996793473500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "2b79d2f6b12409f5181effe3175b21ba756f96d0",
+              "size": 12613,
+              "path": "resourcepacks/§l3D§f Ladders v1.2.1 - 26.1.zip",
+              "url": "resourcepacks/§l3D§f Ladders v1.2.1 - 26.1.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": -1428996793488200,
+          "name": "§nWhite Block Outline",
+          "favorite": false,
+          "version": {
+            "id": -1428996794045300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "676123be213c1ce5fe8d1fe9dc6d7c6a64a04f1d",
+              "size": 35307,
+              "path": "resourcepacks/§nWhite Block Outline.zip",
+              "url": "resourcepacks/§nWhite Block Outline.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
         }
       ],
-      "maps": [],
-      "shaderpacks": [],
+      "maps": [
+        {
+          "stateGameElement": "active",
+          "id": -1428995929998500,
+          "name": "Mist Village",
+          "favorite": false,
+          "version": {
+            "id": -1428995930089200,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Mist Village"
+              ],
+              "size": 0,
+              "path": "saves/Mist Village",
+              "url": "saves/Mist Village"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        }
+      ],
+      "shaderpacks": [
+        {
+          "stateGameElement": "active",
+          "id": -1428987258251900,
+          "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit)",
+          "favorite": false,
+          "version": {
+            "id": -1428987263145300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ded6c8a98305f8aff90ef781e7585b33b8452cfd",
+              "size": 1791406,
+              "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+              "url": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428987263168800,
+          "name": "BSL_v10.0",
+          "favorite": false,
+          "version": {
+            "id": -1428987276432200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "82eb9981a31a4753bb5022b5f64d5ec4f6a27071",
+              "size": 1121678,
+              "path": "shaderpacks/BSL_v10.0.zip",
+              "url": "shaderpacks/BSL_v10.0.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428987276456900,
+          "name": "Builder's QOL Shaders V2.11.0",
+          "favorite": false,
+          "version": {
+            "id": -1428987290343200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "9f695a59bf95e4e734531a9daf54aff6bb5359ed",
+              "size": 2377779,
+              "path": "shaderpacks/Builder's QOL Shaders V2.11.0.zip",
+              "url": "shaderpacks/Builder's QOL Shaders V2.11.0.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428987290366800,
+          "name": "ComplementaryReimagined_r5.7.1",
+          "favorite": false,
+          "version": {
+            "id": -1428987300692700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b560f646a124d5204b1fb7321fec373b9c346fa5",
+              "size": 522970,
+              "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+              "url": "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428987300719100,
+          "name": "MakeUp-UltraFast-9.5f",
+          "favorite": false,
+          "version": {
+            "id": -1428987308914600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b3873dcc6b39093a6c13c2ec9c5d5eee90c06827",
+              "size": 403666,
+              "path": "shaderpacks/MakeUp-UltraFast-9.5f.zip",
+              "url": "shaderpacks/MakeUp-UltraFast-9.5f.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428987308935800,
+          "name": "Mellow v3.4.1a",
+          "favorite": false,
+          "version": {
+            "id": -1428987319677300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5b96318ddd43ac9a37e6483f75d62f0f0f18f81e",
+              "size": 1804545,
+              "path": "shaderpacks/Mellow v3.4.1a.zip",
+              "url": "shaderpacks/Mellow v3.4.1a.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428987319702500,
+          "name": "miniature-shader-2.19",
+          "favorite": false,
+          "version": {
+            "id": -1428987327276800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f66501ebcc5197f72ef19065eb0fa851707d7f9f",
+              "size": 43913,
+              "path": "shaderpacks/miniature-shader-2.19.zip",
+              "url": "shaderpacks/miniature-shader-2.19.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428987327301200,
+          "name": "MiniatureXL 1.0",
+          "favorite": false,
+          "version": {
+            "id": -1428987334083500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c4aa861f91393d663fc831e3266608b273690e59",
+              "size": 87046,
+              "path": "shaderpacks/MiniatureXL 1.0.zip",
+              "url": "shaderpacks/MiniatureXL 1.0.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428987334106900,
+          "name": "superDuperVanilla",
+          "favorite": false,
+          "version": {
+            "id": -1428987348153200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c",
+              "size": 2851664,
+              "path": "shaderpacks/superDuperVanilla.zip",
+              "url": "shaderpacks/superDuperVanilla.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1428987348182700,
+          "name": "Visual-Vibrance-v0.3.5a",
+          "favorite": false,
+          "version": {
+            "id": -1428987362149700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e60e5c1ea1243bf93798ddd34b4a70202781cab8",
+              "size": 4571188,
+              "path": "shaderpacks/Visual-Vibrance-v0.3.5a.zip",
+              "url": "shaderpacks/Visual-Vibrance-v0.3.5a.zip"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        }
+      ],
       "additionalFile": {
         "sha1": "e622bde9b995d789a07ba9ababd6a7be4a02242d",
         "size": 158540,

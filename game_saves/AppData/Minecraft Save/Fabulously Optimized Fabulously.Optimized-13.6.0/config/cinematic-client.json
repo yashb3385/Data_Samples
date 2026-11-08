@@ -34,6 +34,6 @@
   "camera.screenFlash": true,
   "camera.reduceMotion": false,
   "multiplayer.clientOnlyMode": false,
-  "multiplayer.serverHintSeen": false,
+  "multiplayer.serverHintSeen": true,
   "developer.developerMode": false
 }

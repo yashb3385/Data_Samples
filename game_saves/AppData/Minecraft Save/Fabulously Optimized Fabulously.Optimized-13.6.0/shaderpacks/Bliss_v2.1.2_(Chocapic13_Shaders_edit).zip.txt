@@ -1,8 +1,8 @@
-#Mon Nov 02 20:52:00 IST 2026
+#Sat Nov 07 20:11:50 IST 2026
 Ambient_SSS=false
 BLEND_FACTOR=0.04
 BLOOMY_FOG=3.0
-BLOOM_STRENGTH=2.0
+BLOOM_STRENGTH=1.25
 CHOOSE_RANDOM_WEATHER_PROFILE=true
 COLOR_GRADING_ENABLED=true
 Emissive_Curve=2.3
@@ -39,7 +39,7 @@ SHADOWS_GRADE_B=1.2
 SHADOWS_GRADE_G=1.2
 SHADOWS_GRADE_MUL=1.2
 SHADOWS_GRADE_R=1.2
-SHARPENING=0.73
+SHARPENING=1.0
 Screen_Space_Reflections=true
 Season_Length=13
 Seasons=true
@@ -55,6 +55,7 @@ TORCH_G=0.45
 USE_ACES_COLORSPACE_APPROXIMATION=true
 VL_SAMPLES=4
 Variable_Penumbra_Shadows=false
+WAVY_SPEED=0.6
 reflection_quality=6.0
 shadowDistance=64.0
 shadowMapResolution=512

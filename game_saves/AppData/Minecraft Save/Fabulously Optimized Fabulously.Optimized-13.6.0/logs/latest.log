@@ -1,117 +1,56 @@
-[00:01:22] [Render thread/INFO]: [CHAT] Villager has the following entity data: {DeathTime: 0s, RestocksToday: 0, Xp: 0, OnGround: 1b, LeftHanded: 0b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, AgeLocked: 0b, Invulnerable: 0b, Brain: {memories: {}}, Age: 0, VillagerDataFinalized: 1b, Rotation: [-119.50627f, 0.0f], HurtByTimestamp: 0, attributes: [{base: 0.5d, id: "minecraft:movement_speed"}, {modifiers: [{amount: -0.016466170594115034d, operation: "add_multiplied_base", id: "minecraft:random_spawn_bonus"}], base: 16.0d, id: "minecraft:follow_range"}], ForcedAge: 0, fall_distance: 0.0d, Tags: ["refresh_entity_exists"], Air: 300s, UUID: [I; 894139103, -951365854, -1468595488, -1345824898], Inventory: [{id: "minecraft:wheat_seeds", count: 64}, {id: "minecraft:wheat_seeds", count: 64}, {id: "minecraft:wheat_seeds", count: 64}, {id: "minecraft:wheat_seeds", count: 64}, {id: "minecraft:wheat_seeds", count: 64}, {id: "minecraft:wheat_seeds", count: 64}, {id: "minecraft:wheat_seeds", count: 64}, {id: "minecraft:wheat_seeds", count: 64}], Gossips: [], VillagerData: {type: "minecraft:plains", profession: "minecraft:none", level: 1}, Fire: 0s, Motion: [0.0d, -0.0784000015258789d, 0.0d], Pos: [1590.5d, 110.5d, -1152.5d], Health: 20.0f, CanPickUpLoot: 1b, HurtTime: 0s, current_impulse_context_reset_grace_time: 0, FallFlying: 0b, PersistenceRequired: 0b, LastGossipDecay: 12123124L, PortalCooldown: 0}
-[00:03:52] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:03:52] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:03:52] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:03:52] [Render thread/INFO]: [CHAT] 
-[00:03:52] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:03:52] [Render thread/INFO]: [CHAT] 
-[00:03:52] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:03:52] [Render thread/INFO]: [CHAT] 
-[00:03:52] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:03:52] [Render thread/INFO]: [CHAT] 
-[00:03:54] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[00:03:54] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[00:07:09] [Server thread/INFO]: GenTech has reached the goal [Hired Help]
-[00:07:09] [Render thread/INFO]: [CHAT] GenTech has reached the goal [Hired Help]
-[00:07:09] [Render thread/INFO]: Loaded 889 advancements
-[00:07:38] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:07:38] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:07:38] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:07:38] [Render thread/INFO]: [CHAT] 
-[00:07:38] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:07:38] [Render thread/INFO]: [CHAT] 
-[00:07:38] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:07:38] [Render thread/INFO]: [CHAT] 
-[00:07:38] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:07:38] [Render thread/INFO]: [CHAT] 
-[00:07:40] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[00:07:40] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[00:07:41] [Render thread/INFO]: [CHAT] Saved screenshot as 2026-11-03_00.07.40.png
-[00:07:56] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:07:56] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:07:56] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:07:56] [Render thread/INFO]: [CHAT] 
-[00:07:56] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:07:56] [Render thread/INFO]: [CHAT] 
-[00:07:56] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:07:56] [Render thread/INFO]: [CHAT] 
-[00:07:56] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:07:56] [Render thread/INFO]: [CHAT] 
-[00:08:05] [Server thread/INFO]: [GenTech: Set minecraft:overworld to time marker minecraft:day]
-[00:08:05] [Render thread/INFO]: [CHAT] Set minecraft:overworld to time marker minecraft:day
-[00:08:19] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[00:08:19] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[00:10:18] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:10:18] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:10:18] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:10:18] [Render thread/INFO]: [CHAT] 
-[00:10:18] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:10:18] [Render thread/INFO]: [CHAT] 
-[00:10:18] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:10:18] [Render thread/INFO]: [CHAT] 
-[00:10:18] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:10:18] [Render thread/INFO]: [CHAT] 
-[00:11:20] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[00:11:20] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[00:11:20] [Render thread/INFO]: Loaded 890 advancements
-[00:11:21] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[00:11:21] [Render thread/INFO]: Loaded 889 advancements
-[00:12:48] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:12:48] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:12:48] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:12:48] [Render thread/INFO]: [CHAT] 
-[00:12:48] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:12:48] [Render thread/INFO]: [CHAT] 
-[00:12:48] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:12:48] [Render thread/INFO]: [CHAT] 
-[00:12:48] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:12:48] [Render thread/INFO]: [CHAT] 
-[00:12:50] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[00:12:50] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[00:12:52] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:12:52] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:12:52] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:12:52] [Render thread/INFO]: [CHAT] 
-[00:12:52] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:12:52] [Render thread/INFO]: [CHAT] 
-[00:12:52] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:12:52] [Render thread/INFO]: [CHAT] 
-[00:12:52] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:12:52] [Render thread/INFO]: [CHAT] 
-[00:12:55] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[00:12:55] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[00:12:55] [Render thread/WARN]: Unable to play unknown soundEvent: presencefootsteps:pf_presence.stone.gravel_walk
-[00:13:27] [Render thread/INFO]: Loaded 890 advancements
-[00:13:27] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[00:13:27] [Render thread/INFO]: Loaded 889 advancements
-[00:14:07] [Render thread/INFO]: Loaded 890 advancements
-[00:14:08] [Render thread/INFO]: Loaded 890 advancements
-[00:14:08] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[00:14:08] [Render thread/INFO]: Loaded 889 advancements
-[00:14:25] [Render thread/INFO]: Loaded 890 advancements
-[00:14:25] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[00:14:25] [Render thread/INFO]: Loaded 889 advancements
-[00:18:03] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
-[00:21:56] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:21:56] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:21:56] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:21:56] [Render thread/INFO]: [CHAT] 
-[00:21:56] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:21:56] [Render thread/INFO]: [CHAT] 
-[00:21:56] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:21:56] [Render thread/INFO]: [CHAT] 
-[00:21:56] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:21:56] [Render thread/INFO]: [CHAT] 
-[00:22:08] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[00:22:08] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[00:24:28] [Server thread/INFO]: Saving and pausing game...
-[00:24:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[00:24:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[00:24:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[00:25:32] [Render thread/INFO]: [CHAT] Respawn point set
-[00:30:41] [Render thread/ERROR]: Missing program minecraft:polytone/pipeline/leash in override list. This is likely an Iris bug!!!
+[00:00:43] [Render thread/INFO]: [CHAT] Respawn point set
+[00:05:24] [Server thread/INFO]: Saving and pausing game...
+[00:05:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:05:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:05:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:10:36] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
+[00:10:38] [Render thread/INFO]: Loaded 904 advancements
+[00:10:38] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[00:10:38] [Render thread/INFO]: Loaded 903 advancements
+[00:11:41] [Server thread/INFO]: Saving and pausing game...
+[00:11:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:11:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:11:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:16:37] [Server thread/INFO]: Saving and pausing game...
+[00:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:22:03] [Server thread/INFO]: Saving and pausing game...
+[00:22:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:22:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:22:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:22:18] [Server thread/INFO]: Saving and pausing game...
+[00:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:24:39] [Render thread/INFO]: Loaded 904 advancements
+[00:24:39] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[00:24:39] [Render thread/INFO]: Loaded 903 advancements
+[00:27:44] [Server thread/INFO]: Saving and pausing game...
+[00:27:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[00:27:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[00:27:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[00:27:48] [Render thread/INFO]: System default audio device has changed!
+[00:27:49] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (HBTS005)
+[00:27:49] [Render thread/INFO]: Sound engine started
+[00:27:53] [Render thread/INFO]: Audio device was lost!
+[00:27:54] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (2- Realtek(R) Audio)
+[00:27:54] [Render thread/INFO]: Sound engine started
+[00:33:44] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
+[00:46:15] [Render thread/INFO]: Loaded 904 advancements
+[00:46:15] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[00:46:15] [Render thread/INFO]: Loaded 903 advancements
+[00:59:35] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
+[01:05:23] [Render thread/INFO]: Loaded 904 advancements
+[01:05:23] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[01:05:23] [Render thread/INFO]: Loaded 903 advancements
+[01:10:28] [Render thread/INFO]: Loaded 904 advancements
+[01:10:28] [Render thread/INFO]: Loaded 904 advancements
+[01:10:28] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[01:10:28] [Render thread/INFO]: Loaded 903 advancements
+[01:18:31] [Render thread/ERROR]: Missing program minecraft:polytone/pipeline/leash in override list. This is likely an Iris bug!!!
 java.lang.Throwable
-	at knot//com.mojang.blaze3d.opengl.GlDevice.handler$dad000$iris$redirectIrisProgram(GlDevice.java:1069)
+	at knot//com.mojang.blaze3d.opengl.GlDevice.handler$dbn000$iris$redirectIrisProgram(GlDevice.java:1069)
 	at knot//com.mojang.blaze3d.opengl.GlDevice.getOrCompilePipeline(GlDevice.java)
 	at knot//com.mojang.blaze3d.opengl.GlRenderPass.setPipeline(GlRenderPass.java:72)
 	at knot//com.mojang.blaze3d.systems.RenderPass.setPipeline(RenderPass.java:50)
@@ -120,150 +59,118 @@ java.lang.Throwable
 	at knot//net.raphimc.immediatelyfast.feature.core.BatchableBufferSource.drawDirect(BatchableBufferSource.java:178)
 	at knot//net.raphimc.immediatelyfast.feature.core.BatchableBufferSource.endBatch(BatchableBufferSource.java:148)
 	at knot//net.raphimc.immediatelyfast.feature.core.BatchableBufferSource.endLastBatch(BatchableBufferSource.java:125)
-	at knot//net.minecraft.client.renderer.feature.FeatureRenderDispatcher.handler$cnj000$immediatelyfast$drawBatch2(FeatureRenderDispatcher.java:1044)
+	at knot//net.minecraft.client.renderer.feature.FeatureRenderDispatcher.handler$cpd000$immediatelyfast$drawBatch2(FeatureRenderDispatcher.java:1044)
 	at knot//net.minecraft.client.renderer.feature.FeatureRenderDispatcher.renderSolidFeatures(FeatureRenderDispatcher.java:54)
 	at knot//net.minecraft.client.renderer.feature.FeatureRenderDispatcher.renderAllFeatures(FeatureRenderDispatcher.java:82)
 	at knot//net.irisshaders.iris.shadows.ShadowRenderer.renderShadows(ShadowRenderer.java:584)
 	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.renderShadows(IrisRenderingPipeline.java:1030)
-	at knot//net.minecraft.client.renderer.LevelRenderer.handler$cpj000$iris$renderTerrainShadows(LevelRenderer.java:7229)
+	at knot//net.minecraft.client.renderer.LevelRenderer.handler$dbd000$iris$renderTerrainShadows(LevelRenderer.java:8729)
 	at knot//net.minecraft.client.renderer.LevelRenderer.renderLevel(LevelRenderer.java:532)
-	at knot//net.minecraft.client.renderer.GameRenderer.mixinextras$bridge$renderLevel$125(GameRenderer.java)
-	at knot//net.minecraft.client.renderer.GameRenderer.wrapOperation$daa000$iris$renderLevel(GameRenderer.java:6029)
-	at knot//net.minecraft.client.renderer.GameRenderer.wrapOperation$daa000$iris$renderLevel$mixinextras$bridge$112(GameRenderer.java)
+	at knot//net.minecraft.client.renderer.GameRenderer.mixinextras$bridge$renderLevel$127(GameRenderer.java)
+	at knot//net.minecraft.client.renderer.GameRenderer.wrapOperation$dbk000$iris$renderLevel(GameRenderer.java:6529)
+	at knot//net.minecraft.client.renderer.GameRenderer.wrapOperation$dbk000$iris$renderLevel$mixinextras$bridge$114(GameRenderer.java)
 	at knot//net.minecraft.client.renderer.GameRenderer.renderLevel(GameRenderer.java:730)
 	at knot//net.minecraft.client.renderer.GameRenderer.render(GameRenderer.java:443)
-	at knot//net.minecraft.client.Minecraft.renderFrame$mixinextras$wrapped$426(Minecraft.java:1433)
-	at knot//net.minecraft.client.Minecraft.mixinextras$bridge$renderFrame$mixinextras$wrapped$426$427(Minecraft.java)
-	at knot//net.minecraft.client.Minecraft.wrapMethod$znj000$dynamic_fps_common$renderFrame(Minecraft.java:13187)
+	at knot//net.minecraft.client.Minecraft.renderFrame$mixinextras$wrapped$434(Minecraft.java:1433)
+	at knot//net.minecraft.client.Minecraft.mixinextras$bridge$renderFrame$mixinextras$wrapped$434$435(Minecraft.java)
+	at knot//net.minecraft.client.Minecraft.wrapMethod$znm000$dynamic_fps_common$renderFrame(Minecraft.java:13687)
 	at knot//net.minecraft.client.Minecraft.renderFrame(Minecraft.java)
 	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1378)
 	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[00:42:50] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
-[00:42:57] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
-[00:45:23] [Server thread/INFO]: Saving and pausing game...
-[00:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[00:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[00:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[00:51:49] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:51:49] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:51:49] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:51:49] [Render thread/INFO]: [CHAT] 
-[00:51:49] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:51:49] [Render thread/INFO]: [CHAT] 
-[00:51:49] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:51:49] [Render thread/INFO]: [CHAT] 
-[00:51:49] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:51:49] [Render thread/INFO]: [CHAT] 
-[00:52:17] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[00:52:17] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[00:54:54] [Render thread/INFO]: Loaded 890 advancements
-[00:54:54] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[00:54:54] [Render thread/INFO]: Loaded 889 advancements
-[00:59:33] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:59:33] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:59:33] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:59:33] [Render thread/INFO]: [CHAT] 
-[00:59:33] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:59:33] [Render thread/INFO]: [CHAT] 
-[00:59:33] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:59:33] [Render thread/INFO]: [CHAT] 
-[00:59:33] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:59:33] [Render thread/INFO]: [CHAT] 
-[00:59:37] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[00:59:37] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[00:59:59] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[00:59:59] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[00:59:59] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[00:59:59] [Render thread/INFO]: [CHAT] 
-[00:59:59] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[00:59:59] [Render thread/INFO]: [CHAT] 
-[00:59:59] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[00:59:59] [Render thread/INFO]: [CHAT] 
-[00:59:59] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[00:59:59] [Render thread/INFO]: [CHAT] 
-[01:00:10] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[01:00:10] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[01:00:43] [Server thread/INFO]: [GenTech: Set own game mode to Spectator Mode]
-[01:00:43] [Render thread/INFO]: [CHAT] Set own game mode to Spectator Mode
-[01:00:43] [Render thread/INFO]: [CHAT] \nSpectator Actions
-[01:00:43] [Render thread/INFO]: [CHAT] 
-[01:00:43] [Render thread/INFO]: [CHAT] -> Random Player   -> Ghost Particles: ❌
-[01:00:43] [Render thread/INFO]: [CHAT] 
-[01:00:43] [Render thread/INFO]: [CHAT] -> World Spawn      -> Night Vision: ❌
-[01:00:43] [Render thread/INFO]: [CHAT] 
-[01:00:43] [Render thread/INFO]: [CHAT] -> Appear            -> Last Death Location
-[01:00:43] [Render thread/INFO]: [CHAT] 
-[01:00:57] [Server thread/INFO]: [GenTech: Set own game mode to Survival Mode]
-[01:00:57] [Render thread/INFO]: [CHAT] Set own game mode to Survival Mode
-[01:00:57] [Render thread/INFO]: Loaded 890 advancements
-[01:00:57] [Render thread/INFO]: Loaded 890 advancements
-[01:00:58] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[01:00:58] [Render thread/INFO]: Loaded 889 advancements
-[01:01:25] [Server thread/INFO]: Saving and pausing game...
-[01:01:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[01:01:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[01:01:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[01:01:26] [Render thread/INFO]: Client on ClientOnly mode disconnecting.
-[01:01:26] [Netty Local IO #4/INFO]: Disconnected from server, resetting proxy config values
-[01:01:26] [Netty Local IO #5/INFO]: Player [GenTech] disconnected.
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
-[01:01:26] [level shutdown/INFO]: Closing world gen queue
-[01:01:26] [level shutdown/INFO]: Closing WorldGenerationQueue...
-[01:01:26] [level shutdown/INFO]: Shutting down world generator thread pool...
-[01:01:26] [level shutdown/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
-[01:01:26] [level shutdown/INFO]: Finished closing WorldGenerationQueue
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
-[01:01:26] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
-[01:01:26] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
-[01:01:26] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
-[01:01:26] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
-[01:01:26] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
-[01:01:26] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
-[01:01:26] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
-[01:01:26] [Server thread/INFO]: GenTech lost connection: Disconnected
-[01:01:26] [Server thread/INFO]: GenTech left the game
-[01:01:26] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[01:01:26] [Server thread/INFO]: Stopping server
-[01:01:26] [Server thread/INFO]: Saving players
-[01:01:26] [Server thread/INFO]: Saving worlds
-[01:01:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[01:01:26] [Render thread/INFO]: Closing all [3] databases...
-[01:01:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[01:01:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[01:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:01:26] [Server thread/WARN]: [FastQuit] "Mist Village" was not registered in currently saving worlds!
-[01:01:27] [Render thread/INFO]: Seed Renderer closed its checkpoint connection to Distant Horizons' database
-[01:01:27] [Render thread/INFO]: Seed Renderer released 3 world generator binding(s) as the world closed
-[01:01:27] [Render thread/INFO]: Finalizing world map session...
-[01:01:27] [Thread-9/INFO]: World map force-cleaned!
-[01:01:27] [Render thread/INFO]: World map session finalized.
-[01:01:27] [Render thread/INFO]: [FastQuit] Disconnected "Mist Village" from the client.
-[01:01:27] [Render thread/INFO]: Stopping worker threads
-[01:01:27] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
-[01:01:27] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
-[01:01:28] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
-[01:01:28] [Render thread/INFO]: Stopping!
-[01:01:28] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
-[01:01:28] [Render thread/INFO]: [FastQuit] Exiting FastQuit.
-[01:01:28] [Render thread/INFO]: [FastQuit] Waiting for "Mist Village" & "Mist Village" to finish saving...
-[01:01:29] [Ixeris Event Polling Thread/INFO]: Exiting event polling thread.
+[01:19:32] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
+[01:43:34] [Render thread/WARN]: Unable to play unknown soundEvent: presencefootsteps:pf_presence.stone.gravel_walk
+[01:44:24] [Server thread/INFO]: Villager Villager['Mason'/11370, l='ServerLevel[Mist Village]', x=1668.57, y=109.00, z=-1166.89] died, message: 'Mason hit the ground too hard'
+[01:44:24] [Render thread/INFO]: Villager Villager['Mason'/11370, l='ClientLevel', x=1668.55, y=111.34, z=-1167.17] died, message: 'Mason died'
+[01:50:29] [Render thread/INFO]: Serializing class me.cg360.mod.bridging.config.BridgingConfig to 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\bridgingmod.json'
+[01:50:38] [Render thread/INFO]: Serializing class me.cg360.mod.bridging.config.BridgingConfig to 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\bridgingmod.json'
+[02:04:48] [Render thread/INFO]: Loaded 904 advancements
+[02:04:49] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[02:04:49] [Render thread/INFO]: Loaded 903 advancements
+[02:37:32] [Render thread/INFO]: Loaded 904 advancements
+[02:37:32] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[02:37:32] [Render thread/INFO]: Loaded 903 advancements
+[02:48:06] [Render thread/INFO]: Loaded 904 advancements
+[02:48:06] [Render thread/INFO]: Loaded 904 advancements
+[02:48:06] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[02:48:06] [Render thread/INFO]: Loaded 903 advancements
+[02:49:36] [Render thread/INFO]: Loaded 904 advancements
+[02:49:36] [Render thread/INFO]: Loaded 904 advancements
+[02:49:36] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[02:49:36] [Render thread/INFO]: Loaded 903 advancements
+[03:01:03] [Render thread/INFO]: Loaded 904 advancements
+[03:01:03] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[03:01:03] [Render thread/INFO]: Loaded 903 advancements
+[03:25:35] [Render thread/INFO]: [CHAT] Respawn point set
+[03:25:44] [Server thread/INFO]: <GenTech> W
+[03:25:44] [Render thread/INFO]: [CHAT] <GenTech> W
+[03:26:25] [Render thread/INFO]: Loaded 904 advancements
+[03:26:25] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[03:26:25] [Render thread/INFO]: Loaded 903 advancements
+[03:27:03] [Server thread/INFO]: Saving and pausing game...
+[03:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[03:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[03:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[03:27:08] [Render thread/INFO]: Client on ClientOnly mode disconnecting.
+[03:27:08] [Netty Local IO #1/INFO]: Disconnected from server, resetting proxy config values
+[03:27:08] [Netty Local IO #2/INFO]: Player [GenTech] disconnected.
+[03:27:08] [Server thread/INFO]: GenTech lost connection: Disconnected
+[03:27:08] [Server thread/INFO]: GenTech left the game
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
+[03:27:08] [level shutdown/INFO]: Closing world gen queue
+[03:27:08] [level shutdown/INFO]: Closing WorldGenerationQueue...
+[03:27:08] [level shutdown/INFO]: Shutting down world generator thread pool...
+[03:27:08] [level shutdown/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
+[03:27:08] [level shutdown/INFO]: Finished closing WorldGenerationQueue
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[03:27:08] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[03:27:08] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
+[03:27:08] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[03:27:08] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
+[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
+[03:27:08] [Server thread/INFO]: Stopping server
+[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
+[03:27:08] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[03:27:08] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[03:27:08] [Server thread/INFO]: Saving players
+[03:27:08] [Server thread/INFO]: Saving worlds
+[03:27:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[03:27:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[03:27:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[03:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:27:08] [Server thread/WARN]: [FastQuit] "Mist Village" was not registered in currently saving worlds!
+[03:27:09] [Render thread/INFO]: Closing all [3] databases...
+[03:27:10] [Render thread/INFO]: Seed Renderer closed its checkpoint connection to Distant Horizons' database
+[03:27:10] [Render thread/INFO]: Seed Renderer released 3 world generator binding(s) as the world closed
+[03:27:10] [Render thread/INFO]: Finalizing world map session...
+[03:27:10] [Thread-9/INFO]: World map force-cleaned!
+[03:27:10] [Render thread/INFO]: World map session finalized.
+[03:27:10] [Render thread/INFO]: [FastQuit] Disconnected "Mist Village" from the client.
+[03:27:10] [Render thread/INFO]: Stopping worker threads
+[03:27:10] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[03:27:10] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[03:27:15] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[03:27:15] [Render thread/INFO]: Stopping!
+[03:27:15] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[03:27:15] [Render thread/INFO]: [FastQuit] Exiting FastQuit.
+[03:27:15] [Render thread/INFO]: [FastQuit] Waiting for "Mist Village" to finish saving...
+[03:27:16] [Ixeris Event Polling Thread/INFO]: Exiting event polling thread.

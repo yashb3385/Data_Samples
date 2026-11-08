@@ -1,8 +1,7 @@
 {
   "activeProviderIds": [
-    "minecraftcapes",
-    "cosmetica",
-    "optifine"
+    "mod-cape-provider",
+    "minecraftcapes"
   ],
   "useDefaultProvider": true,
   "onlyLoadForSelf": false,
