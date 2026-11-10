@@ -1,0 +1,47 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:player_head": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:player_head": 4
+    },
+    "minecraft:mined": {
+      "minecraft:player_head": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:iron_helmet": 1,
+      "minecraft:iron_boots": 1,
+      "minecraft:iron_chestplate": 1,
+      "minecraft:iron_leggings": 1
+    },
+    "minecraft:used": {
+      "minecraft:player_head": 1
+    },
+    "minecraft:custom": {
+      "minecraft:talked_to_villager": 1,
+      "minecraft:time_since_rest": 3428,
+      "minecraft:walk_one_cm": 40484,
+      "minecraft:leave_game": 17,
+      "minecraft:walk_under_water_one_cm": 4710,
+      "minecraft:damage_taken": 230,
+      "minecraft:play_time": 27796,
+      "minecraft:jump": 79,
+      "minecraft:time_since_death": 3400,
+      "minecraft:drop": 3,
+      "minecraft:open_barrel": 2,
+      "minecraft:sprint_one_cm": 66288,
+      "minecraft:open_chest": 6,
+      "minecraft:fall_one_cm": 5244,
+      "minecraft:swim_one_cm": 200,
+      "minecraft:total_world_time": 42340,
+      "minecraft:fly_one_cm": 8849,
+      "minecraft:walk_on_water_one_cm": 1737,
+      "minecraft:sneak_time": 99,
+      "minecraft:climb_one_cm": 11017,
+      "minecraft:deaths": 1,
+      "minecraft:animals_bred": 13
+    }
+  },
+  "DataVersion": 4790
+}

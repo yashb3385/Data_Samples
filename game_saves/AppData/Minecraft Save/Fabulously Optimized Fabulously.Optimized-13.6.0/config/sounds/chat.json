@@ -14,7 +14,8 @@
 		"volume": 0.9
 	},
 	"mentionKeywords": [
-		"@GenTech"
+		"@GenTech",
+		"@GenTech2385"
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,

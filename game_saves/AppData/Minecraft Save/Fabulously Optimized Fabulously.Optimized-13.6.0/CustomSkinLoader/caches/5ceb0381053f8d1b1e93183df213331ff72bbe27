@@ -1,0 +1,9 @@
+{
+  "id" : "c0d52ec5c25448e4ad9bdf83dcba7e1a",
+  "name" : "gentech",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDM0MjYzNDkxNSwKICAicHJvZmlsZUlkIiA6ICJjMGQ1MmVjNWMyNTQ0OGU0YWQ5YmRmODNkY2JhN2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZW50ZWNoIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRjMDVhYjllMDdiMzUwNWRjM2VjMTEzNzBjM2JkY2U1NTcwYWQyZmIyYjU2MmU5YjlkZDljZjI3MWY4MWFhNDQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

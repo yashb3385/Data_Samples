@@ -1,176 +1,1502 @@
-[00:00:43] [Render thread/INFO]: [CHAT] Respawn point set
-[00:05:24] [Server thread/INFO]: Saving and pausing game...
-[00:05:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[00:05:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[00:05:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[00:10:36] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
-[00:10:38] [Render thread/INFO]: Loaded 904 advancements
-[00:10:38] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[00:10:38] [Render thread/INFO]: Loaded 903 advancements
-[00:11:41] [Server thread/INFO]: Saving and pausing game...
-[00:11:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[00:11:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[00:11:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[00:16:37] [Server thread/INFO]: Saving and pausing game...
-[00:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[00:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[00:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[00:22:03] [Server thread/INFO]: Saving and pausing game...
-[00:22:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[00:22:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[00:22:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[00:22:18] [Server thread/INFO]: Saving and pausing game...
-[00:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[00:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[00:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[00:24:39] [Render thread/INFO]: Loaded 904 advancements
-[00:24:39] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[00:24:39] [Render thread/INFO]: Loaded 903 advancements
-[00:27:44] [Server thread/INFO]: Saving and pausing game...
-[00:27:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[00:27:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[00:27:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[00:27:48] [Render thread/INFO]: System default audio device has changed!
-[00:27:49] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (HBTS005)
-[00:27:49] [Render thread/INFO]: Sound engine started
-[00:27:53] [Render thread/INFO]: Audio device was lost!
-[00:27:54] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (2- Realtek(R) Audio)
-[00:27:54] [Render thread/INFO]: Sound engine started
-[00:33:44] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
-[00:46:15] [Render thread/INFO]: Loaded 904 advancements
-[00:46:15] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[00:46:15] [Render thread/INFO]: Loaded 903 advancements
-[00:59:35] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
-[01:05:23] [Render thread/INFO]: Loaded 904 advancements
-[01:05:23] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[01:05:23] [Render thread/INFO]: Loaded 903 advancements
-[01:10:28] [Render thread/INFO]: Loaded 904 advancements
-[01:10:28] [Render thread/INFO]: Loaded 904 advancements
-[01:10:28] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[01:10:28] [Render thread/INFO]: Loaded 903 advancements
-[01:18:31] [Render thread/ERROR]: Missing program minecraft:polytone/pipeline/leash in override list. This is likely an Iris bug!!!
-java.lang.Throwable
-	at knot//com.mojang.blaze3d.opengl.GlDevice.handler$dbn000$iris$redirectIrisProgram(GlDevice.java:1069)
-	at knot//com.mojang.blaze3d.opengl.GlDevice.getOrCompilePipeline(GlDevice.java)
-	at knot//com.mojang.blaze3d.opengl.GlRenderPass.setPipeline(GlRenderPass.java:72)
-	at knot//com.mojang.blaze3d.systems.RenderPass.setPipeline(RenderPass.java:50)
-	at knot//net.minecraft.client.renderer.rendertype.RenderType.draw(RenderType.java:89)
-	at knot//net.minecraft.client.renderer.MultiBufferSource$BufferSource.endBatch(MultiBufferSource.java:96)
-	at knot//net.raphimc.immediatelyfast.feature.core.BatchableBufferSource.drawDirect(BatchableBufferSource.java:178)
-	at knot//net.raphimc.immediatelyfast.feature.core.BatchableBufferSource.endBatch(BatchableBufferSource.java:148)
-	at knot//net.raphimc.immediatelyfast.feature.core.BatchableBufferSource.endLastBatch(BatchableBufferSource.java:125)
-	at knot//net.minecraft.client.renderer.feature.FeatureRenderDispatcher.handler$cpd000$immediatelyfast$drawBatch2(FeatureRenderDispatcher.java:1044)
-	at knot//net.minecraft.client.renderer.feature.FeatureRenderDispatcher.renderSolidFeatures(FeatureRenderDispatcher.java:54)
-	at knot//net.minecraft.client.renderer.feature.FeatureRenderDispatcher.renderAllFeatures(FeatureRenderDispatcher.java:82)
-	at knot//net.irisshaders.iris.shadows.ShadowRenderer.renderShadows(ShadowRenderer.java:584)
-	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.renderShadows(IrisRenderingPipeline.java:1030)
-	at knot//net.minecraft.client.renderer.LevelRenderer.handler$dbd000$iris$renderTerrainShadows(LevelRenderer.java:8729)
-	at knot//net.minecraft.client.renderer.LevelRenderer.renderLevel(LevelRenderer.java:532)
-	at knot//net.minecraft.client.renderer.GameRenderer.mixinextras$bridge$renderLevel$127(GameRenderer.java)
-	at knot//net.minecraft.client.renderer.GameRenderer.wrapOperation$dbk000$iris$renderLevel(GameRenderer.java:6529)
-	at knot//net.minecraft.client.renderer.GameRenderer.wrapOperation$dbk000$iris$renderLevel$mixinextras$bridge$114(GameRenderer.java)
-	at knot//net.minecraft.client.renderer.GameRenderer.renderLevel(GameRenderer.java:730)
-	at knot//net.minecraft.client.renderer.GameRenderer.render(GameRenderer.java:443)
-	at knot//net.minecraft.client.Minecraft.renderFrame$mixinextras$wrapped$434(Minecraft.java:1433)
-	at knot//net.minecraft.client.Minecraft.mixinextras$bridge$renderFrame$mixinextras$wrapped$434$435(Minecraft.java)
-	at knot//net.minecraft.client.Minecraft.wrapMethod$znm000$dynamic_fps_common$renderFrame(Minecraft.java:13687)
-	at knot//net.minecraft.client.Minecraft.renderFrame(Minecraft.java)
-	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1378)
+[01:58:31] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.5
+[01:58:31] [main/INFO]: Mappings not present!
+[01:58:31] [ForkJoinPool-1-worker-10/WARN]: Mod dev_isxander_sdl_sdl-api uses the version release-3.4.14-7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'release'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:58:31] [ForkJoinPool-1-worker-11/WARN]: Mod dev_isxander_sdl_sdl-backend-ffm uses the version release-3.4.14-7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'release'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:58:31] [main/INFO]: Dependencies overridden for minecraft, polytone
+[01:58:31] [main/WARN]: Warnings were found!
+ - Mod 'Cape Provider' (cape-provider) 5.4.3 conflicts with any version of mod 'CICADA' (cicada), which is present with the following versions: 0.15.3+26.1!
+	 - While this won't prevent you from starting the game, the developer(s) of mod 'Cape Provider' (cape-provider) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
+ - 'Minecraft' (minecraft) 26.1.2 recommends any version after 13.6.0 of Fabulously Optimized, which is missing!
+	 - You should install any version after 13.6.0 of Fabulously Optimized for the optimal experience.
+ - Mod 'Sounds' (sounds) 2.6.0 recommends any version of rsls, which is missing!
+	 - You should install any version of rsls for the optimal experience.
+[01:58:31] [main/INFO]: Loading 196 mods:
+	- ambientsounds 6.3.6
+	- animatica 0.6.3+26.1
+	- better_craftables 7.4.0
+	- betterblockentities 1.3.6+mc26.1.2
+	- betterf3 18.0.0
+	- bettergrass 1.8.7+fabric.26.1.2
+	- bettermounthud 1.3.0
+	- bridgingmod 2.6.6+26.1
+	- cape-provider 5.4.3
+	- cicada 0.15.3+26.1
+	   \-- org_yaml_snakeyaml 2.2
+	- cinematic 0.18.30
+	- cloth-config 26.1.154
+	   \-- cloth-basic-math 0.6.1
+	- config_manager 1.1.3
+	- continuity 3.0.1-beta.2+26.1
+	- controlify 3.5.3+mc26.1
+	   |-- dev_isxander_sdl_sdl-api release-3.4.14-7
+	   |-- dev_isxander_sdl_sdl-backend-ffm release-3.4.14-7
+	   \-- dev_isxander_steamdeck4j 1.1.7
+	- coolrain 1.4.0-26.1.2
+	   \-- midnightlib 1.9.2
+	- crash_assistant 1.11.12
+	- creativecore 2.14.16
+	   \-- net_neoforged_bus 7.2.0
+	- customskinloader-bootstrap 15.1
+	- cwb 4.1.0+26.1
+	- debugify 26.1.2.3
+	- distanthorizons 3.3.3
+	   |-- fabric-api-base 2.0.3+ece063234c
+	   |-- fabric-block-api-v1 3.0.2+ec56b6014c
+	   |-- fabric-block-getter-api-v2 2.0.6+ec56b6014c
+	   |-- fabric-client-gametest-api-v1 5.0.16+cef2a4834c
+	   |-- fabric-command-api-v2 3.0.5+e2bdee784c
+	   |-- fabric-crash-report-info-v1 1.0.3+9f78a5a84c
+	   |-- fabric-debug-api-v1 1.0.1+c792624d4c
+	   |-- fabric-entity-events-v1 5.0.2+e2bdee784c
+	   |-- fabric-game-rule-api-v1 4.0.5+d871b99e4c
+	   |-- fabric-key-mapping-api-v1 2.0.4+e2bdee784c
+	   |-- fabric-loot-api-v3 3.0.12+00a1fba64c
+	   |-- fabric-message-api-v1 7.0.5+dae8ce3e4c
+	   |-- fabric-rendering-fluids-v1 6.0.1+d871b99e4c
+	   |-- fabric-resource-loader-v0 3.3.17+4fc5413f4c
+	   |-- fabric-resource-loader-v1 2.0.10+7c44c7324c
+	   |-- fabric-serialization-api-v1 2.0.3+11a26f314c
+	   |-- fabric-sound-api-v1 2.0.4+11a26f314c
+	   \-- fabric-tag-api-v1 2.1.1+371cf5db4c
+	- do_a_barrel_roll 3.8.4
+	- durabilitytooltip 1.2.0+a
+	- dynamic_fps 3.11.7
+	   |-- dynamic_fps_common 3.11.7
+	   \-- net_lostluma_battery 2.1.0
+	- e4mc 6.2.3+modern
+	   \-- folk_sisby_kaleido-config 0.3.3+1.3.2
+	- elytratrails 1.5.1-26.1
+	- entity_model_features 3.3.11
+	- entity_texture_features 7.2.5
+	- entityculling 1.11.3
+	   |-- transition 1.0.26
+	   \-- trender 1.0.17
+	- fabric-api 0.155.3+26.1.2
+	   |-- fabric-api-base 2.0.3+ece063234c
+	   |-- fabric-api-lookup-api-v1 2.0.12+d5a053b64c
+	   |-- fabric-biome-api-v1 18.0.5+2fa62b4e4c
+	   |-- fabric-block-api-v1 3.0.2+ec56b6014c
+	   |-- fabric-content-registries-v0 11.3.1+af8a297c4c
+	   |-- fabric-convention-tags-v2 4.6.2+4f11f7994c
+	   |-- fabric-crash-report-info-v1 1.0.3+9f78a5a84c
+	   |-- fabric-creative-tab-api-v1 5.0.12+a981f2874c
+	   |-- fabric-data-attachment-api-v1 2.2.10+44a0bd1d4c
+	   |-- fabric-data-generation-api-v1 24.3.4+cda368334c
+	   |-- fabric-dimensions-v1 5.1.7+ad343a8d4c
+	   |-- fabric-entity-events-v1 5.0.2+e2bdee784c
+	   |-- fabric-events-interaction-v0 5.2.3+07b380be4c
+	   |-- fabric-item-api-v1 14.3.0+6d1aaa724c
+	   |-- fabric-lifecycle-events-v1 4.1.1+df84eb3d4c
+	   |-- fabric-loot-api-v3 3.0.12+00a1fba64c
+	   |-- fabric-menu-api-v1 2.0.15+d871b99e4c
+	   |-- fabric-model-loading-api-v1 8.0.11+c80601bb4c
+	   |-- fabric-networking-api-v1 6.3.2+a217cccf4c
+	   |-- fabric-object-builder-api-v1 23.1.1+abb459f14c
+	   |-- fabric-particles-v1 5.0.16+b61fef434c
+	   |-- fabric-permission-api-v1 1.0.3+5730ecca4c
+	   |-- fabric-recipe-api-v1 9.0.17+be4b75ae4c
+	   |-- fabric-registry-sync-v0 7.1.1+2fa62b4e4c
+	   |-- fabric-renderer-api-v1 13.0.8+c80601bb4c
+	   |-- fabric-renderer-indigo 8.1.5+1403e82c4c
+	   |-- fabric-rendering-v1 23.3.1+e9207d814c
+	   |-- fabric-resource-conditions-api-v1 6.1.0+83dd0ba34c
+	   |-- fabric-resource-loader-v0 3.3.17+4fc5413f4c
+	   |-- fabric-screen-api-v1 5.1.0+981dd9b24c
+	   |-- fabric-serialization-api-v1 2.0.3+11a26f314c
+	   |-- fabric-transfer-api-v1 8.0.6+357ea7334c
+	   \-- fabric-transitive-access-wideners-v1 8.1.3+3ff549fb4c
+	- fabric-language-kotlin 1.14.2+kotlin.2.4.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.4.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.4.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.4.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.4.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.33.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.11.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.11.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.9.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.9.1
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.11.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.11.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.11.0
+	- fabricloader 0.19.5
+	   \-- mixinextras 0.5.5
+	- fabrishot 1.17.0
+	- fallingtree 25
+	- fastquit 3.1.4+mc26.1.x
+	- ferritecore 9.0.0
+	- forgeconfigapiport 26.1.5
+	   |-- com_electronwill_night-config_core 3.8.3
+	   \-- com_electronwill_night-config_toml 3.8.3
+	- freecam 1.5.1
+	   \-- mixinextras 0.5.5
+	- fwa 1.3.2
+	- horseman 1.7.4
+	- iceberg 1.4.1.2
+	- immediatelyfast 1.15.3+26.1
+	   \-- net_lenni0451_reflect 1.6.2
+	- iris 1.11.4+mc26.1.2
+	   |-- fabric-api-base 2.0.3+ece063234c
+	   |-- fabric-key-mapping-api-v1 2.0.4+e2bdee784c
+	   |-- io_github_douira_glsl-transformer 3.0.0-pre3
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.13.1
+	- isxander-main-menu-credits 1.3.0
+	- itemborders 1.3.1
+	- ixeris 4.6.8+26.1.2-fabric
+	- jamlib 2.3.1+26.1.x
+	- java 25
+	- lambdynlights 4.11.2+26.1.2
+	   |-- lambdynlights_api 4.11.2+26.1.2
+	   |    |-- yumi_commons_collections 2.0.0
+	   |    |-- yumi_commons_core 2.0.0
+	   |    \-- yumi_commons_event 2.0.0
+	   |-- pride 1.6.0+26.1
+	   |-- spruceui 10.0.0+26.1
+	   \-- yumi_mc_core 1.1.0+26.1
+	        |-- yumi_commons_collections 2.0.0
+	        |-- yumi_commons_core 2.0.0
+	        \-- yumi_commons_event 2.0.0
+	- languagereload 1.7.8+26.1.2
+	- lithium 0.24.7+mc26.1.2
+	- minecraft 26.1.2
+	- mixintrace 1.0
+	- modernfix 5.27.19-build.1
+	- modmenu 18.0.2
+	   \-- placeholder-api 3.0.0+26.1
+	- morechathistory 2.0.0
+	- moreculling 1.7.4
+	   |-- conditional-mixin 0.6.3
+	   \-- mixinsquared 0.2.0
+	- mousetweaks 2.31
+	- mr_anti_endermangrief 1.0.0.1
+	- mr_invisible_armorrecipe 1.0
+	- mr_vanilla_refresh 1.4.31
+	- mru 1.0.43+26.1.2
+	- nochatreports 26.1-v2.19.0
+	- optigui 2.3.0-beta.10+26.1
+	   |-- org_apache_commons_commons-text 1.12.0
+	   \-- org_ini4j_ini4j 0.5.4
+	- owo 0.13.1+26.1
+	   |-- blue_endless_jankson 1.2.2
+	   |-- com_github_kdl-org_kdl4j 1.0.1
+	   |-- io_wispforest_endec 0.1.12
+	   |-- io_wispforest_endec_gson 0.1.7
+	   |-- io_wispforest_endec_jankson 0.1.7
+	   \-- io_wispforest_endec_netty 0.1.6
+	- paginatedadvancements 2.8.0+26.1
+	- pickupanimations 1.0
+	- polytone 26.1.2-6.7.5
+	   |-- codecui 26.1.2-1.4.5
+	   |-- hollowpoint_nexp 1.2.1
+	   \-- net_objecthunter_exp4j 0.4.8
+	- presencefootsteps 1.13.3+26.1
+	   \-- kirin 1.22.0-beta.1+26.1
+	- prism 1.1.1
+	- puzzle 2.3.1
+	   \-- midnightlib 1.9.2
+	- reeses-sodium-options 2.2.4+mc26.1.2
+	- rightclickharvest 4.6.2+26.1.x
+	- rrls 5.2.6+mc.26.1
+	- seedrenderer 0.9.1
+	- skyboxify 3.4
+	   |-- com_moulberry_mixinconstraints 1.1.0
+	   \-- mixinsquared 0.2.0
+	- smoothscroll 2.8.1
+	- sodium 0.9.2+mc26.1.2
+	   |-- fabric-api-base 2.0.3+ece063234c
+	   |-- fabric-block-getter-api-v2 2.0.6+ec56b6014c
+	   \-- fabric-rendering-fluids-v1 6.0.1+d871b99e4c
+	- sodium-extra 0.9.4+mc26.1.2
+	   \-- me_flashyreese_mods_greenlight-api 0.1.0+mc26.2
+	- sounds 2.6.0
+	- spatial_gui 1.9.1
+	- sspb 7.0.0
+	- supermartijn642configlib 1.1.8+a
+	- xaeroworldmap 1.47.2
+	   \-- xaerolib 1.8.5
+	- yet_another_config_lib_v3 3.9.7+26.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- zoomify 2.17.0+mc26.1.2
+[01:58:31] [main/INFO]: No flag found, running a usual copy
+[01:58:31] [main/INFO]: Launching CrashAssistantApp (CrashAssistant-fabric-26.1-1.11.12.jar)
+[01:58:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/pc/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[01:58:32] [CrashAssistantApp process logger/INFO]: CrashAssistantApp process successfully started.
+[01:58:32] [main/WARN]: Reference map 'ambientsounds.mixins.refmap.json' for ambientsounds.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:32] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:32] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:32] [main/INFO]: Initializing CustomSkinLoader Bootstrap for Fabric
+[01:58:32] [main/INFO]: Detected mod loader Fabric 0.19.5
+[01:58:32] [main/INFO]: Releasing CustomSkinLoader Common jar to C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\Core\CustomSkinLoader-Common.jar
+[01:58:33] [main/INFO]: Added CustomSkinLoader Common jar to Fabric class path: C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\Core\CustomSkinLoader-Common.jar
+[01:58:33] [main/INFO]: Preloading Debugify
+[01:58:33] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'iris-fabric.refmap.json' for mixins.iris.fabric.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.bettermipmaps.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fixes.maxfpscrash.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'ixeris.mixins.refmap.json' for ixeris.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/INFO]: Loaded configuration file for Lithium: 171 options available, 0 override(s) found.
+[01:58:33] [main/WARN]: Reference map 'mixintrace-refmap.json' for mixintrace.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/INFO]: Loaded configuration file for ModernFix 5.27.19-build.1: 68 options available, 4 override(s) found
+[01:58:33] [main/WARN]: Option 'mixin.feature.measure_time' overriden (by user configuration) to 'false'
+[01:58:33] [main/WARN]: Option 'mixin.feature.snapshot_easter_egg' overriden (by user configuration) to 'false'
+[01:58:33] [main/WARN]: Option 'mixin.feature.branding' overriden (by user configuration) to 'false'
+[01:58:33] [main/WARN]: Option 'mixin.feature.remove_telemetry' overriden (by user configuration) to 'false'
+[01:58:33] [main/INFO]: Applying Nashorn fix
+[01:58:33] [main/INFO]: Configuring Minecraft's max.bg.threads option with 9 threads
+[01:58:33] [main/WARN]: Reference map 'modernfix.refmap.json' for modernfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'modernfix.refmap.json' for modernfix-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'nochatreports.refmap.json' for mixins/common/nochatreports.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/INFO]: SeedGen: checking its Distant Horizons changes against DH 3.3.3
+[01:58:33] [main/INFO]: Loaded configuration file for Sodium: 37 options available, 1 override(s) found
+[01:58:33] [main/INFO]: Loaded configuration file for Sodium Extra: 26 options available, 0 override(s) found
+[01:58:33] [main/WARN]: Reference map 'spatial-gui.refmap.json' for spatial-gui.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'sspb.refmap.json' for sspb.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:33] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:58:34] [main/WARN]: Error loading class: punchy/client/render/CameraAnimationState (java.lang.ClassNotFoundException: punchy/client/render/CameraAnimationState)
+[01:58:35] [main/WARN]: Force disabled MC-122477 because it only applies to OS: LINUX
+[01:58:35] [main/WARN]: Force disabled MC-59810 because it only applies to OS: MAC
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.server.MixinChunkGenerator] -> [net.minecraft.world.level.chunk.ChunkGenerator]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.server.MixinChunkMap] -> [net.minecraft.server.level.ChunkMap]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.server.MixinEntity] -> [net.minecraft.world.entity.Entity]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.server.MixinServerPlayer] -> [net.minecraft.server.level.ServerPlayer]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.server.MixinTracingExecutor] -> [net.minecraft.TracingExecutor]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.server.MixinUtilBackgroundThread] -> [net.minecraft.util.Util]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.server.MixinLevelTicks] -> [net.minecraft.world.ticks.LevelTicks]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinClientLevel] -> [net.minecraft.client.multiplayer.ClientLevel]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinClientPacketListener] -> [net.minecraft.client.multiplayer.ClientPacketListener]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinDebugScreenOverlay] -> [net.minecraft.client.gui.components.DebugScreenOverlay]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinFogRenderer] -> [net.minecraft.client.renderer.fog.FogRenderer]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinGameRenderer] -> [net.minecraft.client.renderer.GameRenderer]...
+[01:58:35] [main/INFO]: Skip DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinImmersivePortalsRenderStates] -> [qouteall.imm_ptl.core.render.context_management.RenderStates] due to DH logic.
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinIrisFrameBuffer] -> [net.irisshaders.iris.gl.framebuffer.GlFramebuffer]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinLevelRenderer] -> [net.minecraft.client.renderer.LevelRenderer]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinChunkSectionsToRender] -> [net.minecraft.client.renderer.chunk.ChunkSectionsToRender]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinLightTexture] -> [net.minecraft.client.renderer.Lightmap]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinMinecraft] -> [net.minecraft.client.Minecraft]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinOptionsScreen] -> [net.minecraft.client.gui.screens.options.OptionsScreen]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinSharedConstants] -> [net.minecraft.SharedConstants]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinProjectionMatrixBuffer] -> [net.minecraft.client.renderer.ProjectionMatrixBuffer]...
+[01:58:35] [main/INFO]: Apply DH mixin [com.seibel.distanthorizons.fabric.mixins.client.MixinMain] -> [net.minecraft.client.main.Main]...
+[01:58:35] [main/WARN]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev/tr7zw/skinlayers/render/CustomizableModelPart)
+[01:58:36] [main/WARN]: Error loading class: dev/zelo/renderscale/RenderScale (java.lang.ClassNotFoundException: dev/zelo/renderscale/RenderScale)
+[01:58:36] [main/WARN]: Error loading class: net/caffeinemc/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: net/caffeinemc/sodium/client/render/chunk/compile/pipeline/BlockRenderer)
+[01:58:36] [main/WARN]: @Mixin target net/caffeinemc/sodium/client/render/chunk/compile/pipeline/BlockRenderer was not found fwa.client.mixins.json:compat.sodium.BlockRendererMixin from mod fwa
+[01:58:36] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer)
+[01:58:36] [main/WARN]: @Mixin target me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer was not found fwa.client.mixins.json:compat.sodium.BlockRendererMixin from mod fwa
+[01:58:38] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/LanguageReader (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/LanguageReader)
+[01:58:38] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[01:58:38] [main/WARN]: SeedGen: leaving out RetrievalQueueDepthMixin for this Distant Horizons build: GeneratedFullDataSourceProvider.canQueueRetrievalNow does not use the constant 20 in this build
+[01:58:38] [main/WARN]: SeedGen: leaving out SchedulerPriorityMixin for this Distant Horizons build: PriorityTaskPicker.lambda$getExecutorIteratorSortedByShortestTotalRunTime$0 takes different arguments in this build
+[01:58:38] [main/INFO]: SeedGen: leaving out SqliteTuningMixin: this Distant Horizons build does it itself
+[01:58:38] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[01:58:38] [main/WARN]: Error loading class: net/strobel/inventive_inventory/features/sorting/SortingHandler (java.lang.ClassNotFoundException: net/strobel/inventive_inventory/features/sorting/SortingHandler)
+[01:58:38] [main/WARN]: Error loading class: de/rubixdev/inventorio/player/InventorioScreenHandler (java.lang.ClassNotFoundException: de/rubixdev/inventorio/player/InventorioScreenHandler)
+[01:58:38] [main/WARN]: Error loading class: net/blay09/mods/trashslot/client/deletion/DefaultDeletionProvider (java.lang.ClassNotFoundException: net/blay09/mods/trashslot/client/deletion/DefaultDeletionProvider)
+[01:58:38] [main/INFO]: Compiling CustomSkinLoader transformation plan for intermediary mappings
+[01:58:38] [main/INFO]: Compiled 15 of 47 transformation rule(s) for 11 target class(es)
+[01:58:38] [main/INFO]: Applied 11 reflected Fabric Mixin target(s)
+[01:58:39] [main/WARN]: Error loading class: io/wispforest/owo/shader/BlurProgram (java.lang.ClassNotFoundException: io/wispforest/owo/shader/BlurProgram)
+[01:58:39] [main/WARN]: @Mixin target io.wispforest.owo.shader.BlurProgram was not found spatial-gui.mixins.json:compat.OwoBlurMixin from mod spatial_gui
+[01:58:39] [main/INFO]: Searching for graphics cards...
+[01:58:41] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=NVIDIA, description='NVIDIA GeForce RTX 2050', adapterType=0x00002313, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\nvmii.inf_amd64_f1ea8be696d056d0\nvoglv64.dll', openglIcdVersion=32.0.16.1656}
+[01:58:41] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=INTEL, description='Intel(R) UHD Graphics', adapterType=0x0000232B, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8e2429f185e36439\igxelpicd64.dll', openglIcdVersion=32.0.101.7092}
+[01:58:41] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS_BROKEN]
+[01:58:41] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[01:58:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.5).
+[01:58:43] [main/INFO]: DH is setting Minecraft's SharedConstants.IS_RUNNING_IN_IDE to [false]
+[01:58:45] [main/INFO]: Transformed net/minecraft/resources/Identifier with [customskinloader:interface-patch/identifier.constructor]
+[01:58:45] [main/INFO]: Transformed Fabric target net.minecraft.resources.Identifier with [customskinloader:interface-patch/identifier.constructor]
+[01:58:48] [Datafixer Bootstrap/INFO]: 291 Datafixer optimizations took 1772 milliseconds
+[01:58:50] [main/INFO]: ModernFix reached bootstrap stage (19.87 s after launch)
+[01:58:56] [main/WARN]: Method overwrite conflict for getTemperature in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[01:59:11] [Ixeris Event Polling Thread/INFO]: Transformed net/minecraft/server/packs/resources/ResourceManager with [customskinloader:interface-patch/resource-manager.interfaces]
+[01:59:11] [Ixeris Event Polling Thread/INFO]: Transformed Fabric target net.minecraft.server.packs.resources.ResourceManager with [customskinloader:interface-patch/resource-manager.interfaces]
+[01:59:12] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:59:12] [Render thread/INFO]: Setting user: GenTech2385
+[01:59:13] [Render thread/INFO]: Enabled 6 bug fixes: [MC-577, MC-59810, MC-90683, MC-122477, MC-237493, MC-259512]
+[01:59:13] [Render thread/INFO]: Successfully Debugify'd your game!
+[01:59:13] [Download-2/ERROR]: Failed to fetch user properties
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at knot//com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:59)
+	at knot//com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:150)
+	at knot//net.minecraft.client.Minecraft.lambda$new$1(Minecraft.java:459)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at knot//com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103)
+	at knot//com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
+	at knot//com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:121)
+	... 5 more
+[01:59:14] [Cicada thread 0/INFO]: [do_a_barrel_roll] Why play a flight sim when you have modded Minecraft?
+[01:59:14] [Render thread/INFO]: [FWA] Fancy World Animations initialized!
+[01:59:15] [Render thread/INFO]: Initializing JamLib on Fabric
+[01:59:15] [Render thread/INFO]: Maybe we take a page out of the Wisp Forest handbook: When in doubt, steal glisco's code
+[01:59:16] [Render thread/INFO]: Initializing Right Click Harvest on FABRIC
+[01:59:16] [Render thread/INFO]: Seed Renderer bound to Distant Horizons; awaiting level load
+[01:59:16] [Render thread/INFO]: Seed Renderer loaded on Fabric
+[01:59:16] [Render thread/INFO]: Checking for loaded mods for compact...
+[01:59:16] [Render thread/INFO]: Building config cache from user defined config file...
+[01:59:16] [Render thread/INFO]: Collecting API Entrypoint's...
+[01:59:16] [Render thread/INFO]: [BetterF3] Loading...
+[01:59:16] [Render thread/INFO]: [BetterF3] All done!
+[01:59:16] [Render thread/INFO]: [BetterGrassify] [FAST] Gamers can finally touch grass!?
+[01:59:16] [Render thread/INFO]: Deserializing BridgingConfig from 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\bridgingmod.json'
+[01:59:17] [Render thread/WARN]: Found okay program match for cinematic:pipeline/highlight: BASIC_COLOR
+[01:59:17] [Render thread/INFO]: Pre-initializing Controlify...
+[01:59:18] [Render thread/INFO]: Initializing Distant Horizons client, firing DhApiBeforeDhInitEvent...
+[01:59:18] [Render thread/INFO]: Running library validation...
+[01:59:19] [Render thread/INFO]: Java.awt.headless set to true. Distant Horizons can correctly display error and info dialog windows.
+[01:59:19] [Render thread/INFO]: Distant Horizons, Version: 3.3.3
+[01:59:19] [Render thread/INFO]: Registering Fabric Client Events
+[01:59:19] [Render thread/INFO]: Registering Fabric Server Events
+[01:59:19] [Render thread/INFO]: Registered mod compatibility accessor for: [Sodium-Fabric].
+[01:59:19] [Render thread/INFO]: Skipping mod compatibility accessor for: [starlight]
+[01:59:19] [Render thread/INFO]: Skipping mod compatibility accessor for: [optifine]
+[01:59:19] [Render thread/INFO]: Skipping mod compatibility accessor for: [bclib]
+[01:59:19] [Render thread/INFO]: Skipping mod compatibility accessor for: [c2me]
+[01:59:19] [Render thread/INFO]: Skipping mod compatibility accessor for: [imm_ptl_core, immersive_portals, immersive_portals_core]
+[01:59:19] [Render thread/INFO]: Skipping mod compatibility accessor for: [chunky]
+[01:59:19] [Render thread/INFO]: Registered mod compatibility accessor for: [iris].
+[01:59:19] [Render thread/INFO]: Initialising config for [DistantHorizons]
+[01:59:20] [Render thread/INFO]: [DistantHorizons] Config initialised
+[01:59:20] [Render thread/INFO]: Dimension ignoring disabled, DH will render all dimensions.
+[01:59:20] [Render thread/INFO]: Applying config to loggers
+[01:59:20] [Render thread/WARN]: Changing Distant Horizons' rendering engine to [OPEN_GL] to allow for Iris rendering. This renderer will be unavailable once Minecraft moves to Vulkan and must be fixed on Iris' end.
+[01:59:20] [Render thread/INFO]: Garbage collectors: [ZGC Minor Cycles, ZGC Minor Pauses, ZGC Major Cycles, ZGC Major Pauses]
+[01:59:20] [Render thread/INFO]: Explicit Garbage Collection: [Enabled]
+[01:59:20] [Render thread/INFO]: Distant Horizons client Initialized.
+[01:59:22] [Render thread/WARN]: Found fine program match for elytratrails:pipeline/entity_translucent_cull: ENTITIES_EYES_TRANS
+[01:59:22] [Render thread/WARN]: Found fine program match for elytratrails:pipeline/entity_translucent_cull: ENTITIES_EYES_TRANS
+[01:59:22] [Render thread/WARN]: Found fine program match for elytratrails:pipeline/entity_cutout_emissive_unlit: ENTITIES_EYES_TRANS
+[01:59:22] [Render thread/WARN]: Found fine program match for elytratrails:pipeline/entity_translucent_emissive_unlit: ENTITIES_EYES_TRANS
+[01:59:22] [Render thread/WARN]: Found fine program match for elytratrails:pipeline/entity_cutout_emissive_unlit: ENTITIES_EYES_TRANS
+[01:59:22] [Render thread/WARN]: Found fine program match for elytratrails:pipeline/entity_translucent_emissive_unlit: ENTITIES_EYES_TRANS
+[01:59:22] [Render thread/WARN]: Found fine program match for elytratrails:pipeline/entity_cutout_lit: ENTITIES_CUTOUT
+[01:59:22] [Render thread/INFO]: [ETF]: Modifying ETF Render State constructor because: for EMF
+[01:59:22] [Render thread/INFO]: Loading Entity Model Features, making those animations fresh since 1862!
+[01:59:22] [Render thread/INFO]: [ETF]: 6 new ETF Random Properties registered by entity_model_features
+[01:59:22] [Render thread/INFO]: Loading Entity Texture Features, :)
+[01:59:22] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[01:59:22] [Render thread/INFO]: [FastQuit] Initialized
+[01:59:22] [Render thread/INFO]: Using Cloth Config Freecam GUI
+[01:59:26] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
+[01:59:26] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
+[01:59:26] [Render thread/INFO]: Deserializing EventSoundsConfig from 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\sounds\event.json'
+[01:59:26] [Render thread/INFO]: Deserializing ChatSoundsConfig from 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\sounds\chat.json'
+[01:59:26] [Render thread/INFO]: Deserializing UISoundsConfig from 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\sounds\ui.json'
+[01:59:26] [Render thread/INFO]: Deserializing WorldSoundsConfig from 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\sounds\world.json'
+[01:59:26] [Render thread/INFO]: Deserializing ModConfig from 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\sounds\mod_utils.json'
+[01:59:31] [Render thread/WARN]: Found *decent* program match for minecraft:polytone/pipeline/leash: MOVING_BLOCK
+[01:59:31] [Render thread/WARN]: Found okay program match for polytone:pipeline/additive_particle: PARTICLES_TRANS
+[01:59:31] [Render thread/WARN]: Found *decent* program match for polytone:pipeline/additive_translucent_moving_block: TEXT_BE
+[01:59:31] [Render thread/INFO]: Config service: org.redlance.dima_dencep.mods.rrls.fabric.config.FabricConfigImpl
+[01:59:31] [Render thread/INFO]: Deserializing SkyboxifyConfig from 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\skyboxify.json'
+[01:59:32] [Render thread/INFO]: Initializing Spatial GUI
+[01:59:32] [Render thread/INFO]: Deserializing SpatialGUIConfig from 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\spatial-gui.json5'
+[01:59:32] [Render thread/INFO]: Loaded 0 profile(s)
+[01:59:32] [Render thread/INFO]: [SSPB] Broken dirt path lighting is best dirt path lighting lol
+[01:59:32] [Render thread/INFO]: [STDOUT]: [TRender] Initializing Client...
+[01:59:32] [Render thread/INFO]: Registering common data for channel xaerolib:main!
+[01:59:32] [Render thread/INFO]: Registering client data for channel xaerolib:main!
+[01:59:32] [Render thread/INFO]: Loading primary common config for channel xaerolib:main!
+[01:59:32] [Render thread/INFO]: Loading server config profiles for channel xaerolib:main!
+[01:59:32] [Render thread/INFO]: Loading primary client config for channel xaerolib:main!
+[01:59:32] [Render thread/INFO]: Loading client config profiles for channel xaerolib:main!
+[01:59:32] [Render thread/INFO]: Loading XaeroLib common 1/2!
+[01:59:32] [Render thread/INFO]: Loading XaeroLib client 1/3!
+[01:59:33] [Render thread/WARN]: io exception while checking patreon: Online mod data expired! Date: Fri Nov 06 17:58:29 IST 2026
+[01:59:33] [Render thread/INFO]: Registering common data for channel xaeroworldmap:main!
+[01:59:33] [Render thread/INFO]: Registering client data for channel xaeroworldmap:main!
+[01:59:33] [Render thread/INFO]: Loading primary common config for channel xaeroworldmap:main!
+[01:59:33] [Render thread/INFO]: Loading server config profiles for channel xaeroworldmap:main!
+[01:59:33] [Render thread/INFO]: Loading primary client config for channel xaeroworldmap:main!
+[01:59:33] [Render thread/INFO]: Loading client config profiles for channel xaeroworldmap:main!
+[01:59:34] [Render thread/INFO]: Loading Xaero's World Map - Stage 1/3
+[01:59:34] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\yacl.json5'
+[01:59:34] [Render thread/INFO]: Initializing mods (entrypoint yumi:init)...
+[01:59:34] [Render thread/INFO]: Queuing DH event binding...
+[01:59:35] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[01:59:35] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[01:59:35] [Render thread/INFO]: Transformed net/minecraft/server/packs/resources/Resource with [customskinloader:interface-patch/resource.interfaces]
+[01:59:35] [Render thread/INFO]: Transformed Fabric target net.minecraft.server.packs.resources.Resource with [customskinloader:interface-patch/resource.interfaces]
+[01:59:36] [Render thread/WARN]: Error reading pack metadata, attempting fallback type
+com.google.gson.JsonParseException: Pack key supported_formats is deprecated starting from pack format 65. Remove supported_formats from your pack.mcmeta.
+	at knot//com.mojang.serialization.DataResult$Error.mdb3b07a$owo$lambda$addStackTraceToException$0$0(DataResult.java:584)
+	at knot//com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287)
+	at knot//net.minecraft.server.packs.resources.ResourceMetadata$2.getSection(ResourceMetadata.java:40)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModNioPackResources.getMetadataSection(ModNioPackResources.java:286)
+	at knot//net.minecraft.server.packs.repository.Pack.readPackMetadata(Pack.java:56)
+	at knot//net.minecraft.server.packs.repository.Pack.readMetaAndCreate(Pack.java:41)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModResourcePackCreator.registerModPack(ModResourcePackCreator.java:122)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModResourcePackCreator.loadPacks(ModResourcePackCreator.java:106)
+	at knot//net.fabricmc.fabric.impl.resource.client.DefaultResourcePackStorage.process(DefaultResourcePackStorage.java:83)
+	at knot//net.minecraft.client.Options.handler$cgk000$fabric-resource-loader-v1$onLoad(Options.java:4301)
+	at knot//net.minecraft.client.Options.load(Options.java:1955)
+	at knot//net.minecraft.client.Options.<init>(Options.java:1695)
+	at knot//net.minecraft.client.Minecraft.<init>(Minecraft.java:479)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[01:59:36] [Render thread/INFO]: Backend library: LWJGL version 3.4.1-snapshot
+[01:59:37] [Ixeris Event Polling Thread/INFO]: Using GlfwEventHandler
+[01:59:37] [Render thread/INFO]: Using GlfwEventHandler
+[01:59:37] [Render thread/INFO]: Modifying process environment to apply workarounds for the NVIDIA graphics driver...
+[01:59:40] [Render thread/INFO]: Initializing ImmediatelyFast 1.15.3+26.1 on NVIDIA GeForce RTX 2050/PCIe/SSE2 (NVIDIA Corporation) with OpenGL 3.3.0 NVIDIA 616.56
+[01:59:40] [Render thread/INFO]: Found Iris 1.11.4+mc26.1.2. Enabling compatibility.
+[01:59:40] [Render thread/INFO]: Debug functionality is disabled.
+[01:59:40] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[01:59:40] [Render thread/INFO]: Transformed com/mojang/blaze3d/platform/NativeImage with [customskinloader:interface-patch/native-image.interface]
+[01:59:40] [Render thread/INFO]: Transformed Fabric target com.mojang.blaze3d.platform.NativeImage with [customskinloader:interface-patch/native-image.interface]
+[01:59:41] [Render thread/INFO]: Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access, GL_EXT_texture_filter_anisotropic
+[01:59:41] [Render thread/WARN]: Error reading pack metadata, attempting fallback type
+com.google.gson.JsonParseException: Pack key supported_formats is deprecated starting from pack format 65. Remove supported_formats from your pack.mcmeta.
+	at knot//com.mojang.serialization.DataResult$Error.mdb3b07a$owo$lambda$addStackTraceToException$0$0(DataResult.java:584)
+	at knot//com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287)
+	at knot//net.minecraft.server.packs.resources.ResourceMetadata$2.getSection(ResourceMetadata.java:40)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModNioPackResources.getMetadataSection(ModNioPackResources.java:286)
+	at knot//net.minecraft.server.packs.repository.Pack.readPackMetadata(Pack.java:56)
+	at knot//net.minecraft.server.packs.repository.Pack.readMetaAndCreate(Pack.java:41)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModResourcePackCreator.registerModPack(ModResourcePackCreator.java:122)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModResourcePackCreator.loadPacks(ModResourcePackCreator.java:106)
+	at knot//net.minecraft.server.packs.repository.BuiltInPackSource.handler$cgf000$fabric-resource-loader-v1$addBuiltinResourcePacks(BuiltInPackSource.java:539)
+	at knot//net.minecraft.server.packs.repository.BuiltInPackSource.loadPacks(BuiltInPackSource.java:51)
+	at knot//net.minecraft.server.packs.repository.PackRepository.discoverAvailable(PackRepository.java:43)
+	at knot//net.minecraft.server.packs.repository.PackRepository.reload(PackRepository.java:36)
+	at knot//net.minecraft.client.Minecraft.<init>(Minecraft.java:574)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[01:59:41] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\resourcepacks\animated-items 1.21.x-26.3 - v1.6.3.zip, ignoring
+[01:59:41] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\resourcepacks\animated-items 1.21.x-26.3 - v1.6.3.zip, ignoring
+[01:59:41] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\resourcepacks\Os' Colorful Grasses (Mix).zip, ignoring
+[01:59:41] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\resourcepacks\Os' Colorful Grasses (Mix).zip, ignoring
+[01:59:41] [Render thread/INFO]: Transformed net/minecraft/client/renderer/texture/SkinTextureDownloader with [customskinloader:skin-texture-patch/skin-texture-downloader.then-compose, customskinloader:skin-texture-patch/skin-texture-downloader.process-legacy-skin.v2]
+[01:59:41] [Render thread/INFO]: Transformed Fabric target net.minecraft.client.renderer.texture.SkinTextureDownloader with [customskinloader:skin-texture-patch/skin-texture-downloader.then-compose, customskinloader:skin-texture-patch/skin-texture-downloader.process-legacy-skin.v2]
+[01:59:41] [Render thread/INFO]: Transformed net/minecraft/client/resources/SkinManager with [customskinloader:skin-manager-patch/skin-manager.cache-key-inner-class, customskinloader:skin-manager-patch/skin-manager.constructor.v5, customskinloader:skin-manager-patch/skin-manager.cache-key.v2]
+[01:59:41] [Render thread/INFO]: Transformed Fabric target net.minecraft.client.resources.SkinManager with [customskinloader:skin-manager-patch/skin-manager.cache-key-inner-class, customskinloader:skin-manager-patch/skin-manager.constructor.v5, customskinloader:skin-manager-patch/skin-manager.cache-key.v2]
+[01:59:41] [Render thread/INFO]: Transformed net/minecraft/client/resources/SkinManager$1 with [customskinloader:skin-manager-patch/skin-manager-1.executor, customskinloader:skin-manager-patch/skin-manager-1.lambda-load-0.v3]
+[01:59:41] [Render thread/INFO]: Transformed Fabric target net.minecraft.client.resources.SkinManager$1 with [customskinloader:skin-manager-patch/skin-manager-1.executor, customskinloader:skin-manager-patch/skin-manager-1.lambda-load-0.v3]
+[01:59:41] [Render thread/INFO]: Transformed net/minecraft/client/resources/SkinManager$TextureCache with [customskinloader:skin-manager-patch/skin-manager-texture-cache.skin-texture-downloader.v2]
+[01:59:41] [Render thread/INFO]: Transformed Fabric target net.minecraft.client.resources.SkinManager$TextureCache with [customskinloader:skin-manager-patch/skin-manager-texture-cache.skin-texture-downloader.v2]
+[01:59:42] [Render thread/INFO]: Hardware information:
+[01:59:42] [Render thread/INFO]: CPU: 12x 12th Gen Intel(R) Core(TM) i5-12450H
+[01:59:42] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 2050/PCIe/SSE2 (Supports OpenGL 3.3.0 NVIDIA 616.56)
+[01:59:42] [Render thread/INFO]: OS: Windows 10 (10.0)
+[01:59:42] [Render thread/INFO]: Transformed net/minecraft/client/gui/components/PlayerTabOverlay with [customskinloader:render-patch/player-tab-overlay.extract-render-state.v1]
+[01:59:42] [Render thread/INFO]: Transformed Fabric target net.minecraft.client.gui.components.PlayerTabOverlay with [customskinloader:render-patch/player-tab-overlay.extract-render-state.v1]
+[01:59:42] [Render thread/INFO]: Reloading ResourceManager: vanilla, ambientsounds, animatica, betterblockentities, betterf3, bettergrass, bettermounthud, bridgingmod, cape-provider, cicada, cinematic, cloth-config, conditional-mixin, config_manager, continuity, controlify, coolrain, creativecore, cwb, debugify, distanthorizons, do_a_barrel_roll, durabilitytooltip, dynamic_fps, dynamic_fps_common, e4mc, elytratrails, entity_model_features, entity_texture_features, entityculling, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-getter-api-v2, fabric-client-gametest-api-v1, fabric-command-api-v2, fabric-content-registries-v0, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-creative-tab-api-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-debug-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-key-mapping-api-v1, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v3, fabric-menu-api-v1, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-permission-api-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-resource-loader-v1, fabric-screen-api-v1, fabric-serialization-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fabrishot, fallingtree, fastquit, forgeconfigapiport, freecam, fwa, horseman, immediatelyfast, iris, jamlib, kirin, lambdynlights, lambdynlights_api, languagereload, lithium, midnightlib, modernfix, modmenu, morechathistory, moreculling, mr_vanilla_refresh, nochatreports, optigui, owo, paginatedadvancements, pickupanimations, placeholder-api, polytone, presencefootsteps, pride, prism, puzzle, reeses-sodium-options, rightclickharvest, rrls, seedrenderer, skyboxify, smoothscroll, sodium, sodium-extra, sounds, spatial_gui, spruceui, sspb, trender, xaerolib, xaeroworldmap, yet_another_config_lib_v3, zoomify, file/§l3D§f Ladders v1.2.1 - 26.1.zip, file/enchant-icons-26.1-26.1.2-v1.3.zip, file/animated-items 1.21.x-26.3 - v1.6.3.zip, file/Theone's Eating Animation Pack v1.0.zip, file/Recolourful Containers 3.1.4 (1.19.4+).zip, file/Re-covered.zip, file/RAYs_3D_Rails_v3.6.zip, file/Mod Menu Helper.zip, file/Enchantment Glows v1.12.1.zip, file/Bare Bones 1.21.11.zip, file/Bare Bones PBR.zip, file/Bare Bones 3D Doors.zip, file/Bare Bones Connected Glass 1.21.11.zip, file/FreshAnimations_v1.11.1_26.1+.zip, file/FA+All_Extensions-v1.9.2.zip, file/crops-3d(2).zip, elytratrails:arrowtrails, elytratrails:allaytrails, continuity:glass_pane_culling_fix, file/Better Lanterns v1.3.2 - 26.1.zip, file/Optimized Bushy Leaves.zip, file/SodiumTranslations.zip
+[01:59:42] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\resourcepacks\animated-items 1.21.x-26.3 - v1.6.3.zip, ignoring
+[01:59:42] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\resourcepacks\animated-items 1.21.x-26.3 - v1.6.3.zip, ignoring
+[01:59:43] [Download-1/INFO]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: null
+[01:59:43] [Download-1/ERROR]: Failed to fetch Realms feature flags
+com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication error with message 'java.lang.RuntimeException: Failed to parse into SignedJWT: null'
+	at knot//com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:526)
+	at knot//com.mojang.realmsclient.client.RealmsClient.fetchFeatureFlags(RealmsClient.java:186)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[01:59:43] [Render thread/WARN]: Invalid path in datapack: minecraft:textures/block/smoker_front_on_n .png, ignoring
+[01:59:43] [Render thread/WARN]: Invalid path in datapack: minecraft:textures/entity/wolf/wolf_ashen_angry_baby_s - Copie (4).png, ignoring
+[01:59:43] [Render thread/WARN]: Invalid path in datapack: minecraft:textures/entity/wolf/wolf_snowy_tame_baby_s - Copie.png, ignoring
+[01:59:44] [Render thread/INFO]: Cached all modded block culling states
+[01:59:45] [Download-1/ERROR]: Failed to retrieve profile key pair
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at knot//com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103)
+	at knot//com.mojang.authlib.minecraft.client.MinecraftClient.post(MinecraftClient.java:64)
+	at knot//com.mojang.authlib.yggdrasil.YggdrasilUserApiService.getKeyPair(YggdrasilUserApiService.java:61)
+	at knot//net.minecraft.client.multiplayer.AccountProfileKeyPairManager.fetchProfileKeyPair(AccountProfileKeyPairManager.java:128)
+	at knot//net.minecraft.client.multiplayer.AccountProfileKeyPairManager.lambda$readOrFetchProfileKeyPair$0(AccountProfileKeyPairManager.java:77)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[01:59:45] [Render thread/INFO]: Running Delayed setup...
+[01:59:45] [Render thread/INFO]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
+[01:59:45] [Render thread/INFO]: DH Ready, binding Iris event handlers...
+[01:59:45] [Render thread/INFO]: DH Iris events bound.
+[01:59:45] [DH-PostClientInit Thread/INFO]: Setting DH Rendering API to: [OPEN_GL]...
+[01:59:46] [DH-PostClientInit Thread/INFO]: DH Rendering successfully bound to: [OpenGL]...
+[01:59:46] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/3
+[01:59:47] [Render thread/ERROR]: io exception while checking versions: Online mod data expired! Date: Fri Nov 06 17:58:29 IST 2026
+[01:59:47] [Render thread/INFO]: Registered player tracker system: map_synced
+[01:59:47] [Render thread/INFO]: No Optifine!
+[01:59:47] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[01:59:47] [Render thread/INFO]: Xaero's World Map: Iris found!
+[01:59:47] [Render thread/INFO]: Loading Xaero's World Map - Stage 3/3
+[01:59:47] [Render thread/INFO]: New world map region cache hash code: 1437822703
+[01:59:47] [Worker-ResourceReload-9/INFO]: Found unifont_pua-17.0.01.hex, loading
+[01:59:47] [Worker-ResourceReload-9/INFO]: Found unifont_all_no_pua-17.0.01.hex, loading
+[01:59:48] [Worker-ResourceReload-9/INFO]: Found unifont_jp_patch-17.0.01.hex, loading
+[01:59:49] [Render thread/INFO]: Loaded AmbientEngine 'basic' v3.2.5. 11 dimension(s), 11 features, 11 blockgroups, 2 sound collections, 38 regions, 60 sounds, 12 sound categories, 6 solids and 2 biome types
+[01:59:49] [Render thread/INFO]: SeedGen GPU: tier=COMPUTE | NVIDIA GeForce RTX 2050/PCIe/SSE2 | 3.3.0 NVIDIA 616.56 | maxInvocations=1024 groupSize=1024x1024x64 ssboBlocks=16 ssboMax=2047MB
+[01:59:49] [Render thread/INFO]: SeedGen GPU: compute self-test passed — GPU meshing path is available
+[01:59:49] [Worker-ResourceReload-6/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\resourcepacks\animated-items 1.21.x-26.3 - v1.6.3.zip, ignoring
+[01:59:49] [Render thread/WARN]: Ignoring ambiguous boolean option CLOUDSHADOWSONLY
+[01:59:49] [Render thread/WARN]: Ignoring ambiguous boolean option WEATHER
+[01:59:49] [Render thread/WARN]: Ignoring ambiguous boolean option CLOUDSHADOWSONLY
+[01:59:49] [Render thread/WARN]: Ignoring ambiguous boolean option LIGHTSOURCE_REFLECTION
+[01:59:49] [Render thread/WARN]: Ignoring ambiguous boolean option LIGHTSOURCE_REFLECTION
+[01:59:49] [Render thread/WARN]: Ignoring ambiguous boolean option WORLD
+[01:59:49] [Render thread/WARN]: Ignoring ambiguous boolean option WORLD
+[01:59:49] [Render thread/WARN]: Unable to resolve shader pack option menu element "Snowy_Winter" defined in shaders.properties
+[01:59:49] [Render thread/INFO]: Profile: OLD_BLISS_TONEMAP (+61 options changed by user)
+[01:59:51] [Render thread/WARN]: Found missing "\" in file "block.properties" in block entry: "humility-afm:led_pink \"
+[01:59:51] [Render thread/WARN]: At ID: "block.261"
+[01:59:51] [Render thread/INFO]: Using shaderpack: Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip
+[01:59:51] [Render thread/INFO]: Loading XaeroLib common 2/2!
+[01:59:51] [Render thread/INFO]: Loading XaeroLib client 2/3!
+[01:59:51] [Render thread/INFO]: Loading XaeroLib client 3/3!
+[01:59:51] [Render thread/INFO]: Thread[#66,Render thread,10,main]
+[01:59:51] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[01:59:51] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 2050/PCIe/SSE2
+[01:59:51] [Render thread/INFO]: OpenGL Version: 3.3.0 NVIDIA 616.56
+[01:59:51] [Render thread/INFO]: Modifying OpenGL context to apply workarounds for the NVIDIA graphics driver...
+[01:59:51] [Render thread/INFO]: Enabling GL_DEBUG_OUTPUT_SYNCHRONOUS to force the NVIDIA driver to disable threaded command submission
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron/sword frame 11: 11
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/thirdperson/enchanted_golden_sword frame 11: 11
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 11: 11
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 12: 12
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 13: 13
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 14: 14
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 15: 15
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 16: 16
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 17: 17
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 18: 18
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 19: 19
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 20: 20
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 21: 21
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/iron_sword_e frame 22: 22
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 11: 11
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 12: 12
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 13: 13
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 14: 14
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 15: 15
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 16: 16
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 17: 17
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 18: 18
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 19: 19
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 20: 20
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 21: 21
+[01:59:52] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper_sword_e frame 22: 22
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/thirdperson/enchanted_diamond_sword frame 11: 11
+[01:59:53] [Worker-ResourceReload-0/WARN]: Invalid path in datapack: minecraft:textures/block/smoker_front_on_n .png, ignoring
+[01:59:53] [Worker-ResourceReload-5/ERROR]: Couldn't parse item model 'biomeswevegone:flowering_yucca_leaves' from pack 'file/Optimized Bushy Leaves.zip': Unknown element id: biomeswevegone:foliage; Unknown element id: biomeswevegone:foliage
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden/sword frame 11: 11
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/copper/e_copper_sword frame 11: 11
+[01:59:53] [Worker-ResourceReload-5/ERROR]: Couldn't parse item model 'biomeswevegone:ripe_yucca_leaves' from pack 'file/Optimized Bushy Leaves.zip': Unknown element id: biomeswevegone:foliage; Unknown element id: biomeswevegone:foliage
+[01:59:53] [Worker-ResourceReload-2/WARN]: Unused frames in sprite combat_expansion:item/iron_katana: [11, 12, 13]
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 11: 11
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 12: 12
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 13: 13
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 14: 14
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 15: 15
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 16: 16
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 17: 17
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 18: 18
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 19: 19
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 20: 20
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 21: 21
+[01:59:53] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/golden_sword_e frame 22: 22
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 11: 11
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 12: 12
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 13: 13
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 14: 14
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 15: 15
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 16: 16
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 17: 17
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 18: 18
+[01:59:54] [Worker-ResourceReload-5/ERROR]: Couldn't parse item model 'biomeswevegone:yucca_leaves' from pack 'file/Optimized Bushy Leaves.zip': Unknown element id: biomeswevegone:foliage; Unknown element id: biomeswevegone:foliage
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 19: 19
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 20: 20
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 21: 21
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond_sword_e frame 22: 22
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/thirdperson/enchanted_iron_sword frame 11: 11
+[01:59:54] [Worker-ResourceReload-2/WARN]: Invalid frame index on sprite minecraft:item/diamond/sword frame 11: 11
+[01:59:54] [Worker-ResourceReload-2/WARN]: Unused frames in sprite minecraft:item/misc/3d_golden_apple: [13]
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_blocking_medium_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 48 column 5 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 48 column 5 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_blocking_thick_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 48 column 5 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 48 column 5 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_blocking_thick_extra_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 42 column 21 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 42 column 21 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_blocking_thin_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 43 column 21 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 43 column 21 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_blocking_thin_extra_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 43 column 21 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 43 column 21 path $.display.thirdperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_medium_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 56 column 5 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 56 column 5 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_thick_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 56 column 5 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 56 column 5 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_thick_extra_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 51 column 20 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 51 column 20 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_thin_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 51 column 20 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 51 column 20 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[01:59:57] [Worker-ResourceReload-7/ERROR]: Failed to load model minecraft:models/item/item_rpo/enchanted_shield_thin_extra_dynamic.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 51 column 20 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:58)
+	at knot//com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:91)
+	at knot//net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:516)
+	at knot//net.fabricmc.fabric.impl.client.model.loading.UnbakedModelDeserializerRegistry.deserialize(UnbakedModelDeserializerRegistry.java:52)
+	at knot//net.fabricmc.fabric.api.client.model.loading.v1.UnbakedModelDeserializer.deserialize(UnbakedModelDeserializer.java:80)
+	at knot//net.minecraft.client.resources.model.ModelManager.modify$bnf000$fabric-model-loading-api-v1$actuallyDeserializeModel(ModelManager.java:648)
+	at knot//net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$2(ModelManager.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$prepareTasks$1(SimpleReloadInstance.java:51)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1750)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.compute(ForkJoinTask.java:1742)
+	at java.base/java.util.concurrent.ForkJoinTask$InterruptibleTask.exec(ForkJoinTask.java:1659)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:511)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1450)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2019)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 51 column 20 path $.display.firstperson_righthand.rotation[1]
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot//com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1817)
+	at knot//com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1613)
+	at knot//com.google.gson.stream.JsonReader.doPeek(JsonReader.java:729)
+	at knot//com.google.gson.stream.JsonReader.hasNext(JsonReader.java:538)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:95)
+	at knot//com.google.gson.internal.bind.JsonElementTypeAdapter.read(JsonElementTypeAdapter.java:35)
+	at knot//com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 15 more
+[02:00:01] [Worker-ResourceReload-6/WARN]: Missing texture references in model minecraft:block/nether_wart_stage2:
+    #missing
+[02:00:01] [Worker-ResourceReload-6/WARN]: Missing texture references in model minecraft:item/enchanted_trident_throwing_thin_extra:
+    particle
+[02:00:01] [Worker-ResourceReload-6/WARN]: Missing texture references in model minecraft:item/enchanted_trident_throwing_thick:
+    particle
+[02:00:01] [Worker-ResourceReload-6/WARN]: Missing texture references in model minecraft:item/enchanted_trident_in_hand_thin_extra:
+    particle
+[02:00:01] [Worker-ResourceReload-6/WARN]: Missing texture references in model minecraft:item/enchanted_trident_in_hand_thick:
+    particle
+[02:00:01] [Render thread/WARN]: Resource pack file/Recolourful Containers 3.1.4 (1.19.4+).zip is not compatible with font atlas resizing. Temporarily disabling font atlas resizing.
+[02:00:02] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (2- Realtek(R) Audio)
+[02:00:02] [Render thread/INFO]: Sound engine started
+[02:00:02] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 8192x4096x0 minecraft:textures/atlas/blocks.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 4096x2048x0 minecraft:textures/atlas/chest.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/celestials.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/beds.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/items.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/signs.png-atlas
+[02:00:02] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[02:00:02] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[02:00:04] [Render thread/INFO]: Transformed net/minecraft/client/renderer/entity/layers/CapeLayer with [customskinloader:render-patch/cape-layer.submit.v2]
+[02:00:04] [Render thread/INFO]: Transformed Fabric target net.minecraft.client.renderer.entity.layers.CapeLayer with [customskinloader:render-patch/cape-layer.submit.v2]
+[02:00:04] [Render thread/INFO]: 29877 cache(s) were cleared!
+[02:00:05] [Render thread/INFO]: Ignoring container `minecraft:player` in `optigui:gui/inventory/backslot.ini`, because of load selector `if.mods=backslot`
+[02:00:05] [Render thread/INFO]: Ignoring container `minecraft:player` in `optigui:gui/inventory/charmofundying.ini`, because of load selector `if.mods=charmofundying`
+[02:00:05] [Render thread/INFO]: [KeyboardLayoutManager] Loaded 3 keyboard layouts
+[02:00:05] [Render thread/INFO]: Loaded 8 Polytone config entries
+[02:00:05] [Render thread/WARN]: Invalid path in datapack: minecraft:textures/block/smoker_front_on_n .png, ignoring
+[02:00:05] [Render thread/WARN]: Invalid path in datapack: minecraft:textures/entity/wolf/wolf_ashen_angry_baby_s - Copie (4).png, ignoring
+[02:00:05] [Render thread/WARN]: Invalid path in datapack: minecraft:textures/entity/wolf/wolf_snowy_tame_baby_s - Copie.png, ignoring
+[02:00:05] [Render thread/INFO]: Geometry registry populated! Task successfully completed
+[02:00:05] [Render thread/INFO]: [ETF]: reloading ETF data.
+[02:00:05] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[02:00:05] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[02:00:06] [Render thread/WARN]: The in declaration 'tempOffsets' in the deferred FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:06] [Render thread/WARN]: Type is VERTEX
+[02:00:06] [Render thread/WARN]: Type is FRAGMENT
+[02:00:06] [Render thread/WARN]: Type is VERTEX
+[02:00:06] [Render thread/WARN]: Type is FRAGMENT
+[02:00:06] [Render thread/WARN]: Type is VERTEX
+[02:00:06] [Render thread/WARN]: Type is FRAGMENT
+[02:00:06] [Render thread/WARN]: The in declaration 'tangent' in the sps FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:06] [Render thread/WARN]: The in declaration 'normalMat' in the sps FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:06] [Render thread/WARN]: The in declaration 'tangent' in the entities_eyes FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:06] [Render thread/WARN]: The in declaration 'normalMat' in the entities_eyes FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:06] [Render thread/WARN]: The in declaration 'tangent' in the entities_eyes_trans FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:06] [Render thread/WARN]: The in declaration 'normalMat' in the entities_eyes_trans FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:07] [Render thread/WARN]: The in declaration 'normalMat' in the beacon FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:07] [Render thread/WARN]: The in declaration 'tangent' in the beacon FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:07] [Render thread/WARN]: The in declaration 'normalMat' in the mekanism_flame FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:07] [Render thread/WARN]: The in declaration 'tangent' in the mekanism_flame FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[02:00:07] [Render thread/INFO]: Initializing Controlify...
+[02:00:07] [Render thread/INFO]: Selected and locked Controlify profile 0
+[02:00:07] [Render thread/INFO]: [SDLNativesLoader] Loaded SDL from controlify
+[02:00:07] [Render thread/INFO]: [SDLNativesLoader] Loading SDL3 version: SdlVersionNumber[major=3, minor=4, micro=12]. Java bindings targeting: SdlVersionNumber[major=3, minor=4, micro=14]
+[02:00:07] [Render thread/WARN]: [SDLNativesLoader] SDL3 NATIVE LIBRARY VERSION MISMATCH! Java bindings are targeting a different version of SDL3 than the loaded native library. This may cause issues.
+[02:00:07] [IO-Worker-1/INFO]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: null
+[02:00:07] [IO-Worker-1/ERROR]: Couldn't connect to realms
+com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication error with message 'java.lang.RuntimeException: Failed to parse into SignedJWT: null'
+	at knot//com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:526)
+	at knot//com.mojang.realmsclient.client.RealmsClient.clientCompatible(RealmsClient.java:307)
+	at knot//com.mojang.realmsclient.RealmsAvailability.lambda$check$0(RealmsAvailability.java:48)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[02:00:08] [Render thread/INFO]: [SDLNativesLoader] Successfully initialised SDL subsystems
+[02:00:08] [Render thread/INFO]: Successfully loaded 576 gamepad mapping entries!
+[02:00:08] [Render thread/INFO]: No controllers found.
+[02:00:08] [Render thread/ERROR]: [SteamDeckUtil] Skipping Steam Deck checks as steamOS has temporarily broken the enhanced driver.
+[02:00:08] [Render thread/INFO]: Steam Deck state: NOT_STEAM_DECK
+[02:00:09] [Render thread/INFO]: Overlay is removed!
+[02:00:18] [Render thread/WARN]: Error reading pack metadata, attempting fallback type
+com.google.gson.JsonParseException: Pack declares support for formats up to 81, but game versions supporting formats 17 to 81 require a pack_format field. Add "pack_format": 57 or require a version greater or equal to 82.0.
+	at knot//com.mojang.serialization.DataResult$Error.mdb3b07a$owo$lambda$addStackTraceToException$0$0(DataResult.java:584)
+	at knot//com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287)
+	at knot//net.minecraft.server.packs.resources.ResourceMetadata$2.getSection(ResourceMetadata.java:40)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModNioPackResources.getMetadataSection(ModNioPackResources.java:286)
+	at knot//net.minecraft.server.packs.repository.Pack.readPackMetadata(Pack.java:56)
+	at knot//net.minecraft.server.packs.repository.Pack.readMetaAndCreate(Pack.java:41)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModResourcePackCreator.registerModPack(ModResourcePackCreator.java:122)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModResourcePackCreator.loadPacks(ModResourcePackCreator.java:106)
+	at knot//net.minecraft.server.packs.repository.PackRepository.discoverAvailable(PackRepository.java:43)
+	at knot//net.minecraft.server.packs.repository.PackRepository.reload(PackRepository.java:36)
+	at knot//net.minecraft.server.MinecraftServer.configurePackRepository(MinecraftServer.java:1576)
+	at knot//net.minecraft.server.WorldLoader$PackConfig.createResourceManager(WorldLoader.java:87)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:173)
+	at knot//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:147)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:156)
+	at knot//net.minecraft.client.Minecraft.managedBlock(Minecraft.java:26671)
+	at knot//net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadWorldDataBlocking(WorldOpenFlows.java:209)
+	at knot//net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadWorldStem(WorldOpenFlows.java:154)
+	at knot//net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.openWorldLoadLevelStem(WorldOpenFlows.java:424)
+	at knot//net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.lambda$upgradeAndOpenWorld$2(WorldOpenFlows.java:379)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:173)
+	at knot//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:147)
+	at knot//net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:127)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1345)
 	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[01:19:32] [Render thread/ERROR]: Deleting stream buffers: Invalid operation.
-[01:43:34] [Render thread/WARN]: Unable to play unknown soundEvent: presencefootsteps:pf_presence.stone.gravel_walk
-[01:44:24] [Server thread/INFO]: Villager Villager['Mason'/11370, l='ServerLevel[Mist Village]', x=1668.57, y=109.00, z=-1166.89] died, message: 'Mason hit the ground too hard'
-[01:44:24] [Render thread/INFO]: Villager Villager['Mason'/11370, l='ClientLevel', x=1668.55, y=111.34, z=-1167.17] died, message: 'Mason died'
-[01:50:29] [Render thread/INFO]: Serializing class me.cg360.mod.bridging.config.BridgingConfig to 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\bridgingmod.json'
-[01:50:38] [Render thread/INFO]: Serializing class me.cg360.mod.bridging.config.BridgingConfig to 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\config\bridgingmod.json'
-[02:04:48] [Render thread/INFO]: Loaded 904 advancements
-[02:04:49] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[02:04:49] [Render thread/INFO]: Loaded 903 advancements
-[02:37:32] [Render thread/INFO]: Loaded 904 advancements
-[02:37:32] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[02:37:32] [Render thread/INFO]: Loaded 903 advancements
-[02:48:06] [Render thread/INFO]: Loaded 904 advancements
-[02:48:06] [Render thread/INFO]: Loaded 904 advancements
-[02:48:06] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[02:48:06] [Render thread/INFO]: Loaded 903 advancements
-[02:49:36] [Render thread/INFO]: Loaded 904 advancements
-[02:49:36] [Render thread/INFO]: Loaded 904 advancements
-[02:49:36] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[02:49:36] [Render thread/INFO]: Loaded 903 advancements
-[03:01:03] [Render thread/INFO]: Loaded 904 advancements
-[03:01:03] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[03:01:03] [Render thread/INFO]: Loaded 903 advancements
-[03:25:35] [Render thread/INFO]: [CHAT] Respawn point set
-[03:25:44] [Server thread/INFO]: <GenTech> W
-[03:25:44] [Render thread/INFO]: [CHAT] <GenTech> W
-[03:26:25] [Render thread/INFO]: Loaded 904 advancements
-[03:26:25] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
-[03:26:25] [Render thread/INFO]: Loaded 903 advancements
-[03:27:03] [Server thread/INFO]: Saving and pausing game...
-[03:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[03:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[03:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[03:27:08] [Render thread/INFO]: Client on ClientOnly mode disconnecting.
-[03:27:08] [Netty Local IO #1/INFO]: Disconnected from server, resetting proxy config values
-[03:27:08] [Netty Local IO #2/INFO]: Player [GenTech] disconnected.
-[03:27:08] [Server thread/INFO]: GenTech lost connection: Disconnected
-[03:27:08] [Server thread/INFO]: GenTech left the game
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
-[03:27:08] [level shutdown/INFO]: Closing world gen queue
-[03:27:08] [level shutdown/INFO]: Closing WorldGenerationQueue...
-[03:27:08] [level shutdown/INFO]: Shutting down world generator thread pool...
-[03:27:08] [level shutdown/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
-[03:27:08] [level shutdown/INFO]: Finished closing WorldGenerationQueue
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
-[03:27:08] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
-[03:27:08] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
-[03:27:08] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
-[03:27:08] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
-[03:27:08] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
-[03:27:08] [Server thread/INFO]: Stopping server
-[03:27:08] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
-[03:27:08] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
-[03:27:08] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
-[03:27:08] [Server thread/INFO]: Saving players
-[03:27:08] [Server thread/INFO]: Saving worlds
-[03:27:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
-[03:27:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
-[03:27:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
-[03:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:27:08] [Server thread/WARN]: [FastQuit] "Mist Village" was not registered in currently saving worlds!
-[03:27:09] [Render thread/INFO]: Closing all [3] databases...
-[03:27:10] [Render thread/INFO]: Seed Renderer closed its checkpoint connection to Distant Horizons' database
-[03:27:10] [Render thread/INFO]: Seed Renderer released 3 world generator binding(s) as the world closed
-[03:27:10] [Render thread/INFO]: Finalizing world map session...
-[03:27:10] [Thread-9/INFO]: World map force-cleaned!
-[03:27:10] [Render thread/INFO]: World map session finalized.
-[03:27:10] [Render thread/INFO]: [FastQuit] Disconnected "Mist Village" from the client.
-[03:27:10] [Render thread/INFO]: Stopping worker threads
-[03:27:10] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
-[03:27:10] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
-[03:27:15] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
-[03:27:15] [Render thread/INFO]: Stopping!
-[03:27:15] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
-[03:27:15] [Render thread/INFO]: [FastQuit] Exiting FastQuit.
-[03:27:15] [Render thread/INFO]: [FastQuit] Waiting for "Mist Village" to finish saving...
-[03:27:16] [Ixeris Event Polling Thread/INFO]: Exiting event polling thread.
+[02:00:18] [Render thread/INFO]: Found new data pack better_craftables, loading it automatically
+[02:00:18] [Render thread/INFO]: Found new data pack mr_invisible_armorrecipe, loading it automatically
+[02:00:19] [Render thread/INFO]: Loaded 1818 recipes
+[02:00:19] [Render thread/INFO]: Loaded 1964 advancements
+[02:00:19] [Render thread/INFO]: Building tag cache.
+[02:00:19] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[02:00:19] [Render thread/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.173 ms
+[02:00:19] [Server thread/INFO]: Started DhWorld of type [CLIENT_SERVER].
+[02:00:19] [Server thread/INFO]: Starting integrated minecraft server version 26.1.2
+[02:00:19] [Server thread/INFO]: Generating keypair
+[02:00:20] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[02:00:20] [Server thread/INFO]: Started DhClientServerLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}] at [[LocalSaveStructure@(C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\saves\Mist Village\dimensions\minecraft\overworld\data)]].
+[02:00:20] [Server thread/INFO]: Seed Renderer loaded 17 tree templates
+[02:00:20] [Server thread/INFO]: Seed Renderer loaded 7 structure sets and 5 village styles, widest reach 31 blocks
+[02:00:20] [Server thread/INFO]: Seed Renderer loaded End captures: 5 chorus (reach 3), 2 cities (reach 50), gateway yes
+[02:00:20] [Server thread/INFO]: Seed Renderer loaded Nether captures: 3 crimson, 3 warped, 3 fossils, 4 bastions (reach 52)
+[02:00:20] [Server thread/INFO]: Seed Renderer places 2 of minecraft:overworld's features where the world puts them rather than scattering them
+[02:00:20] [Server thread/INFO]:    ICEBERG is step 2, index 0 of 5 in that step
+[02:00:20] [Server thread/INFO]:    BLUE_ICEBERG is step 2, index 1 of 5 in that step
+[02:00:20] [Server thread/INFO]: Seed Renderer terrain: not an Amplified world type, one surface per column
+[02:00:20] [Server thread/INFO]: Seed Renderer built sampler #1 in 13ms (terrain half found, surface search cell 8)
+[02:00:20] [Server thread/INFO]: Seed Renderer settings: enabled=true structures=true trees=true waterFeatures=true distantTerrain=AUTO extendedDistance=0 realTerrain=false/64 shareSeed=true serverGeneration=true throughput=AGGRESSIVE
+[02:00:20] [Server thread/INFO]: Seed Renderer limits: dhThreads=5 dhRunTimeRatio=1.0 | throughput=AGGRESSIVE maxDetail=1 queueScale=4 propagateDelayMs=1000 inFlightScale=4 renderBudgetScale=8 renderPriority=8 renderYieldQueue=2147483647 saveDelayMs=10000
+[02:00:20] [Server thread/INFO]: Seed Renderer distant terrain: smooth, coarse sections up to detail level 12 (automatic: this Distant Horizons refines distant terrain as the player approaches)
+[02:00:20] [Server thread/INFO]: Seed Renderer world: NoiseBasedChunkGenerator / MultiNoiseBiomeSource, 54 biomes, y -64..320, sea level 63, cell 4x8
+[02:00:20] [Server thread/INFO]: Seed Renderer is now generating LODs for minecraft:overworld (seed 936383866786765), bound in 571 ms
+[02:00:20] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[02:00:20] [Server thread/INFO]: Started DhClientServerLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}] at [[LocalSaveStructure@(C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\saves\Mist Village\dimensions\minecraft\overworld\data;C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\saves\Mist Village\dimensions\minecraft\the_end\data)]].
+[02:00:20] [Server thread/INFO]: Seed Renderer terrain: the End's islands are vanilla's, drawn from its island field (, probed in 0 ms)
+[02:00:21] [Server thread/INFO]: Seed Renderer settings: enabled=true structures=true trees=true waterFeatures=true distantTerrain=AUTO extendedDistance=0 realTerrain=false/64 shareSeed=true serverGeneration=true throughput=AGGRESSIVE
+[02:00:21] [Server thread/INFO]: Seed Renderer limits: dhThreads=5 dhRunTimeRatio=1.0 | throughput=AGGRESSIVE maxDetail=1 queueScale=4 propagateDelayMs=1000 inFlightScale=4 renderBudgetScale=8 renderPriority=8 renderYieldQueue=2147483647 saveDelayMs=10000
+[02:00:21] [Server thread/INFO]: Seed Renderer distant terrain: smooth, coarse sections up to detail level 12 (automatic: this Distant Horizons refines distant terrain as the player approaches)
+[02:00:21] [Server thread/INFO]: Seed Renderer world: NoiseBasedChunkGenerator / TheEndBiomeSource, 5 biomes, y 0..128, sea level 0, cell 8x4
+[02:00:21] [Server thread/INFO]: Seed Renderer is now generating LODs for minecraft:the_end (seed 936383866786765), bound in 37 ms
+[02:00:21] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[02:00:21] [Server thread/INFO]: Started DhClientServerLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}] at [[LocalSaveStructure@(C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\saves\Mist Village\dimensions\minecraft\the_nether\data;C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\saves\Mist Village\dimensions\minecraft\overworld\data;C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\saves\Mist Village\dimensions\minecraft\the_end\data)]].
+[02:00:21] [Server thread/INFO]: Seed Renderer settings: enabled=true structures=true trees=true waterFeatures=true distantTerrain=AUTO extendedDistance=0 realTerrain=false/64 shareSeed=true serverGeneration=true throughput=AGGRESSIVE
+[02:00:21] [Server thread/INFO]: Seed Renderer limits: dhThreads=5 dhRunTimeRatio=1.0 | throughput=AGGRESSIVE maxDetail=1 queueScale=4 propagateDelayMs=1000 inFlightScale=4 renderBudgetScale=8 renderPriority=8 renderYieldQueue=2147483647 saveDelayMs=10000
+[02:00:21] [Server thread/INFO]: Seed Renderer distant terrain: smooth, coarse sections up to detail level 12 (automatic: this Distant Horizons refines distant terrain as the player approaches)
+[02:00:21] [Server thread/INFO]: Seed Renderer world: NoiseBasedChunkGenerator / MultiNoiseBiomeSource, 5 biomes, y 0..128, sea level 32, cell 4x8
+[02:00:21] [Server thread/INFO]: Seed Renderer is now generating LODs for minecraft:the_nether (seed 936383866786765), bound in 6 ms
+[02:00:21] [Server thread/INFO]: Loading 40 persistent chunks...
+[02:00:21] [Server thread/INFO]: Preparing spawn area: 10%
+[02:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[02:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[02:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[02:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:00:22] [Netty Local IO #1/INFO]: Received FT configuration packet from own server, skipping
+[02:00:22] [Render thread/WARN]: Error reading pack metadata, attempting fallback type
+com.google.gson.JsonParseException: Pack declares support for formats up to 81, but game versions supporting formats 17 to 81 require a pack_format field. Add "pack_format": 57 or require a version greater or equal to 82.0.
+	at knot//com.mojang.serialization.DataResult$Error.mdb3b07a$owo$lambda$addStackTraceToException$0$0(DataResult.java:584)
+	at knot//com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287)
+	at knot//net.minecraft.server.packs.resources.ResourceMetadata$2.getSection(ResourceMetadata.java:40)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModNioPackResources.getMetadataSection(ModNioPackResources.java:286)
+	at knot//net.minecraft.server.packs.repository.Pack.readPackMetadata(Pack.java:56)
+	at knot//net.minecraft.server.packs.repository.Pack.readMetaAndCreate(Pack.java:41)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModResourcePackCreator.registerModPack(ModResourcePackCreator.java:122)
+	at knot//net.fabricmc.fabric.impl.resource.pack.ModResourcePackCreator.loadPacks(ModResourcePackCreator.java:106)
+	at knot//net.minecraft.server.packs.repository.PackRepository.discoverAvailable(PackRepository.java:43)
+	at knot//net.minecraft.server.packs.repository.PackRepository.reload(PackRepository.java:36)
+	at knot//net.minecraft.client.multiplayer.KnownPacksManager.<init>(KnownPacksManager.java:23)
+	at knot//net.minecraft.client.multiplayer.ClientConfigurationPacketListenerImpl.handleSelectKnownPacks(ClientConfigurationPacketListenerImpl.java:103)
+	at knot//net.minecraft.network.protocol.configuration.ClientboundSelectKnownPacks.handle(ClientboundSelectKnownPacks.java:27)
+	at knot//net.minecraft.network.protocol.configuration.ClientboundSelectKnownPacks.handle(ClientboundSelectKnownPacks.java:12)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1343)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[02:00:22] [Server thread/INFO]: Loading 49 chunks for player spawn...
+[02:00:22] [Server thread/INFO]: Preparing spawn area: 50%
+[02:00:22] [Server thread/INFO]: Preparing spawn area: 50%
+[02:00:22] [Server thread/INFO]: Time elapsed: 1268 ms
+[02:00:22] [Render thread/INFO]: Registered 17 custom block set types
+[02:00:22] [Render thread/INFO]: Reloaded Polytone AssetsFiles in 120 ms
+[02:00:22] [Render thread/INFO]: Building tag cache.
+[02:00:22] [Server thread/INFO]: GenTech2385[local:E:6056e442] logged in with entity id 385 at (1654.9782832508747, 108.0, -1163.0057203145273)
+[02:00:22] [Server thread/INFO]: Player [GenTech2385] joined.
+[02:00:22] [Server thread/INFO]: GenTech2385 joined the game
+[02:00:22] [Render thread/INFO]: Fullscreen map required item set to nothing.
+[02:00:22] [Render thread/INFO]: New world map session initialized!
+[02:00:22] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Creating world gen queue
+[02:00:22] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Created world gen queue
+[02:00:22] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Set world gen queue for level [minecraft:overworld].
+[02:00:22] [Render thread/INFO]: Reloading pipeline on dimension change: minecraft:overworld => minecraft:overworld
+[02:00:22] [Render thread/INFO]: Destroying pipeline minecraft:overworld
+[02:00:22] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[02:00:22] [Server thread/INFO]: Sending 1 network capability to GenTech2385
+[02:00:23] [Render thread/WARN]: @ModifyVariable(@At("HEAD")) Shift.BY=1 on sspb.mixins.json:sodium.SmoothLightPipelineMixin from mod sspb::localvar$gca000$sspb$modifyApplyInsetPartialFaceVertexN2d exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[02:00:23] [Render thread/INFO]: Started 5 worker threads
+[02:00:23] [Server thread/INFO]: Changing simulation distance to 5, from 0
+[02:00:23] [Render thread/INFO]: [do_a_barrel_roll] Received config from server
+[02:00:23] [Render thread/INFO]: Received 1 network capability from server (responded with 1)
+[02:00:23] [Render thread/INFO]: Loaded 81 advancements
+[02:00:23] [Server thread/INFO]: [do_a_barrel_roll] Client of GenTech2385 accepted server config.
+[02:00:23] [Server thread/INFO]: Received 1 capability from GenTech2385
+[02:00:23] [Render thread/INFO]: Transformed net/minecraft/client/resources/SkinManager$CacheKey with [customskinloader:skin-manager-patch/skin-manager-cache-key.access]
+[02:00:23] [Render thread/INFO]: Transformed Fabric target net.minecraft.client.resources.SkinManager$CacheKey with [customskinloader:skin-manager-patch/skin-manager-cache-key.access]
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.52":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.440":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.440":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.440":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.440":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.441":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.441":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.441":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.441":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.442":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.442":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.442":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.442":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.443":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.443":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.443":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.443":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.444":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.444":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.444":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.444":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.445":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.445":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.445":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.445":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.446":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.446":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.446":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.446":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.447":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.447":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.447":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.447":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.448":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.448":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.448":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.448":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.449":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.449":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.449":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.449":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.450":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.450":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.450":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.450":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.451":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.451":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.451":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.451":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.452":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.452":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.452":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.452":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.453":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.453":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.453":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.453":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.454":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.454":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.454":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.454":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.455":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.455":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.455":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.455":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.481":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.481":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.481":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.481":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.482":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.482":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.482":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.482":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.483":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.483":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.483":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.483":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.484":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.484":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.484":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.484":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.485":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.485":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.485":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.485":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.486":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.486":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.486":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.486":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.487":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.487":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_east, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.487":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name north_west, ignoring!
+[02:00:23] [Render thread/WARN]: Error while parsing the block ID map entry for "block.487":
+[02:00:23] [Render thread/WARN]: - The block minecraft:tuff_wall has no property with the name south_east, ignoring!
+[02:00:23] [Render thread/INFO]: Stopping worker threads
+[02:00:23] [Render thread/INFO]: Started 5 worker threads
+[02:00:23] [Render thread/WARN]: Config [enableDhFog] was set by [net.irisshaders.iris.compat.dh.LodRendererEvents$2] via the deprecated API method that doesn't define the API caller. 
+If you are a player this can be ignored. 
+If you are a developer please make sure your mod passes in a display name so users can know what your mod controls.
+[02:00:23] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[02:00:23] [Render thread/INFO]: Iris detected, Distant Horizons OpenGL error logging won't be sent in the chat due to Iris throwing known (harmless) OpenGL errors. This is a bug with Iris, not Distant Horizons.
+[02:00:23] [Render thread/INFO]: Creating [GLProxy]... If this is the last message you see there must have been an OpenGL error.
+[02:00:23] [Render thread/INFO]: Lod Render OpenGL version [3.3.0 NVIDIA 616.56].
+[02:00:23] [Render thread/INFO]: minecraftGlCapabilities:
+Your OpenGL support:
+openGL version 3.3+: [true] <- REQUIRED
+Vertex Attribute Buffer Binding: [false] <- optional improvement
+Buffer Storage: [true] <- optional improvement
+
+[02:00:23] [Render thread/INFO]: GPU Vendor [NVIDIA CORPORATION] with OS [Windows], Preferred upload method is [BUFFER_STORAGE].
+[02:00:23] [Render thread/INFO]: GLProxy creation successful. OpenGL smiles upon you this day.
+[02:00:23] [Render thread/INFO]: Setting up renderer
+[02:00:23] [Render thread/INFO]: Renderer setup complete
+[02:00:23] [Render thread/INFO]: Loading shader with type: [35633]
+[02:00:23] [Render thread/INFO]: Shader loaded sucessfully.
+[02:00:23] [Render thread/INFO]: Loading shader with type: [35632]
+[02:00:23] [Render thread/INFO]: Shader loaded sucessfully.
+[02:00:23] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 16
+[02:00:23] [Render thread/INFO]: Overriding vanilla MC settings to better fit Distant Horizons... This behavior can be disabled in the Distant Horizons config.
+[02:00:23] [Render thread/INFO]: Disabling vanilla clouds... This is done to prevent vanilla clouds from rendering on top of Distant Horizons LODs.
+[02:00:23] [Render thread/INFO]: Disabling vanilla chunk fade in... This is done to prevent vanilla chunks from flashing on the Distant Horizons boarder when moving (which is distracting).
+[02:00:23] [Render thread/INFO]: Disabling improved transparency... This is done to fix vanilla chunks (specifically water blocks) not fading into Distant Horizons LODs when DH's 'Vanilla Fade' option is enabled.
+[02:00:23] [Render thread/WARN]: Config [enableSsao] was set by [net.irisshaders.iris.compat.dh.LodRendererEvents$13] via the deprecated API method that doesn't define the API caller. 
+If you are a player this can be ignored. 
+If you are a developer please make sure your mod passes in a display name so users can know what your mod controls.
+[02:00:23] [Render thread/INFO]: Loading shader with type: [35633]
+[02:00:23] [Render thread/INFO]: Shader loaded sucessfully.
+[02:00:23] [Render thread/INFO]: Loading shader with type: [35632]
+[02:00:23] [Render thread/INFO]: Shader loaded sucessfully.
+[02:00:23] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[02:00:23] [Render thread/INFO]: Loading shader with type: [35633]
+[02:00:23] [Render thread/INFO]: Shader loaded sucessfully.
+[02:00:23] [Render thread/INFO]: Loading shader with type: [35632]
+[02:00:23] [Render thread/INFO]: Shader loaded sucessfully.
+[02:00:23] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[02:00:23] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[02:00:24] [Render thread/INFO]: Created: 8192x4096x0 minecraft:textures/atlas/blocks_n.png-atlas
+[02:00:24] [Render thread/INFO]: Created: 8192x4096x0 minecraft:textures/atlas/blocks_s.png-atlas
+[02:00:24] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[02:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:00:27] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 16 reached during a single frame. New capacity will be 32.
+[02:00:31] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/items_s.png-atlas
+[02:00:42] [Render thread/INFO]: Loaded 82 advancements
+[02:00:42] [Render thread/INFO]: Loaded 82 advancements
+[02:00:42] [Render thread/INFO]: Loaded 82 advancements
+[02:00:43] [Render thread/INFO]: Loaded 82 advancements
+[02:00:43] [Render thread/INFO]: Loaded 83 advancements
+[02:00:43] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_super_high
+[02:00:43] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_super_high
+[02:00:43] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[02:00:43] [Render thread/INFO]: Loaded 81 advancements
+[02:00:50] [Render thread/INFO]: Created: 4096x2048x0 minecraft:textures/atlas/chest_s.png-atlas
+[02:02:03] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shulker_boxes_s.png-atlas
+[02:02:34] [Server thread/INFO]: Saving and pausing game...
+[02:02:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[02:02:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[02:02:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[02:03:10] [Render thread/INFO]: Loaded 83 advancements
+[02:03:17] [Server thread/INFO]: GenTech2385 has made the advancement [The Parrots and the Bats]
+[02:03:17] [Render thread/INFO]: [CHAT] GenTech2385 has made the advancement [The Parrots and the Bats]
+[02:03:17] [Render thread/INFO]: Loaded 86 advancements
+[02:04:27] [Render thread/INFO]: Loaded 87 advancements
+[02:04:27] [Render thread/INFO]: Loaded 87 advancements
+[02:04:27] [Render thread/INFO]: Loaded 87 advancements
+[02:04:27] [Render thread/INFO]: Loaded 87 advancements
+[02:04:28] [Render thread/INFO]: Loaded 88 advancements
+[02:04:28] [Server thread/INFO]: GenTech2385 fell from a high place
+[02:04:28] [Server thread/WARN]: [net.minecraft.server.commands.data.EntityDataAccessor] Serialization errors:
+ItemEntity['GenTech2385's Head'/2682, l='ServerLevel[Mist Village]', x=1655.55, y=109.62, z=-1170.52]: Failed to decode value '{components:{"minecraft:custom_data":{vanilla_refresh_death_head:1b},"minecraft:profile":{id:[I;-158805933,266947718,-1776518789,-531551134],name:"GenTech2385",properties:[{name:"textures",signature:"vanilla_refresh_death_head"}]}},count:1,id:"minecraft:player_head"}' from field 'Item': No key value in MapLike[{name:"textures",signature:"vanilla_refresh_death_head"}]; No key value in MapLike[{name:"textures",signature:"vanilla_refresh_death_head"}] missed input: {"minecraft:profile":{id:[I;-158805933,266947718,-1776518789,-531551134],name:"GenTech2385",properties:[{name:"textures",signature:"vanilla_refresh_death_head"}]}}
+[02:04:28] [Render thread/INFO]: [CHAT] GenTech2385 fell from a high place
+[02:04:28] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_super_high
+[02:04:28] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_super_high
+[02:04:28] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/fall_high
+[02:04:28] [Render thread/INFO]: Loaded 86 advancements
+[02:04:28] [Render thread/INFO]: Forgot about advancement vanilla_refresh:player/hurt
+[02:04:28] [Render thread/INFO]: Loaded 85 advancements
+[02:04:29] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Closing world gen queue
+[02:04:29] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Closing WorldGenerationQueue...
+[02:04:29] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Shutting down world generator thread pool...
+[02:04:29] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
+[02:04:29] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Finished closing WorldGenerationQueue
+[02:04:29] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Creating world gen queue
+[02:04:29] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Created world gen queue
+[02:04:29] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO]: Set world gen queue for level [minecraft:overworld].
+[02:04:29] [Render thread/INFO]: [do_a_barrel_roll] Received config from server
+[02:04:29] [Server thread/INFO]: [do_a_barrel_roll] Client of GenTech2385 accepted server config.
+[02:06:14] [Render thread/WARN]: Class dev.dyslexic.cinematic.client.SceneBuffers$Recording does not support optimized vertex writing code paths, which may cause reduced rendering performance
+[02:07:01] [Server thread/INFO]: GenTech2385 has made the advancement [Cover Me with Diamonds]
+[02:07:01] [Render thread/INFO]: [CHAT] GenTech2385 has made the advancement [Cover Me with Diamonds]
+[02:07:01] [Render thread/INFO]: Loaded 85 advancements
+[02:07:19] [Server thread/INFO]: Saving and pausing game...
+[02:07:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[02:07:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[02:07:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[02:07:20] [Render thread/INFO]: Client on ClientOnly mode disconnecting.
+[02:07:20] [Netty Local IO #1/INFO]: Disconnected from server, resetting proxy config values
+[02:07:20] [Netty Local IO #2/INFO]: Player [GenTech2385] disconnected.
+[02:07:20] [Server thread/INFO]: GenTech2385 lost connection: Disconnected
+[02:07:20] [Server thread/INFO]: GenTech2385 left the game
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
+[02:07:20] [level shutdown/INFO]: Closing world gen queue
+[02:07:20] [level shutdown/INFO]: Closing WorldGenerationQueue...
+[02:07:20] [level shutdown/INFO]: Shutting down world generator thread pool...
+[02:07:20] [level shutdown/INFO]: World generator thread pool shutdown with [0] incomplete tasks.
+[02:07:20] [level shutdown/INFO]: Finished closing WorldGenerationQueue
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[02:07:20] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
+[02:07:20] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[02:07:20] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_end}].
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_end}
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}].
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:the_nether}
+[02:07:20] [level shutdown/INFO]: Closed DHLevel for [Wrapped{ServerLevel[Mist Village]@minecraft:overworld}].
+[02:07:20] [level shutdown/INFO]: Closed DhClientServerLevel for Wrapped{ServerLevel[Mist Village]@minecraft:overworld}
+[02:07:20] [Render thread/INFO]: Closed DhWorld of type [CLIENT_SERVER].
+[02:07:20] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[02:07:20] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[02:07:20] [Server thread/INFO]: Stopping server
+[02:07:20] [Server thread/INFO]: Saving players
+[02:07:20] [Server thread/INFO]: Saving worlds
+[02:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:overworld
+[02:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_end
+[02:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mist Village]'/minecraft:the_nether
+[02:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:07:20] [Server thread/WARN]: [FastQuit] "Mist Village" was not registered in currently saving worlds!
+[02:07:22] [Render thread/INFO]: Closing all [3] databases...
+[02:07:22] [Render thread/INFO]: Seed Renderer closed its checkpoint connection to Distant Horizons' database
+[02:07:22] [Render thread/INFO]: Seed Renderer released 3 world generator binding(s) as the world closed
+[02:07:22] [Render thread/INFO]: Finalizing world map session...
+[02:07:22] [Thread-9/INFO]: World map force-cleaned!
+[02:07:22] [Render thread/INFO]: World map session finalized.
+[02:07:22] [Render thread/INFO]: [FastQuit] Disconnected "Mist Village" from the client.
+[02:07:22] [Render thread/INFO]: Stopping worker threads
+[02:07:23] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[02:07:23] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[02:07:24] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[02:07:24] [Render thread/INFO]: Stopping!
+[02:07:24] [Render thread/INFO]: [ETF]: emissive suffixes loaded: [_e]
+[02:07:24] [Render thread/INFO]: [FastQuit] Exiting FastQuit.
+[02:07:24] [Render thread/INFO]: [FastQuit] Waiting for "Mist Village" to finish saving...
+[02:07:24] [Ixeris Event Polling Thread/INFO]: Exiting event polling thread.

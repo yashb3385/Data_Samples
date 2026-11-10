@@ -708,30 +708,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 448233,
-          "name": "Entity Culling FabricForge",
-          "favorite": false,
-          "version": {
-            "id": 9100311,
-            "updateDate": 1791478334000,
-            "metadata": {
-              "sha1": "31cb6f12d73c4b2613fbe61cb3d4483a8c1c786d",
-              "size": 1506721,
-              "path": "mods/entityculling-fabric-1.11.3-mc26.1.jar",
-              "url": "/mods/448233/9100311/entityculling-fabric-1.11.3-mc26.1.jar"
-            },
-            "available": false,
-            "remove": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "notExists": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 1340480,
           "name": "Config Manager",
           "favorite": false,
@@ -863,30 +839,6 @@
               "size": 187418,
               "path": "mods/dynamic-fps-3.11.7%2Bminecraft-26.1.0-fabric.jar",
               "url": "/mods/335493/8159041/dynamic-fps-3.11.7%252Bminecraft-26.1.0-fabric.jar"
-            },
-            "available": false,
-            "remove": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "notExists": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 630104,
-          "name": "MoreCulling",
-          "favorite": false,
-          "version": {
-            "id": 8563681,
-            "updateDate": 1785696972000,
-            "metadata": {
-              "sha1": "1155f693ca85a925f790cabac2ef9b1f5984283d",
-              "size": 360749,
-              "path": "mods/moreculling-fabric-26.1.2-1.7.3.jar",
-              "url": "/mods/630104/8563681/moreculling-fabric-26.1.2-1.7.3.jar"
             },
             "available": false,
             "remove": false
@@ -1927,6 +1879,801 @@
           "populateStatus": false,
           "available": false,
           "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1802997356331700,
+          "name": "BetterCraftables_v7.4.0+mod_mc26.1-26.2",
+          "favorite": false,
+          "version": {
+            "id": -1802997357264900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "738e0fb9eb5e97e8100d98bc99375dcf9da93d06",
+              "size": 220822,
+              "path": "mods/BetterCraftables_v7.4.0+mod_mc26.1-26.2.jar",
+              "url": "mods/BetterCraftables_v7.4.0+mod_mc26.1-26.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1802997357342500,
+          "name": "blocky-outline-1.1.4.1",
+          "favorite": false,
+          "version": {
+            "id": -1802997358599400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "164b36bb51c15f739426376aec0391cf87f72d2f",
+              "size": 80412,
+              "path": "mods/blocky-outline-1.1.4.1.jar",
+              "url": "mods/blocky-outline-1.1.4.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 630104,
+          "name": "MoreCulling",
+          "author": "fx_pr0cess",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/moreculling",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 916261,
+          "pictures": [],
+          "lanName": "moreculling",
+          "version": {
+            "id": 9398856,
+            "name": "moreculling-fabric-26.1.2-1.7.4",
+            "updateDate": 1793562395000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 69,
+                "name": "26.1.2"
+              },
+              {
+                "id": 68,
+                "name": "26.1.1"
+              },
+              {
+                "id": 67,
+                "name": "26.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "54134e728ce17683171ae0842d813f51ca392ef5",
+              "size": 362035,
+              "path": "mods/moreculling-fabric-26.1.2-1.7.4.jar",
+              "url": "/mods/630104/9398856/moreculling-fabric-26.1.2-1.7.4.jar"
+            },
+            "installed": 11,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 332,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 72,
+            "name": "26.3"
+          },
+          "updated": 1785618000000,
+          "update": 1785618000000,
+          "downloadALL": 213551,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 448233,
+          "name": "Entity Culling FabricForge",
+          "author": "tr9zw",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 787437,
+          "pictures": [],
+          "lanName": "entityculling",
+          "version": {
+            "id": 9100311,
+            "name": "entityculling-fabric-1.11.3-mc26.1",
+            "updateDate": 1791478334000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 69,
+                "name": "26.1.2"
+              },
+              {
+                "id": 68,
+                "name": "26.1.1"
+              },
+              {
+                "id": 67,
+                "name": "26.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "31cb6f12d73c4b2613fbe61cb3d4483a8c1c786d",
+              "size": 1506721,
+              "path": "mods/entityculling-fabric-1.11.3-mc26.1.jar",
+              "url": "/mods/448233/9100311/entityculling-fabric-1.11.3-mc26.1.jar"
+            },
+            "installed": 2902,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 16,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 72,
+            "name": "26.3"
+          },
+          "updated": 1791406800000,
+          "update": 1791406800000,
+          "downloadALL": 3701495,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 286924,
+          "name": "CustomSkinLoader",
+          "author": "xfl03",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/customskinloader",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 845301,
+          "pictures": [],
+          "lanName": "customskinloader",
+          "version": {
+            "id": 9023814,
+            "name": "_Universal-15.1",
+            "updateDate": 1790818531000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 72,
+                "name": "26.3"
+              },
+              {
+                "id": 70,
+                "name": "26.2"
+              },
+              {
+                "id": 69,
+                "name": "26.1.2"
+              },
+              {
+                "id": 68,
+                "name": "26.1.1"
+              },
+              {
+                "id": 67,
+                "name": "26.1"
+              },
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 35,
+                "name": "1.18.2"
+              },
+              {
+                "id": 34,
+                "name": "1.18.1"
+              },
+              {
+                "id": 33,
+                "name": "1.18"
+              },
+              {
+                "id": 32,
+                "name": "1.17.1"
+              },
+              {
+                "id": 39,
+                "name": "1.17"
+              },
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              },
+              {
+                "id": 29,
+                "name": "1.16.3"
+              },
+              {
+                "id": 28,
+                "name": "1.16.2"
+              },
+              {
+                "id": 27,
+                "name": "1.16.1"
+              },
+              {
+                "id": 40,
+                "name": "1.16"
+              },
+              {
+                "id": 26,
+                "name": "1.15.2"
+              },
+              {
+                "id": 25,
+                "name": "1.15.1"
+              },
+              {
+                "id": 24,
+                "name": "1.15"
+              },
+              {
+                "id": 23,
+                "name": "1.14.4"
+              },
+              {
+                "id": 22,
+                "name": "1.14.3"
+              },
+              {
+                "id": 21,
+                "name": "1.14.2"
+              },
+              {
+                "id": 42,
+                "name": "1.14.1"
+              },
+              {
+                "id": 41,
+                "name": "1.14"
+              },
+              {
+                "id": 19,
+                "name": "1.13.2"
+              },
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              },
+              {
+                "id": 4,
+                "name": "1.11.2"
+              },
+              {
+                "id": 5,
+                "name": "1.11"
+              },
+              {
+                "id": 6,
+                "name": "1.10.2"
+              },
+              {
+                "id": 20,
+                "name": "1.10"
+              },
+              {
+                "id": 7,
+                "name": "1.9.4"
+              },
+              {
+                "id": 8,
+                "name": "1.9"
+              },
+              {
+                "id": 9,
+                "name": "1.8.9"
+              },
+              {
+                "id": 10,
+                "name": "1.8.8"
+              },
+              {
+                "id": 11,
+                "name": "1.8"
+              }
+            ],
+            "metadata": {
+              "sha1": "324e6921ecd576e44875981466e7f22170b6541a",
+              "size": 222917,
+              "path": "mods/CustomSkinLoader_Universal-15.1.jar",
+              "url": "/mods/286924/9023814/CustomSkinLoader_Universal-15.1.jar"
+            },
+            "installed": 27023,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 96,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 72,
+            "name": "26.3"
+          },
+          "updated": 1781989200000,
+          "update": 1781989200000,
+          "downloadALL": 693382,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 532610,
+          "name": "oωo (owo-lib)",
+          "author": "gliscowo",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/owo-lib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821382,
+          "pictures": [],
+          "lanName": "owo-lib",
+          "version": {
+            "id": 8589921,
+            "name": "owo-lib-0.13.1+26.1",
+            "updateDate": 1786038382000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 69,
+                "name": "26.1.2"
+              },
+              {
+                "id": 68,
+                "name": "26.1.1"
+              },
+              {
+                "id": 67,
+                "name": "26.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "90d1d816a3a2806fa062948e72114d52bc5625f7",
+              "size": 2263241,
+              "path": "mods/owo-lib-0.13.1%2B26.1.jar",
+              "url": "/mods/532610/8589921/owo-lib-0.13.1%252B26.1.jar"
+            },
+            "installed": 1006,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1787086800000,
+          "update": 1787086800000,
+          "downloadALL": 579799,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 989574,
+          "name": "CICADA",
+          "author": "enjarai enjarai",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cicada",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 845089,
+          "pictures": [],
+          "lanName": "cicada",
+          "version": {
+            "id": 8932783,
+            "name": "cicada-lib-0.15.3+26.1",
+            "updateDate": 1789923698000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 69,
+                "name": "26.1.2"
+              },
+              {
+                "id": 68,
+                "name": "26.1.1"
+              },
+              {
+                "id": 67,
+                "name": "26.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "52659eb4dee9bf2617a3317e194e302c7b9e1fca",
+              "size": 360541,
+              "path": "mods/cicada-lib-0.15.3%2B26.1.jar",
+              "url": "/mods/989574/8932783/cicada-lib-0.15.3%252B26.1.jar"
+            },
+            "installed": 632,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 72,
+            "name": "26.3"
+          },
+          "updated": 1789851600000,
+          "update": 1789851600000,
+          "downloadALL": 162249,
+          "available": true,
+          "parser": true,
+          "notExists": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1437415,
+          "name": "Invisible Armor Recipe",
+          "author": "Phyton",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/invisible-armor-recipe",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 1309862,
+          "pictures": [],
+          "lanName": "invisible-armor-recipe",
+          "version": {
+            "id": 7488703,
+            "name": "invisible-armor-recipe-1.0",
+            "updateDate": 1768833772000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 70,
+                "name": "26.2"
+              },
+              {
+                "id": 69,
+                "name": "26.1.2"
+              },
+              {
+                "id": 68,
+                "name": "26.1.1"
+              },
+              {
+                "id": 67,
+                "name": "26.1"
+              },
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "9d52f4d15ac44f30ecccbd470d5463df3c3bbf75",
+              "size": 32189,
+              "path": "mods/invisible-armor-recipe-1.0.jar",
+              "url": "/mods/1437415/7488703/invisible-armor-recipe-1.0.jar"
+            },
+            "installed": 2471,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1768770000000,
+          "update": 1768770000000,
+          "downloadALL": 2471,
+          "available": true,
+          "parser": true,
           "notExists": false,
           "totalComments": 0
         }

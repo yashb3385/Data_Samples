@@ -170,7 +170,6 @@ key_key.debug.lightmapTexture:key.keyboard.4
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
-key_key.blocky-outline.open_menu:key.keyboard.m
 key_key.bridgingmod.toggle_bridging:key.keyboard.comma
 key_key.cinematic.sit:key.keyboard.h
 key_key.cinematic.look:key.keyboard.left.alt
@@ -244,4 +243,3 @@ modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
 debugifyTelemetry:0
-fullscreenResolution:1920x1080@144:24

@@ -1868,5 +1868,6 @@
       },
       "type": "log4j2-xml"
     }
-  }
+  },
+"skinVersion": true
 }

@@ -1,6 +1,3 @@
-/time set midnight
-/time set day
-/weather clear
 /time set day
 /time set midnight
 /give
@@ -48,3 +45,6 @@
 /data get entity @e[type=minecraft:villager,limit=1,sort=nearest]
 /time set day
 /time set
+/setworldspawn
+/gamerule invisibleArmor true
+/setworldspawn

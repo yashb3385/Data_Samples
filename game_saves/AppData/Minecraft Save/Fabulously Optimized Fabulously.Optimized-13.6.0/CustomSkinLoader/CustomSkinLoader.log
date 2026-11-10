@@ -1,0 +1,204 @@
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 15.1
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 25.0.1, Microsoft
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 26.1.2 (Fabric 0.19.5)
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\CustomSkinLoader.json
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPIPlus
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: version : 15.1
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 41
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "ElyByAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }]
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2026-11-11 02:00:23] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: Loading GenTech2385's profile.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 1/11 Try to load profile from 'GameProfile'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 2/11 Try to load profile from 'Mojang'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 3/11 Try to load profile from 'LittleSkin'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 4/11 Try to load profile from 'BlessingSkin'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 5/11 Try to load profile from 'ElyBy'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 6/11 Try to load profile from 'TLauncher'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 7/11 Try to load profile from 'GlitchlessGames'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 8/11 Try to load profile from 'LocalSkin'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 9/11 Try to load profile from 'MinecraftCapes'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 10/11 Try to load profile from 'OptiFine'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 11/11 Try to load profile from 'CloakPlus'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/GenTech2385.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/GenTech2385.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/GenTech2385' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/GenTech2385' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/GenTech2385.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=GenTech2385' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/INFO] [CustomSkinLoader Core]: Payload: ["GenTech2385"]
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/GenTech2385.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\d33871c4600abdeb933c8f4e669e2f954c85d81a' , Expire: 1794345280)
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\d33871c4600abdeb933c8f4e669e2f954c85d81a'.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=GenTech2385 (Exception: java.net.UnknownHostException: games.glitchless.ru)
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 88 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\45bee3fca367d5b57cb9e1dd591035c725c3ad54' , Expire: 1794342713)
+[2026-11-11 02:00:23] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_gentech2385.png"}}
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\db21e1ce158ab5dc2534e26bb4e96c7622fb8d68' , Expire: 1794342719)
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/INFO] [CustomSkinLoader Core]: Profile not found.(GenTech2385's profile not found.)
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Payload: ["GenTech2385"]
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-11-11 02:00:24] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: Loading GenTech's profile.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 1/11 Try to load profile from 'GameProfile'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 2/11 Try to load profile from 'Mojang'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 3/11 Try to load profile from 'LittleSkin'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 4/11 Try to load profile from 'BlessingSkin'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 5/11 Try to load profile from 'ElyBy'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/GenTech.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/GenTech' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 6/11 Try to load profile from 'TLauncher'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/GenTech.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/GenTech' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 7/11 Try to load profile from 'GlitchlessGames'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 8/11 Try to load profile from 'LocalSkin'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=GenTech' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (Mojang)/INFO] [CustomSkinLoader Core]: Payload: ["GenTech"]
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 9/11 Try to load profile from 'MinecraftCapes'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 10/11 Try to load profile from 'OptiFine'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: 11/11 Try to load profile from 'CloakPlus'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (LocalSkin)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=GenTech (Exception: java.net.UnknownHostException: games.glitchless.ru)
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/GenTech.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/GenTech.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 84 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\f5e74ccf1b1c90cf70fe699be9660fbfe5f8b2c5' , Expire: 1794342723)
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_gentech.png"}}
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 204 , Content Length: -1)
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 0 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\e1069238c7d657f2f106df97dbcbb8bcbca6707f' , Expire: 1794346233)
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (ElyBy)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\921c6d51fc0996a1201150e609283181476e82b3' , Expire: 1794342724)
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-11 02:00:32] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 73)
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "c0d52ec5c25448e4ad9bdf83dcba7e1a",
+  "name" : "gentech"
+} ]
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/c0d52ec5c25448e4ad9bdf83dcba7e1a' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/c0d52ec5c25448e4ad9bdf83dcba7e1a' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 241 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\1ffa5d1735fafcfdc88763dfc714e90fe11275c0' , Expire: 0)
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\1ffa5d1735fafcfdc88763dfc714e90fe11275c0'.
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-11 02:00:33] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request http://161.35.130.99/capes/GenTech2385.png (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-11-11 02:00:33] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-11 02:00:33] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: GenTech2385's profile loaded. (10017ms)
+[2026-11-11 02:00:33] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_gentech2385.png , Model: default , CapeUrl: null  , Expiry: 1794342663)
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 533)
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (Mojang)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 533 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\5ceb0381053f8d1b1e93183df213331ff72bbe27' , Expire: 1794342653)
+[2026-11-11 02:00:33] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "c0d52ec5c25448e4ad9bdf83dcba7e1a",
+  "name" : "gentech",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDM0MjYzNDkxNSwKICAicHJvZmlsZUlkIiA6ICJjMGQ1MmVjNWMyNTQ0OGU0YWQ5YmRmODNkY2JhN2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZW50ZWNoIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRjMDVhYjllMDdiMzUwNWRjM2VjMTEzNzBjM2JkY2U1NTcwYWQyZmIyYjU2MmU5YjlkZDljZjI3MWY4MWFhNDQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
+[2026-11-11 02:00:42] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request http://161.35.130.99/capes/GenTech.png (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-11-11 02:00:42] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-11 02:00:42] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: GenTech's profile loaded. (10005ms)
+[2026-11-11 02:00:42] [GenTech <81ae0a7f-3f33-4b17-bd80-deace985557f>/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44 , Model: default , CapeUrl: null  , Expiry: 1794342672)
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: Loading GenTech2385's profile.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 1/11 Try to load profile from 'GameProfile'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 2/11 Try to load profile from 'Mojang'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 3/11 Try to load profile from 'LittleSkin'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 4/11 Try to load profile from 'BlessingSkin'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 5/11 Try to load profile from 'ElyBy'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 6/11 Try to load profile from 'TLauncher'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 7/11 Try to load profile from 'GlitchlessGames'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 8/11 Try to load profile from 'LocalSkin'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 9/11 Try to load profile from 'MinecraftCapes'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 10/11 Try to load profile from 'OptiFine'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: 11/11 Try to load profile from 'CloakPlus'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/GenTech2385.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/GenTech2385.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/GenTech2385' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/INFO] [CustomSkinLoader Core]: Payload: ["GenTech2385"]
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/GenTech2385' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=GenTech2385' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\d33871c4600abdeb933c8f4e669e2f954c85d81a' , Expire: 1794345280)
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\d33871c4600abdeb933c8f4e669e2f954c85d81a'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (ElyBy)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/GenTech2385.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/GenTech2385.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=GenTech2385 (Exception: java.net.UnknownHostException: games.glitchless.ru)
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 88 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\45bee3fca367d5b57cb9e1dd591035c725c3ad54' , Expire: 1794342962)
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_gentech2385.png"}}
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\pc\AppData\Roaming\.minecraft\versions\Fabulously Optimized Fabulously.Optimized-13.6.0\CustomSkinLoader\caches\db21e1ce158ab5dc2534e26bb4e96c7622fb8d68' , Expire: 1794342963)
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-11 02:04:28] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (Mojang)/INFO] [CustomSkinLoader Core]: Profile not found.(GenTech2385's profile not found.)
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft' with user agent 'CustomSkinLoader/15.1 (Minecraft/26.1.2; Fabric/0.19.5; Java/25.0.1)'.
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Payload: ["GenTech2385"]
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-11-11 02:04:29] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2026-11-11 02:04:38] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request http://161.35.130.99/capes/GenTech2385.png (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-11-11 02:04:38] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-11 02:04:38] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: GenTech2385's profile loaded. (10010ms)
+[2026-11-11 02:04:38] [GenTech2385 <f688d053-0fe9-4c86-961c-797be0512c62>/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_gentech2385.png , Model: default , CapeUrl: null  , Expiry: 1794342908)
